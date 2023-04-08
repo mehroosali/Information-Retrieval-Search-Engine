@@ -1,0 +1,213 @@
+/* form container */
+@import url('https://fonts.googleapis.com/css2?family=Nunito:wght@400;700&display=swap');
+body {
+    font-family: 'Nunito', sans-serif;
+    /* background-image: url('/Users/abhijeet/Downloads/dalle1.png'); */
+    
+    }
+#form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    font-family: Arial, sans-serif;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0px 0px 15px 0px rgba(0, 0, 0, 0.2);
+    background-color: #f2f2f2;
+    max-width: 500px;
+    margin: 0 auto;
+  }
+  
+  /* form title */
+  #form h2 {
+    font-size: 28px;
+    margin-bottom: 20px;
+    text-align: center;
+  }
+  
+  /* input fields */
+  #UserInput {
+    font-size: 16px;
+    padding: 4px;
+    border-radius: 5px;
+    border: none;
+    box-shadow: 0px 0px 5px 0px rgba(0, 0, 0, 0.2);
+    margin-bottom: 5px;
+    width: 100%;
+  }
+  
+  /* radio buttons */
+  [type="radio"] {
+    display: none;
+  }
+  
+  [type="radio"] + label {
+    font-size: 16px;
+    margin-right: 20px;
+    cursor: pointer;
+  }
+  
+  [type="radio"] + label:before {
+    content: "";
+    display: inline-block;
+    width: 16px;
+    height: 16px;
+    margin-right: 5px;
+    border-radius: 50%;
+    border: 2px solid #ccc;
+  }
+  
+  [type="radio"]:checked + label:before {
+    background-color: #007bff;
+    border-color: #007bff;
+    box-shadow: inset 0 0 0 2px #fff;
+  }
+  
+  /* search button */
+  #srch {
+    font-size: 20px;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    background-color: #007bff;
+    color: #fff;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+  
+  #srch:hover {
+    background-color: #0062cc;
+  }
+  .options label {
+    display: inline-block;
+    margin-right: 10px;
+  }  
+
+
+.result-title {
+    font-size: 1.2rem; /* increase font size */
+    font-weight: bold; /* make text bold */
+  }
+.search-box:focus-within {
+    box-shadow: 3px 3px 6px rgba(0, 0, 0, 0.2);
+    transform: translateY(-5px);
+
+}
+
+/* .container {
+    display: flex; */
+    /* flex-wrap: wrap; */
+    /* flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .card {
+    width: 90%;
+    margin: 20px;
+    padding: 20px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+    border-radius: 10px;
+    background-image: linear-gradient(to bottom right, #f2f2f2, #d9d9d9);
+    transition: transform 0.2s ease-in-out;
+  }
+  .card:hover {
+    transform: translateY(-10px); 
+  }
+  
+  .card-title {
+    font-size: 1.5rem;
+    font-weight: bold;
+    margin-bottom: 10px;
+    color: #555;
+  }
+  
+  .card-content {
+    font-size: 1.2rem;
+    line-height: 1.5;
+    margin-bottom: 10px;
+    color: #333; 
+  }
+  
+  .card-link {
+    display: inline-block;
+    font-size: 1.2rem;
+    color: #1e90ff;
+    text-decoration: none;
+    transition: all 0.2s ease-in-out;
+  }
+  
+  .card-link:hover {
+    color: #004e8a;
+  }
+  
+   */
+   .container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: flex-start;
+  }
+  
+  .card {
+    width: 60%;
+    margin: 20px;
+    padding: 20px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+    border-radius: 10px;
+    background-color: #fff;
+    display: flex;
+    flex-direction: column;
+    transition: transform 0.2s ease-in-out;
+  }
+  
+  .card:hover {
+    transform: translateY(-10px);
+  }
+  
+  .card-title {
+    font-size: 1.2rem;
+    font-weight: bold;
+    margin-bottom: 10px;
+    color: #1a0dab;
+  }
+  
+  .card-content {
+    font-size: 1.1rem;
+    margin-bottom: 10px;
+    color: #545454;
+  }
+  
+  .card-link {
+    display: block;
+    font-size: 1rem;
+    color: #1a0dab;
+    text-decoration: none;
+    margin-top: auto;
+    transition: all 0.2s ease-in-out;
+  }
+  
+  .card-link:hover {
+    color: #006621;
+  }
+  iframe {
+    display: block;
+    width: 100%;
+    max-width: 90%;
+    height:800px;
+    max-height:1000px;
+    margin: 0 auto;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 15px 0 rgba(0, 0, 0, 0.2);
+    background-color: #f2f2f2;
+  }
+  
+  iframe#google {
+    margin-bottom: 20px;
+  }
+  
+  iframe#bing {
+    margin-top: 20px;
+  }
