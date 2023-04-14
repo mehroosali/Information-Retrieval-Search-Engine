@@ -21,4 +21,6 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
-results/*
+results/solr_data.json
+results/inlinks_webgraph
+test.py
