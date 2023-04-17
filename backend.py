@@ -4,6 +4,7 @@ from flask_cors import CORS
 import json
 from clustering import Clustering
 from urllib.parse import urlparse
+import QE
 
 app = Flask(__name__)
 app.config["DEBUG"] = True
@@ -24,7 +25,9 @@ def main():
         query = request.args['query']
         solr_query = 'text:' + query
 
+    print(f"qe: {solr_query}")
     solr_results = get_results_from_solr(solr_query)
+    
 
     rm =  request.args['rm'] if 'rm' in request.args else ''
     co =  request.args['co'] if 'co' in request.args else ''
@@ -34,6 +37,9 @@ def main():
         solr_results = get_relevance_model_results(rm, solr_results)
     if(len(co) != 0):
         solr_results = get_clustering_result(query, co, solr_results)
+    if(len(qe) != 0):
+        #print(f"qe: {qe}")
+        solr_results = get_query_expansion_result(query, qe, solr_results)
 
     return jsonify(solr_results)
 
@@ -53,7 +59,8 @@ def get_results_from_solr(query):
 
         if len(solr_results) < 50:
             return solr_results
-        
+        #print(f"Curr Count: {solr_results}")
+
         elements = {}
         new_results = []
         for res in solr_results:
@@ -77,7 +84,8 @@ def get_results_from_solr(query):
 
 def get_relevance_model_results(rm, solr_results):
     rm = rm.replace('"', '')
-
+    
+    print(f"qet: {rm}")
     if rm == "page_rank":
         return get_page_rank_results(solr_results)
     else:
@@ -109,5 +117,24 @@ def get_clustering_result(query, clustering_type, solr_results):
         return cluster.flat_Clustering(query, solr_results)
     else:
         return cluster.hierarchical_clustering(query, solr_results)
+    
+def get_query_expansion_result(query, query_expansion_type, solr_results):
+    query = query.replace('"', '')
+    query_expansion_type = query_expansion_type.replace('"', '')
+    expanded_query=""
+    if query_expansion_type == "Association":
+        expanded_query = QE.association_main(query, solr_results)
+    elif query_expansion_type == "Metric": 
+        expanded_query = QE.metric_cluster_main(query, solr_results)
+    elif query_expansion_type == "Scalar": 
+        expanded_query = QE.scalar_main(query, solr_results)
+    expanded_query = " ".join(expanded_query.split())
+    # Remove duplicates
+    words = expanded_query.split()
+    unique_words = list(dict.fromkeys(words))
+    expanded_query = " ".join(unique_words)
+    expanded_query = '"'+expanded_query+'"'
+    print(f"qet: {expanded_query}")
+    return get_results_from_solr('text:'+expanded_query)
     
 app.run()
