@@ -123,7 +123,7 @@ def association_main(query, solr_results):
     #print(association_list)
 
     i=0;
-    while(i<3):
+    while(i<2):
         query += ' '+str(association_list[i][0])
         i +=1
     #print(query)
@@ -266,7 +266,7 @@ def metric_cluster_main(query, solr_results=[]):
     metric_clusters2 = [elem for cluster in metric_clusters for elem in cluster]
     metric_clusters2.sort(key=lambda x:x.value,reverse=True)
     i=0;
-    while(i<3):
+    while(i<1):
         query += ' '+ str(metric_clusters2[i].v)
         i+=1
     print(query)  
@@ -355,7 +355,8 @@ def Create_Scalar_Clustering(results, Query_String ):
                 max_cos = cos
                 max_index = j
         # print(max_cos)
-        Query.append(Doc_Terms[max_index]+" "+Doc_Terms[max_index-1]+" "+Doc_Terms[max_index-2])
+        #Query.append(Doc_Terms[max_index]+" "+Doc_Terms[max_index-1]+" "+Doc_Terms[max_index-2])
+        Query.append(Doc_Terms[max_index])
         # print("similar term for",Doc_Terms[i], "is:",  Doc_Terms[max_index])
     return " ".join(Query)
                 

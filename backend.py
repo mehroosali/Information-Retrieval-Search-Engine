@@ -39,7 +39,7 @@ def main():
         solr_results = get_clustering_result(query, co, solr_results)
     if(len(qe) != 0):
         #print(f"qe: {qe}")
-        solr_results = get_query_expansion_result(query, qe, solr_results)
+        solr_results = get_query_expansion_result(query, qe, get_relevance_model_results('page_rank',solr_results))
 
     return jsonify(solr_results)
 
@@ -128,6 +128,7 @@ def get_query_expansion_result(query, query_expansion_type, solr_results):
         expanded_query = QE.metric_cluster_main(query, solr_results)
     elif query_expansion_type == "Scalar": 
         expanded_query = QE.scalar_main(query, solr_results)
+    print(expanded_query)
     expanded_query = " ".join(expanded_query.split())
     # Remove duplicates
     words = expanded_query.split()
@@ -135,6 +136,10 @@ def get_query_expansion_result(query, query_expansion_type, solr_results):
     expanded_query = " ".join(unique_words)
     expanded_query = '"'+expanded_query+'"'
     print(f"qet: {expanded_query}")
-    return get_results_from_solr('text:'+expanded_query)
+    results_from_solr = get_results_from_solr('text:'+expanded_query)
+    string_to_append = {
+    "expanded_query":expanded_query}
+    results_from_solr.append(string_to_append)
+    return results_from_solr
     
 app.run()
