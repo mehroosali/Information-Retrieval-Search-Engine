@@ -9,54 +9,29 @@ function App() {
   document.title = "Search Engine";
   const [text, setText] = useState("");
   const [data, setData] = useState([]);
+  const [relevanceOption, setRelevanceOption] = useState("");
+  const [clusteringOption, setClusteringOption] = useState("");
+  const [queryExpOption, setQueryExpOption] = useState("");
 
-  const dummydata = [
-    {
-      tstamp: "2023-03-05T02:34:43.119Z",
-      digest: "3eadbda6b298dc05f5aa4162fc5cfc58",
-      boost: 1.0,
-      id: "https://bakesbybrownsugar.com/category/desserts/",
-      title: "Delicious Dessert Recipes - Bakes by Brown Sugar",
-      url: "https://bakesbybrownsugar.com/category/desserts/",
-      content: "Delicious Dessert Recipes - Bakes by Brown Sugar\n",
-      _version_: 1759493524310458368,
-    },
-    {
-      tstamp: "2023-03-05T02:34:42.825Z",
-      digest: "0839a9fdae6d8c1e65e3526c1efa0430",
-      boost: 1.0,
-      id: "https://butteryourbiscuit.com/category/dessert/",
-      title: "Dessert - Butter Your Biscuit",
-      url: "https://butteryourbiscuit.com/category/dessert/",
-      content: "Dessert - Butter Your Biscuit\n",
-      _version_: 1759493524312555520,
-    },
-    {
-      tstamp: "2023-03-05T02:34:43.126Z",
-      digest: "acb41c8c8efc3b25d8906f73c58c666b",
-      boost: 1.0,
-      id: "https://celebratingsweets.com/recipe-index/",
-      title: "Recipe Index - Celebrating Sweets",
-      url: "https://celebratingsweets.com/recipe-index/",
-      content: "Recipe Index - Celebrating Sweets\n",
-      _version_: 1759493524313604096,
-    },
-  ];
+  
 
   const getResponseFromApi = (event) => {
     if (event.key === "Enter") {
+      console.log("inside getResponseFromApi");
+
       axios
         .get(api_url, {
           params: {
             query: text,
           },
         })
-        .then((response) => setData(response.data));
+        .then((response) => setData(response.data.slice(0, 25)));
     }
   };
 
   const handleSearch = (event) => {
     event.preventDefault();
+    
     const input = document.getElementById("UserInput").value;
 
     // Build the URLs for Google and Bing search
@@ -64,18 +39,40 @@ function App() {
       "https://www.google.com/search?igu=1&source=hp&ei=lheWXriYJ4PktQXN-LPgDA&q=" +
       input;
     const bingUrl = "https://www.bing.com/search?q=" + input;
+    console.log("inside handleSearch");
 
     // Set the URLs as the sources for the iframes
     document.getElementById("google").src = googleUrl;
     document.getElementById("bing").src = bingUrl;
     // Call the API to get the search results
+    let params = {
+      query: text,
+    };
+  
+    if (relevanceOption === "page_rank") {
+      params.rm = "page_rank";
+    } else if (relevanceOption === "hits") {
+      params.rm = "hits";
+    }
+  
+    if (clusteringOption === "flat_clustering") {
+      params.co = "flat";
+    } else if (clusteringOption === "hierarchical_clustering") {
+      params.co = "hierarchical";
+    }
+
+    if (queryExpOption === "association_qe") {
+      params.qe = "association";
+    } else if (queryExpOption === "scalar_qe") {
+      params.qe = "scalar";
+    } else if (queryExpOption==="metric_qe"){
+      params.qe="metric"
+    }
+    console.log("below are the params")
+    console.log(params)
     axios
-      .get(api_url, {
-        params: {
-          query: input,
-        },
-      })
-      .then((response) => setData(response.data));
+      .get(api_url, { params })
+      .then((response) => setData(response.data.slice(0, 25)));
   };
 
   return (
@@ -100,8 +97,10 @@ function App() {
             type="radio"
             // checked
             id="page_rank"
-            name="type"
+            name="rm"
             value="page_rank"
+            checked={relevanceOption === "page_rank"}
+            onChange={(e) => setRelevanceOption(e.target.value)}
           />
           <label id="page_rank_label" htmlFor="page_rank">
             Page Rank
@@ -109,9 +108,11 @@ function App() {
           <input
             type="radio"
             id="hits"
-            name="type"
+            name="rm"
             value="hits"
             className="margin"
+            checked={relevanceOption === "hits"}
+            onChange={(e) => setRelevanceOption(e.target.value)}
           />
           <label id="hits_label" htmlFor="hits">
             HITS
@@ -125,8 +126,10 @@ function App() {
           <input
             type="radio"
             id="flat_clustering"
-            name="type"
+            name="co"
             value="flat_clustering"
+            checked={clusteringOption === "flat_clustering"}
+            onChange={(e) => setClusteringOption(e.target.value)}
           />
           <label id="flat_clustering_label" htmlFor="flat_clustering">
             Flat Clustering
@@ -134,9 +137,11 @@ function App() {
           <input
             type="radio"
             id="hierarchical_clustering"
-            name="type"
+            name="co"
             value="hierarchical_clustering"
             className="margin"
+            checked={clusteringOption === "hierarchical_clustering"}
+            onChange={(e) => setClusteringOption(e.target.value)}
           />
           <label
             id="hierarchical_clustering_label"
@@ -153,18 +158,22 @@ function App() {
           <input
             type="radio"
             id="association_qe"
-            name="type"
+            name="qe"
             value="association_qe"
+            checked={queryExpOption === "association_qe"}
+            onChange={(e) => setQueryExpOption(e.target.value)}
           />
           <label id="association_qe_label" htmlFor="association_qe">
             Association
           </label>
-          <input type="radio" id="metric_qe" name="type" value="metric_qe" />
+          <input type="radio" id="metric_qe" name="qe" value="metric_qe" checked={queryExpOption === "metric_qe"}
+            onChange={(e) => setQueryExpOption(e.target.value)}/>
           <label id="metric_qe_label" htmlFor="metric_qe">
             Metric
           </label>
-          <input type="radio" id="scalar_qe" name="type" value="scalar_qe" />
-          <label id="scalar_qe_label" htmlFor="query_expansion">
+          <input type="radio" id="scalar_qe" name="qe" value="scalar_qe" checked={queryExpOption === "scalar_qe"}
+            onChange={(e) => setQueryExpOption(e.target.value)}/>
+          <label id="scalar_qe_label" htmlFor="scalar_qe">
             Scalar
           </label>
         </div>
@@ -175,14 +184,14 @@ function App() {
           type="submit"
           // value="Search"
           value="Search"
-          onSubmit={(e) => getResponseFromApi(e)}
+          onSubmit={(e) => handleSearch(e)}
         />
         <hr />
       </form>
 
       {/* data && data.map((item) => <p>{item.title}</p>) */}
       <div className="container">
-        {dummydata.map((item) => (
+        {data.map((item) => (
           <div className="card" key={item.id}>
             <h2 className="card-title">{item.title}</h2>
             <p className="card-content">{item.content}</p>
