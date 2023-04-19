@@ -13,7 +13,7 @@ CORS(app)
 solr_url_local = 'http://localhost:8983/solr/nutch'
 solr_url_ec2 = 'http://ec2-54-152-69-118.compute-1.amazonaws.com:8983/solr/nutch'
 
-solr = Solr(solr_url_ec2, always_commit=True)
+solr = Solr(solr_url_local, always_commit=True)
 
 cluster = Clustering()
 
@@ -23,9 +23,11 @@ def main():
 
     if 'query' in request.args:
         query = request.args['query']
-        solr_query = 'text:' + query
+        if(query[0] == "\""):
+            solr_query = 'text:' + query
+        else:
+            solr_query = "text:" + "\"" + query + "\""
 
-    print(f"qe: {solr_query}")
     solr_results = get_results_from_solr(solr_query)
     
 
@@ -38,8 +40,7 @@ def main():
     if(len(co) != 0):
         solr_results = get_clustering_result(query, co, solr_results)
     if(len(qe) != 0):
-        #print(f"qe: {qe}")
-        solr_results = get_query_expansion_result(query, qe, get_relevance_model_results('page_rank',solr_results))
+        solr_results = get_query_expansion_result(query, qe, solr_results)
 
     return jsonify(solr_results)
 
@@ -59,7 +60,6 @@ def get_results_from_solr(query):
 
         if len(solr_results) < 50:
             return solr_results
-        #print(f"Curr Count: {solr_results}")
 
         elements = {}
         new_results = []
@@ -73,7 +73,7 @@ def get_results_from_solr(query):
                     elements[domain] = 1
                     new_results.append(res)
         curr_count = len(new_results)
-        print(f"Curr Count: {curr_count}")
+        #print(f"Curr Count: {curr_count}")
 
         if curr_count >= 50:
             return new_results[:50]
@@ -83,9 +83,8 @@ def get_results_from_solr(query):
     return solr_results
 
 def get_relevance_model_results(rm, solr_results):
+    print("In Relevance Model")
     rm = rm.replace('"', '')
-    
-    print(f"qet: {rm}")
     if rm == "page_rank":
         return get_page_rank_results(solr_results)
     else:
@@ -111,6 +110,7 @@ def get_hits_rank_results(solr_results):
     return sorted(solr_results, key=lambda x: hits_rank_dict.get(x['url'], 0))
 
 def get_clustering_result(query, clustering_type, solr_results):
+    print("In Clustering Options")
     clustering_type = clustering_type.replace('"', '')
 
     if clustering_type == "flat":
@@ -119,14 +119,16 @@ def get_clustering_result(query, clustering_type, solr_results):
         return cluster.hierarchical_clustering(query, solr_results)
     
 def get_query_expansion_result(query, query_expansion_type, solr_results):
+    print("In Query Expansion")
     query = query.replace('"', '')
     query_expansion_type = query_expansion_type.replace('"', '')
     expanded_query=""
-    if query_expansion_type == "Association":
+    print(query_expansion_type)
+    if query_expansion_type == "association":
         expanded_query = QE.association_main(query, solr_results)
-    elif query_expansion_type == "Metric": 
+    elif query_expansion_type == "metric": 
         expanded_query = QE.metric_cluster_main(query, solr_results)
-    elif query_expansion_type == "Scalar": 
+    elif query_expansion_type == "scalar": 
         expanded_query = QE.scalar_main(query, solr_results)
     print(expanded_query)
     expanded_query = " ".join(expanded_query.split())

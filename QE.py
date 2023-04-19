@@ -109,7 +109,6 @@ def association_main(query, solr_results):
     tokens_map = {}
     # tokens_map = collections.OrderedDict()
     document_ids = []
-    print('222222222222222222222222222222222222222222222')
     for result in results:
         tokens_this_document = tokenize_doc(result['content'], stop_words)
         tokens_map[result['digest']] = tokens_this_document
@@ -122,7 +121,7 @@ def association_main(query, solr_results):
     association_list.sort(key = lambda x: x[2],reverse=True)
     #print(association_list)
 
-    i=0;
+    i=0
     while(i<2):
         query += ' '+str(association_list[i][0])
         i +=1

@@ -24,3 +24,4 @@ yarn-error.log*
 results/solr_data.json
 results/inlinks_webgraph
 test.py
+__pycache__

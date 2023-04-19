@@ -194,7 +194,7 @@ function App() {
         {data.map((item) => (
           <div className="card" key={item.id}>
             <h2 className="card-title">{item.title}</h2>
-            <p className="card-content">{item.content}</p>
+            <p className="card-content">{item.content.slice(0,100)}</p>
             <a
               className="card-link"
               href={item.url}
