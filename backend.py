@@ -5,6 +5,7 @@ import json
 from clustering import Clustering
 from urllib.parse import urlparse
 import QE
+import random
 
 app = Flask(__name__)
 app.config["DEBUG"] = True
@@ -47,6 +48,17 @@ def main():
 def get_domain(url):
     return urlparse(url).netloc
 
+def randomize_result(results):
+    batch_size = 10
+    new_results = results[:2]
+
+    for idx in range(2, len(results), batch_size):
+        data = results[idx: idx + batch_size]
+        random.shuffle(data)
+        new_results.extend(data)
+
+    return new_results
+
 def get_results_from_solr(query):
     num_rows = 50
     curr_count = 0
@@ -59,7 +71,7 @@ def get_results_from_solr(query):
         solr_results = [result for result in solr_response]
 
         if len(solr_results) < 50:
-            return solr_results
+            return randomize_result(solr_results)
 
         elements = {}
         new_results = []
@@ -76,14 +88,14 @@ def get_results_from_solr(query):
         #print(f"Curr Count: {curr_count}")
 
         if curr_count >= 50:
-            return new_results[:50]
+            return randomize_result(new_results[:50])
         
         num_rows *= 2
 
-    return solr_results
+    
+    return randomize_result(solr_results)
 
 def get_relevance_model_results(rm, solr_results):
-    print("In Relevance Model")
     rm = rm.replace('"', '')
     if rm == "page_rank":
         return get_page_rank_results(solr_results)
@@ -110,7 +122,6 @@ def get_hits_rank_results(solr_results):
     return sorted(solr_results, key=lambda x: hits_rank_dict.get(x['url'], 0))
 
 def get_clustering_result(query, clustering_type, solr_results):
-    print("In Clustering Options")
     clustering_type = clustering_type.replace('"', '')
 
     if clustering_type == "flat":
