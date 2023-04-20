@@ -65,7 +65,6 @@ def randomize_result(results):
 def get_results_from_solr(query):
     num_rows = 50
     curr_count = 0
-
     while curr_count < 50:
         solr_response = solr.search(query, search_handler="/select", **{
             "wt": "json",
@@ -73,6 +72,8 @@ def get_results_from_solr(query):
         })
         solr_results = [result for result in solr_response]
 
+        if num_rows > 10000:
+            return randomize_result(solr_results)
         if len(solr_results) < 50:
             return randomize_result(solr_results)
 
