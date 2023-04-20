@@ -41,9 +41,12 @@ def main():
     if(len(co) != 0):
         solr_results = get_clustering_result(query, co, solr_results)
     if(len(qe) != 0):
-        solr_results = get_query_expansion_result(query, qe, solr_results)
-
-    return jsonify(solr_results)
+        new_query, solr_results = get_query_expansion_result(query, qe, solr_results)
+    
+    results = {}
+    results['query'] = query if len(qe) == 0 else new_query
+    results['query_results'] = solr_results
+    return jsonify(results)
 
 def get_domain(url):
     return urlparse(url).netloc
@@ -150,9 +153,7 @@ def get_query_expansion_result(query, query_expansion_type, solr_results):
     expanded_query = '"'+expanded_query+'"'
     print(f"qet: {expanded_query}")
     results_from_solr = get_results_from_solr('text:'+expanded_query)
-    string_to_append = {
-    "expanded_query":expanded_query}
-    results_from_solr.append(string_to_append)
-    return results_from_solr
+    
+    return expanded_query, results_from_solr
     
 app.run()
