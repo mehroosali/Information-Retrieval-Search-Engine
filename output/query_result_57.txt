@@ -1,0 +1,38 @@
+Query: shave ice
+
+Solr Results
+https://www.thelittleepicurean.com/2017/06/shoyu-pulled-pork-sliders.html
+https://neverendingjourneys.com/2020/01/05/kauai-budget-travel-guide-14-things-to-do-budget-tips/
+http://www.dianasdesserts.com/index.cfm/fuseaction/recipes.recipeListing/filter/dianas/recipeID/3034/Recipe.cfm
+https://neverendingjourneys.com/2022/01/01/oahu-travel-guide/
+https://diythrill.com/2019/08/06/kauai-travel-guide/
+https://neverendingjourneys.com/2021/07/25/west-coast-weekend-getaways/
+https://thefrugalgirls.com/2016/06/summer-skin-care-routine.html
+https://thefrugalgirls.com/2013/05/beach-party-tips.html
+https://neverendingjourneys.com/2022/07/10/itinerary-for-hawaii/
+https://www.thelittleepicurean.com/2017/06/halo-halo.html
+
+
+Flat Clustering Results: 
+https://neverendingjourneys.com/2020/01/05/kauai-budget-travel-guide-14-things-to-do-budget-tips/
+https://neverendingjourneys.com/2022/01/01/oahu-travel-guide/
+https://diythrill.com/2019/08/06/kauai-travel-guide/
+https://neverendingjourneys.com/2021/07/25/west-coast-weekend-getaways/
+https://thefrugalgirls.com/2016/06/summer-skin-care-routine.html
+https://neverendingjourneys.com/2022/07/10/itinerary-for-hawaii/
+https://www.thelittleepicurean.com/2017/06/halo-halo.html
+https://www.thelittleepicurean.com/2017/06/shoyu-pulled-pork-sliders.html
+https://thefrugalgirls.com/2013/05/beach-party-tips.html
+http://www.dianasdesserts.com/index.cfm/fuseaction/recipes.recipeListing/filter/dianas/recipeID/3034/Recipe.cfm
+
+Hierarchial Clustering Results: 
+https://www.thelittleepicurean.com/2017/06/shoyu-pulled-pork-sliders.html
+https://neverendingjourneys.com/2020/01/05/kauai-budget-travel-guide-14-things-to-do-budget-tips/
+http://www.dianasdesserts.com/index.cfm/fuseaction/recipes.recipeListing/filter/dianas/recipeID/3034/Recipe.cfm
+https://neverendingjourneys.com/2022/01/01/oahu-travel-guide/
+https://diythrill.com/2019/08/06/kauai-travel-guide/
+https://neverendingjourneys.com/2021/07/25/west-coast-weekend-getaways/
+https://thefrugalgirls.com/2016/06/summer-skin-care-routine.html
+https://thefrugalgirls.com/2013/05/beach-party-tips.html
+https://neverendingjourneys.com/2022/07/10/itinerary-for-hawaii/
+https://www.thelittleepicurean.com/2017/06/halo-halo.html

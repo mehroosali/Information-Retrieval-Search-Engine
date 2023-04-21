@@ -23,7 +23,7 @@ def main():
     solr_query = '*'
 
     if 'query' in request.args:
-        query = request.args['query']
+        query = (request.args['query']).lower()
         if(query[0] == "\""):
             solr_query = 'text:' + query
         else:

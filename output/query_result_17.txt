@@ -1,0 +1,50 @@
+Query: homemade Biscuits
+
+Solr Results
+https://sallysbakingaddiction.com/flaky-buttermilk-biscuits/
+https://www.culinaryhill.com/comments/feed/
+https://www.imperialsugar.com/recipes/lemon-coconut-quick-bread
+http://scarboroughfoodfair.blogspot.com/2012/06/rhubarb-ginger-compote.html
+https://www.julieseatsandtreats.com/category/recipes/bread/
+https://thefrugalgirls.com/2010/09/how-to-make-homemade-peach-butter.html
+https://theliveinkitchen.com/feed/
+https://thefrugalgirls.com/2015/02/crockpot-chicken-and-dumplings-recipe.html
+https://30seconds.com/food/tip/56872/Tender-Sourdough-Biscuits-Recipe-This-Easy-Sourdough-Discard-Recipe-Is-Genius
+https://cooking.nytimes.com/68861692-nyt-cooking/1045989-muffins-scones-and-biscuits-oh-my
+https://www.inspiredtaste.net/55628/homemade-biscuits/
+https://www.livewellbakeoften.com/category/breakfast/scones-biscuits/feed/
+http://scarboroughfoodfair.blogspot.com/2012/06/
+https://www.inspiredtaste.net/56217/easy-cheese-drop-biscuits/
+
+
+Flat Clustering Results: 
+http://scarboroughfoodfair.blogspot.com/2012/06/rhubarb-ginger-compote.html
+https://cooking.nytimes.com/68861692-nyt-cooking/1045989-muffins-scones-and-biscuits-oh-my
+https://sallysbakingaddiction.com/flaky-buttermilk-biscuits/
+https://www.julieseatsandtreats.com/category/recipes/bread/
+https://thefrugalgirls.com/2010/09/how-to-make-homemade-peach-butter.html
+https://theliveinkitchen.com/feed/
+https://thefrugalgirls.com/2015/02/crockpot-chicken-and-dumplings-recipe.html
+https://30seconds.com/food/tip/56872/Tender-Sourdough-Biscuits-Recipe-This-Easy-Sourdough-Discard-Recipe-Is-Genius
+https://www.inspiredtaste.net/55628/homemade-biscuits/
+https://www.livewellbakeoften.com/category/breakfast/scones-biscuits/feed/
+https://www.imperialsugar.com/recipes/lemon-coconut-quick-bread
+http://scarboroughfoodfair.blogspot.com/2012/06/
+https://www.inspiredtaste.net/56217/easy-cheese-drop-biscuits/
+https://www.culinaryhill.com/comments/feed/
+
+Hierarchial Clustering Results: 
+https://sallysbakingaddiction.com/flaky-buttermilk-biscuits/
+https://www.culinaryhill.com/comments/feed/
+http://scarboroughfoodfair.blogspot.com/2012/06/rhubarb-ginger-compote.html
+https://www.julieseatsandtreats.com/category/recipes/bread/
+https://thefrugalgirls.com/2010/09/how-to-make-homemade-peach-butter.html
+https://theliveinkitchen.com/feed/
+https://thefrugalgirls.com/2015/02/crockpot-chicken-and-dumplings-recipe.html
+https://cooking.nytimes.com/68861692-nyt-cooking/1045989-muffins-scones-and-biscuits-oh-my
+https://www.inspiredtaste.net/55628/homemade-biscuits/
+http://scarboroughfoodfair.blogspot.com/2012/06/
+https://www.inspiredtaste.net/56217/easy-cheese-drop-biscuits/
+https://www.livewellbakeoften.com/category/breakfast/scones-biscuits/feed/
+https://www.imperialsugar.com/recipes/lemon-coconut-quick-bread
+https://30seconds.com/food/tip/56872/Tender-Sourdough-Biscuits-Recipe-This-Easy-Sourdough-Discard-Recipe-Is-Genius

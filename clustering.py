@@ -71,13 +71,14 @@ class Clustering:
     def flat_Clustering(self, query, results):
         sorted_clusters = self.compute_distance(query, 'flat')
         values = {}
+        not_imp_urls = []
         for res in results:
             url = res['url']
             if url in self.url_clusterNum_flat:
                 cluster_num = int(self.url_clusterNum_flat[url])
             else:
-                print("URL Doesn't exists in collection.")
-                return results
+                not_imp_urls.append(res)
+        
             if cluster_num in values:
                 values[cluster_num].append(res)
             else:
@@ -87,23 +88,24 @@ class Clustering:
         for cluster_num in sorted_clusters:
             if cluster_num in values:
                 new_results.extend(values[cluster_num])
+
+        new_results.extend(not_imp_urls)
         return new_results
 
     def hierarchical_clustering(self, query, results):
         sorted_clusters = self.compute_distance(query, 'flat')
         values = {}
-        clusters_numbers = []
+        not_imp_urls = []
         for res in results:
             if res['url'] in self.url_clusterNum_hac:
                 cluster_num = int(self.url_clusterNum_hac[res['url']])
             else:
-                print("URL Doesn't exists in collection.")
-                return results
+                not_imp_urls.append(res)
+
             if cluster_num in values:
                 values[cluster_num].append(res)
             else:
                 values[cluster_num] = [res]
-                clusters_numbers.append(cluster_num)
         
         new_results = []
 
@@ -111,4 +113,5 @@ class Clustering:
             if cluster_num in values:
                 new_results.extend(values[cluster_num])
 
+        new_results.extend(not_imp_urls)
         return new_results

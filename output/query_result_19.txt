@@ -1,0 +1,11 @@
+Query: cake receipe
+
+Solr Results
+http://www.dianasdesserts.com/index.cfm/fuseaction/recipes.recipeListing/filter/dianas/recipeID/670/Recipe.cfm
+
+
+Flat Clustering Results: 
+http://www.dianasdesserts.com/index.cfm/fuseaction/recipes.recipeListing/filter/dianas/recipeID/670/Recipe.cfm
+
+Hierarchial Clustering Results: 
+http://www.dianasdesserts.com/index.cfm/fuseaction/recipes.recipeListing/filter/dianas/recipeID/670/Recipe.cfm
