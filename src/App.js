@@ -32,6 +32,8 @@ function App() {
 
   const handleSearch = (event) => {
     event.preventDefault();
+    setData([])
+    setQeResult("")
     setLoading(true);
     // Call the API to get the search results
     let params = {
