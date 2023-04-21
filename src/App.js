@@ -2,6 +2,7 @@ import "./App.css";
 import React, { useState } from "react";
 import axios from "axios";
 import "./styles.css";
+import ClipLoader from "react-spinners/ClipLoader";
 
 const api_url = "http://localhost:5000/api";
 
@@ -13,11 +14,10 @@ function App() {
   const [clusteringOption, setClusteringOption] = useState("");
   const [queryExpOption, setQueryExpOption] = useState("");
   const [qeResult, setQeResult] = useState("");
+  const [loading, setLoading] = useState(false);
 
   const getResponseFromApi = (event) => {
     if (event.key === "Enter") {
-      console.log("inside getResponseFromApi");
-
       axios
         .get(api_url, {
           params: {
@@ -28,25 +28,11 @@ function App() {
           setData(response.data.query_results.slice(0, 25));
         });
     }
-    console.log("query is ");
-    console.log("123", { qeResult });
   };
 
   const handleSearch = (event) => {
     event.preventDefault();
-
-    const input = document.getElementById("UserInput").value;
-
-    // Build the URLs for Google and Bing search
-    const googleUrl =
-      "https://www.google.com/search?igu=1&source=hp&ei=lheWXriYJ4PktQXN-LPgDA&q=" +
-      input;
-    const bingUrl = "https://www.bing.com/search?q=" + input;
-    console.log("inside handleSearch");
-
-    // Set the URLs as the sources for the iframes
-    document.getElementById("google").src = googleUrl;
-    document.getElementById("bing").src = bingUrl;
+    setLoading(true);
     // Call the API to get the search results
     let params = {
       query: text,
@@ -66,29 +52,49 @@ function App() {
 
     if (queryExpOption === "association_qe") {
       params.qe = "association";
-      //document.getElementById("qexp").style.display="block";
     } else if (queryExpOption === "scalar_qe") {
       params.qe = "scalar";
-      //document.getElementById("qexp").style.display="block";
     } else if (queryExpOption === "metric_qe") {
       params.qe = "metric";
-      //document.getElementById("qexp").style.display="block";
     }
-    console.log("below are the params");
-    console.log(params);
     if ("qe" in params) {
       document.getElementById("qexp").style.display = "block";
     } else {
       document.getElementById("qexp").style.display = "none";
     }
     axios.get(api_url, { params }).then((response) => {
+      
       setData(response.data.query_results.slice(0, 25));
-      setQeResult(response.data.query);
-    });
+      setLoading(false);
+      if ("qe" in params) {
+      handleQEResults(response.data.query)
+      } else {
+        displayBingAndGoogle(response.data.query)
+    }
+    })
   };
+
+  const displayBingAndGoogle = (query) => {
+            // Build the URLs for Google and Bing search
+    const googleUrl =
+      "https://www.google.com/search?igu=1&source=hp&ei=lheWXriYJ4PktQXN-LPgDA&q=" +
+      query;
+    const bingUrl = "https://www.bing.com/search?q=" + query;
+
+    // Set the URLs as the sources for the iframes
+    document.getElementById("google").src = googleUrl;
+    document.getElementById("bing").src = bingUrl;
+  }
+
+  const handleQEResults = (expanded_query) => {
+    expanded_query = expanded_query.replace(/"/g, '');
+    setQeResult(expanded_query);
+    displayBingAndGoogle(expanded_query)
+  }
 
   return (
     <div className="App">
+    
       <h1>Sweets Search Engine</h1>
       <form id="form" onSubmit={handleSearch}>
         <input
@@ -274,7 +280,16 @@ function App() {
       </div>
 
       <div className="container">
-        {data.map((item) => (
+        <div className="spinner">
+              <ClipLoader
+        color="#ffffff"
+        loading={loading}
+        size={50}
+        aria-label="Loading Spinner"
+        data-testid="loader"
+      />
+        </div>
+        { data.map((item) => (
           <div className="card" key={item.id}>
             <h2 className="card-title">{item.title}</h2>
             <p className="card-content">{item.content.slice(0, 100)}</p>
@@ -287,7 +302,8 @@ function App() {
               Read more
             </a>
           </div>
-        ))}
+        ))
+      }
       </div>
       <h1>Bing Search Results</h1>
 
