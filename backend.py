@@ -12,7 +12,7 @@ app.config["DEBUG"] = True
 CORS(app)
 
 solr_url_local = 'http://localhost:8983/solr/nutch'
-solr_url_ec2 = 'http://ec2-54-152-69-118.compute-1.amazonaws.com:8983/solr/nutch'
+solr_url_ec2 = 'http://ec2-44-195-249-49.compute-1.amazonaws.com:8983/solr/nutch'
 
 solr = Solr(solr_url_ec2, always_commit=True)
 

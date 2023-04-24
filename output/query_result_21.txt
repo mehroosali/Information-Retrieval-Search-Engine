@@ -3,45 +3,45 @@ Query: Italian cakes
 Solr Results
 https://www.tasteatlas.com/50-most-popular-cakes-in-italy
 https://www.tasteatlas.com/best-rated-cakes-in-italy
-https://www.tasteatlas.com/worst-rated-cakes-in-denmark
-https://smackeral.com/web-stories/italian-hangover-cake/
+https://www.tasteatlas.com/worst-rated-cakes-in-scandinavia
+https://www.tasteatlas.com/worst-rated-cakes-in-southeastern-europe
 https://www.tasteatlas.com/worst-rated-fish-dishes-in-italy
-https://www.tasteatlas.com/most-popular-cakes-in-romania
+https://smackeral.com/web-stories/italian-hangover-cake/
 https://www.tasteatlas.com/most-popular-cakes-in-africa
 https://www.tasteatlas.com/most-popular-cakes-in-province-of-ferrara
-https://www.tasteatlas.com/worst-rated-cakes-in-southeastern-europe
-https://www.tasteatlas.com/worst-rated-cakes-in-scandinavia
-https://www.tasteatlas.com/most-popular-prosciutti-jamones-jambons-in-italy
+https://www.tasteatlas.com/worst-rated-cakes-in-denmark
 https://www.tasteatlas.com/most-popular-cakes-in-southern-germany
+https://www.tasteatlas.com/most-popular-prosciutti-jamones-jambons-in-italy
+https://www.tasteatlas.com/most-popular-cakes-in-romania
 http://www.dianasdesserts.com/index.cfm/fuseaction/recipes.recipeListing/filter/dianas/recipeID/6110/Recipe.cfm
 
 
 Flat Clustering Results: 
 https://www.tasteatlas.com/50-most-popular-cakes-in-italy
 https://www.tasteatlas.com/best-rated-cakes-in-italy
-https://www.tasteatlas.com/worst-rated-cakes-in-denmark
+https://www.tasteatlas.com/worst-rated-cakes-in-scandinavia
+https://www.tasteatlas.com/worst-rated-cakes-in-southeastern-europe
 https://www.tasteatlas.com/worst-rated-fish-dishes-in-italy
-https://www.tasteatlas.com/most-popular-cakes-in-romania
 https://www.tasteatlas.com/most-popular-cakes-in-africa
 https://www.tasteatlas.com/most-popular-cakes-in-province-of-ferrara
-https://www.tasteatlas.com/worst-rated-cakes-in-southeastern-europe
-https://www.tasteatlas.com/worst-rated-cakes-in-scandinavia
-https://www.tasteatlas.com/most-popular-prosciutti-jamones-jambons-in-italy
+https://www.tasteatlas.com/worst-rated-cakes-in-denmark
 https://www.tasteatlas.com/most-popular-cakes-in-southern-germany
+https://www.tasteatlas.com/most-popular-prosciutti-jamones-jambons-in-italy
+https://www.tasteatlas.com/most-popular-cakes-in-romania
 https://smackeral.com/web-stories/italian-hangover-cake/
 http://www.dianasdesserts.com/index.cfm/fuseaction/recipes.recipeListing/filter/dianas/recipeID/6110/Recipe.cfm
 
 Hierarchial Clustering Results: 
 https://www.tasteatlas.com/50-most-popular-cakes-in-italy
 https://www.tasteatlas.com/best-rated-cakes-in-italy
-https://www.tasteatlas.com/worst-rated-cakes-in-denmark
-https://smackeral.com/web-stories/italian-hangover-cake/
+https://www.tasteatlas.com/worst-rated-cakes-in-scandinavia
+https://www.tasteatlas.com/worst-rated-cakes-in-southeastern-europe
 https://www.tasteatlas.com/worst-rated-fish-dishes-in-italy
-https://www.tasteatlas.com/most-popular-cakes-in-romania
+https://smackeral.com/web-stories/italian-hangover-cake/
 https://www.tasteatlas.com/most-popular-cakes-in-africa
 https://www.tasteatlas.com/most-popular-cakes-in-province-of-ferrara
-https://www.tasteatlas.com/worst-rated-cakes-in-southeastern-europe
-https://www.tasteatlas.com/worst-rated-cakes-in-scandinavia
+https://www.tasteatlas.com/worst-rated-cakes-in-denmark
 https://www.tasteatlas.com/most-popular-cakes-in-southern-germany
+https://www.tasteatlas.com/most-popular-cakes-in-romania
 http://www.dianasdesserts.com/index.cfm/fuseaction/recipes.recipeListing/filter/dianas/recipeID/6110/Recipe.cfm
 https://www.tasteatlas.com/most-popular-prosciutti-jamones-jambons-in-italy

@@ -4,7 +4,7 @@ import random
 from urllib.parse import urlparse
 
 solr_url_local = 'http://localhost:8983/solr/nutch'
-solr_url_ec2 = 'http://ec2-54-152-69-118.compute-1.amazonaws.com:8983/solr/nutch'
+solr_url_ec2 = 'http://ec2-44-195-249-49.compute-1.amazonaws.com:8983/solr/nutch'
 
 class Testing:
     def __init__(self):
@@ -18,13 +18,13 @@ class Testing:
                             "panna cotta", "peanut butter cookie", "Praline", "Sorbet", "Souffle", "Truffle", "Oreo", "Pecan Pie", 
                             "Banana pudding", "Baked Alaska", "Buckeyes", "S'mores", "Bananas foster", "Swiss roll", "shave ice", "churro", "tiramisu"]
         self.cluster = Clustering()
-        self.solr = Solr(solr_url_local, always_commit=True)
+        self.solr = Solr(solr_url_ec2, always_commit=True)
 
     def get_urls_from_result(self, results):
         urls = []
         for result in results:
             urls.append(result['url'])  
-        return urls
+        return urls[:15]
 
     def execute(self):
 
