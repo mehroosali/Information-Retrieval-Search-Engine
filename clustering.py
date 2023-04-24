@@ -93,7 +93,7 @@ class Clustering:
         return new_results
 
     def hierarchical_clustering(self, query, results):
-        sorted_clusters = self.compute_distance(query, 'flat')
+        sorted_clusters = self.compute_distance(query, 'hac')
         values = {}
         not_imp_urls = []
         for res in results:
