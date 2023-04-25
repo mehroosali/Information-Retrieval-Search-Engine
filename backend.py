@@ -130,11 +130,12 @@ def get_clustering_result(query, clustering_type, solr_results):
 
     if clustering_type == "flat":
         return cluster.flat_Clustering(query, solr_results)
+    elif clustering_type == 'single':
+        return cluster.hierarchical_clustering_single(query, solr_results)
     else:
-        return cluster.hierarchical_clustering(query, solr_results)
+        return cluster.hierarchical_clustering_average(query, solr_results)
     
 def get_query_expansion_result(query, query_expansion_type, solr_results):
-    print("In Query Expansion")
     query = query.replace('"', '')
     query_expansion_type = query_expansion_type.replace('"', '')
     expanded_query=""
