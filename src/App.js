@@ -58,8 +58,10 @@ function App() {
 
     if (clusteringOption === "flat_clustering") {
       params.co = "flat";
-    } else if (clusteringOption === "hierarchical_clustering") {
-      params.co = "hierarchical";
+    } else if (clusteringOption === "single-HAC_clustering") {
+      params.co = "single";
+    }else if(clusteringOption==="average-HAC_clustering"){
+      params.co="average"
     }
 
     if (queryExpOption === "association_qe") {
@@ -220,15 +222,15 @@ function App() {
             }}
           />
           <label id="flat_clustering_label" htmlFor="flat_clustering">
-            Flat Clustering
+            Flat
           </label>
           <input
             type="radio"
-            id="hierarchical_clustering"
+            id="single-HAC_clustering"
             name="co"
-            value="hierarchical_clustering"
+            value="single-HAC_clustering"
             className="margin"
-            checked={clusteringOption === "hierarchical_clustering"}
+            checked={clusteringOption === "single-HAC_clustering"}
             onClick={(e) => {
               if (clusteringOption === e.target.value) {
                 setClusteringOption("");
@@ -239,10 +241,28 @@ function App() {
             }}
           />
           <label
-            id="hierarchical_clustering_label"
-            htmlFor="hierarchical_clustering"
+            id="single-HAC_clustering_label"
+            htmlFor="single-HAC_clustering"
           >
-            Hierarchical Clustering
+            Single-HAC
+          </label>
+          <input
+            type="radio"
+            id="average-HAC_clustering"
+            name="co"
+            value="average-HAC_clustering"
+            checked={clusteringOption === "average-HAC_clustering"}
+            onClick={(e) => {
+              if (clusteringOption === e.target.value) {
+                setClusteringOption("");
+                e.target.checked = false;
+              } else {
+                setClusteringOption(e.target.value);
+              }
+            }}
+          />
+          <label id="average-HAC_clustering_label" htmlFor="average-HAC_clustering">
+          Average-HAC
           </label>
         </div>
 
