@@ -14,7 +14,7 @@ CORS(app)
 solr_url_local = 'http://localhost:8983/solr/nutch'
 solr_url_ec2 = 'http://ec2-44-195-249-49.compute-1.amazonaws.com:8983/solr/nutch'
 
-solr = Solr(solr_url_ec2, always_commit=True)
+solr = Solr(solr_url_local, always_commit=True)
 
 cluster = Clustering()
 
@@ -139,14 +139,12 @@ def get_query_expansion_result(query, query_expansion_type, solr_results):
     query = query.replace('"', '')
     query_expansion_type = query_expansion_type.replace('"', '')
     expanded_query=""
-    print(query_expansion_type)
     if query_expansion_type == "association":
         expanded_query = QE.association_main(query, solr_results)
     elif query_expansion_type == "metric": 
         expanded_query = QE.metric_cluster_main(query, solr_results)
     elif query_expansion_type == "scalar": 
         expanded_query = QE.scalar_main(query, solr_results)
-    print(expanded_query)
     expanded_query = " ".join(expanded_query.split())
     # Remove duplicates
     words = expanded_query.split()

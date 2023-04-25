@@ -40,7 +40,7 @@ function App() {
     setData([]);
     setQeResult("");
     setLoading(true);
-
+    setQeVisible(false);
     const qexpElement = document.getElementById("qexp");
     if (qexpElement) {
       qexpElement.style.display = "none";
@@ -71,22 +71,23 @@ function App() {
     } else if (queryExpOption === "metric_qe") {
       params.qe = "metric";
     }
-    try {
-      if ("qe" in params) {
-        setQeVisible(true);
-        // document.getElementById("qexp").style.display = "block";
-      } else {
-        // document.getElementById("qexp").style.display = "none";
-        setQeVisible(false);
-      }
-    } catch (error) {
-      console.log(error);
-    }
+    // try {
+    //   if ("qe" in params) {
+    //     setQeVisible(true);
+    //     // document.getElementById("qexp").style.display = "block";
+    //   } else {
+    //     // document.getElementById("qexp").style.display = "none";
+    //     setQeVisible(false);
+    //   }
+    // } catch (error) {
+    //   console.log(error);
+    // }
 
     axios.get(api_url, { params }).then((response) => {
       setData(response.data.query_results.slice(0, 25));
       setLoading(false);
       if ("qe" in params) {
+        setQeVisible(true);
         handleQEResults(response.data.query);
       } else {
         setGoogleUrl(
