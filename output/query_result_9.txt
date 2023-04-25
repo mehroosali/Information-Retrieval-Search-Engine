@@ -3,51 +3,68 @@ Query: carrot cake
 Solr Results
 https://www.theansweriscake.com/tag/carrot-cake-recipe/feed/
 https://www.theansweriscake.com/tag/carrot-cake/feed/
-https://www.chocolatemoosey.com/carrot-cake-cupcakes-small-batch/
 https://www.chocolatemoosey.com/carrot-cake-cheesecake-sundaysupper/
 https://www.chocolatemoosey.com/small-carrot-cake-recipe/
 https://joyfoodsunshine.com/web-stories/carrot-cake-cupcakes-story/
-https://joyfoodsunshine.com/web-stories/best-carrot-cake-recipe-story/
 https://icecreaminspiration.com/super-easy-carrot-cake-recipe/
 https://lovefoodies.com/spiced-pecan-carrot-cake/
-https://celebratingsweets.com/web-stories/carrot-cake-with-brown-butter-frosting/
+https://joyfoodsunshine.com/web-stories/best-carrot-cake-recipe-story/
 http://www.theansweriscake.com/carrot-cake-recipes/
+https://celebratingsweets.com/web-stories/carrot-cake-with-brown-butter-frosting/
+https://www.chocolatemoosey.com/carrot-cake-cupcakes-small-batch/
 https://www.theansweriscake.com/carrot-cake-recipes/
 https://lifemadesweeter.com/carrot-cake-loaf/
-https://bellyfull.net/carrot-cake/feed/
+https://sallysbakingaddiction.com/carrot-cake-cupcakes/feed/
 https://lovefoodies.com/spiced-pecan-carrot-cake/feed/
 
 
 Flat Clustering Results: 
 https://www.theansweriscake.com/tag/carrot-cake-recipe/feed/
 https://www.theansweriscake.com/tag/carrot-cake/feed/
-https://www.chocolatemoosey.com/carrot-cake-cupcakes-small-batch/
 https://www.chocolatemoosey.com/carrot-cake-cheesecake-sundaysupper/
 https://www.chocolatemoosey.com/small-carrot-cake-recipe/
 https://joyfoodsunshine.com/web-stories/carrot-cake-cupcakes-story/
-https://joyfoodsunshine.com/web-stories/best-carrot-cake-recipe-story/
 https://lovefoodies.com/spiced-pecan-carrot-cake/
-https://celebratingsweets.com/web-stories/carrot-cake-with-brown-butter-frosting/
+https://joyfoodsunshine.com/web-stories/best-carrot-cake-recipe-story/
 http://www.theansweriscake.com/carrot-cake-recipes/
+https://celebratingsweets.com/web-stories/carrot-cake-with-brown-butter-frosting/
+https://www.chocolatemoosey.com/carrot-cake-cupcakes-small-batch/
 https://www.theansweriscake.com/carrot-cake-recipes/
 https://lifemadesweeter.com/carrot-cake-loaf/
-https://bellyfull.net/carrot-cake/feed/
 https://lovefoodies.com/spiced-pecan-carrot-cake/feed/
-https://www.shugarysweets.com/carrot-cake-cheesecake-cake/comment-page-11/
+https://bellyfull.net/carrot-cake/feed/
+https://cooking.nytimes.com/recipes/1015523-carrot-cake
 
-Hierarchial Clustering Results: 
+Single Hierarchial Clustering Results: 
 https://www.theansweriscake.com/tag/carrot-cake-recipe/feed/
 https://www.theansweriscake.com/tag/carrot-cake/feed/
-https://www.chocolatemoosey.com/carrot-cake-cupcakes-small-batch/
 https://www.chocolatemoosey.com/carrot-cake-cheesecake-sundaysupper/
 https://www.chocolatemoosey.com/small-carrot-cake-recipe/
 https://joyfoodsunshine.com/web-stories/carrot-cake-cupcakes-story/
-https://joyfoodsunshine.com/web-stories/best-carrot-cake-recipe-story/
 https://icecreaminspiration.com/super-easy-carrot-cake-recipe/
 https://lovefoodies.com/spiced-pecan-carrot-cake/
-https://celebratingsweets.com/web-stories/carrot-cake-with-brown-butter-frosting/
+https://joyfoodsunshine.com/web-stories/best-carrot-cake-recipe-story/
 http://www.theansweriscake.com/carrot-cake-recipes/
+https://celebratingsweets.com/web-stories/carrot-cake-with-brown-butter-frosting/
+https://www.chocolatemoosey.com/carrot-cake-cupcakes-small-batch/
+https://www.theansweriscake.com/carrot-cake-recipes/
 https://lifemadesweeter.com/carrot-cake-loaf/
-https://bellyfull.net/carrot-cake/feed/
+https://sallysbakingaddiction.com/carrot-cake-cupcakes/feed/
+https://lovefoodies.com/spiced-pecan-carrot-cake/feed/
+
+Average Hierarchial Clustering Results: 
+https://www.theansweriscake.com/tag/carrot-cake-recipe/feed/
+https://www.theansweriscake.com/tag/carrot-cake/feed/
+https://www.chocolatemoosey.com/carrot-cake-cheesecake-sundaysupper/
+https://www.chocolatemoosey.com/small-carrot-cake-recipe/
+https://joyfoodsunshine.com/web-stories/carrot-cake-cupcakes-story/
+https://icecreaminspiration.com/super-easy-carrot-cake-recipe/
+https://lovefoodies.com/spiced-pecan-carrot-cake/
+https://joyfoodsunshine.com/web-stories/best-carrot-cake-recipe-story/
+http://www.theansweriscake.com/carrot-cake-recipes/
+https://celebratingsweets.com/web-stories/carrot-cake-with-brown-butter-frosting/
+https://www.chocolatemoosey.com/carrot-cake-cupcakes-small-batch/
+https://lifemadesweeter.com/carrot-cake-loaf/
+https://sallysbakingaddiction.com/carrot-cake-cupcakes/feed/
 https://lovefoodies.com/spiced-pecan-carrot-cake/feed/
 https://www.thelittleepicurean.com/2019/04/carrot-cake-cinnamon-rolls.html

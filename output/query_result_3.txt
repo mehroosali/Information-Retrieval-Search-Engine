@@ -11,7 +11,12 @@ https://www.cs.cmu.edu/~mjw/recipes/dessert/icecream/icrm-coll.html
 https://www.cs.cmu.edu/~mjw/recipes/dessert/icecream/mp-icrm-coll-1.html
 http://www.dianasdesserts.com/index.cfm/fuseaction/recipes.recipeListing/filter/dianas/recipeID/6178/Recipe.cfm
 
-Hierarchial Clustering Results: 
+Single Hierarchial Clustering Results: 
+https://www.cs.cmu.edu/~mjw/recipes/dessert/icecream/icrm-coll.html
+http://www.dianasdesserts.com/index.cfm/fuseaction/recipes.recipeListing/filter/dianas/recipeID/6178/Recipe.cfm
+https://www.cs.cmu.edu/~mjw/recipes/dessert/icecream/mp-icrm-coll-1.html
+
+Average Hierarchial Clustering Results: 
 https://www.cs.cmu.edu/~mjw/recipes/dessert/icecream/icrm-coll.html
 http://www.dianasdesserts.com/index.cfm/fuseaction/recipes.recipeListing/filter/dianas/recipeID/6178/Recipe.cfm
 https://www.cs.cmu.edu/~mjw/recipes/dessert/icecream/mp-icrm-coll-1.html

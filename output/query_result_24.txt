@@ -3,51 +3,68 @@ Query: Caramel Popcorn
 Solr Results
 https://www.chocolatemoosey.com/caramel-popcorn/feed/
 https://butterwithasideofbread.com/better-than-caramel-popcorn/
-https://www.fairtradeamerica.org/shop-fairtrade/all-products/lilys-sweets-dark-chocolate-caramel-popcorn-3-5-oz/
 https://littlesunnykitchen.com/caramel-popcorn/
-https://www.livewellbakeoften.com/caramel-popcorn/
-https://littlesunnykitchen.com/category/meal/snacks/feed/
-https://www.chocolatemoosey.com/caramel-popcorn/
-https://www.chocolatemoosey.com/buffalo-ranch-caramel-popcorn/feed/
 https://www.chocolatemoosey.com/smores-caramel-popcorn/
-https://www.chocolatemoosey.com/buffalo-ranch-caramel-popcorn/
+https://littlesunnykitchen.com/category/meal/snacks/feed/
 https://www.chocolatemoosey.com/category/appetizers-and-party-foods/popcorn-and-snacks/
 https://www.chocolatemoosey.com/category/appetizers-and-party-foods/popcorn-and-snacks/feed/
-https://www.chocolatemoosey.com/caramel-apple-butter-popcorn/
-https://www.chocolatemoosey.com/press/
-https://www.chocolatemoosey.com/gingerbread-popcorn-snack-mix/
+https://www.fairtradeamerica.org/shop-fairtrade/all-products/lilys-sweets-dark-chocolate-caramel-popcorn-3-5-oz/
+https://www.chocolatemoosey.com/buffalo-ranch-caramel-popcorn/
+https://www.livewellbakeoften.com/caramel-popcorn/
+https://www.chocolatemoosey.com/buffalo-ranch-caramel-popcorn/feed/
+https://www.chocolatemoosey.com/caramel-popcorn/
+https://rough-hill-1800.ck.page/posts/best-super-bowl-snacks
+https://www.chocolatemoosey.com/category/appetizers-and-party-foods/
+https://www.christinascucina.com/category/special-diets/vegan/page/3/
 
 
 Flat Clustering Results: 
 https://www.chocolatemoosey.com/caramel-popcorn/feed/
 https://butterwithasideofbread.com/better-than-caramel-popcorn/
-https://www.fairtradeamerica.org/shop-fairtrade/all-products/lilys-sweets-dark-chocolate-caramel-popcorn-3-5-oz/
 https://littlesunnykitchen.com/caramel-popcorn/
-https://www.chocolatemoosey.com/buffalo-ranch-caramel-popcorn/feed/
 https://www.chocolatemoosey.com/smores-caramel-popcorn/
 https://www.chocolatemoosey.com/category/appetizers-and-party-foods/popcorn-and-snacks/feed/
+https://www.fairtradeamerica.org/shop-fairtrade/all-products/lilys-sweets-dark-chocolate-caramel-popcorn-3-5-oz/
+https://www.chocolatemoosey.com/buffalo-ranch-caramel-popcorn/feed/
 https://www.chocolatemoosey.com/gingerbread-popcorn-snack-mix/
-https://www.brandeating.com/2018/02/
 https://www.brandeating.com/2017/07/
 https://www.bakeat350.net/2017/07/trader-joes-caramel-ginger-popcorn-review.html
 https://www.fairtradeamerica.org/
+https://www.brandeating.com/2018/02/
 https://traveltriangle.com/blog/fifa-world-cup-2022/
 https://www.chocolatemoosey.com/caramel-apple-butter-popcorn/
 https://www.chocolatemoosey.com/press/
 
-Hierarchial Clustering Results: 
+Single Hierarchial Clustering Results: 
 https://www.chocolatemoosey.com/caramel-popcorn/feed/
 https://butterwithasideofbread.com/better-than-caramel-popcorn/
 https://littlesunnykitchen.com/caramel-popcorn/
-https://littlesunnykitchen.com/category/meal/snacks/feed/
-https://www.chocolatemoosey.com/caramel-popcorn/
-https://www.chocolatemoosey.com/buffalo-ranch-caramel-popcorn/feed/
 https://www.chocolatemoosey.com/smores-caramel-popcorn/
-https://www.chocolatemoosey.com/buffalo-ranch-caramel-popcorn/
+https://littlesunnykitchen.com/category/meal/snacks/feed/
 https://www.chocolatemoosey.com/category/appetizers-and-party-foods/popcorn-and-snacks/
 https://www.chocolatemoosey.com/category/appetizers-and-party-foods/popcorn-and-snacks/feed/
-https://www.chocolatemoosey.com/caramel-apple-butter-popcorn/
-https://www.chocolatemoosey.com/press/
-https://www.chocolatemoosey.com/gingerbread-popcorn-snack-mix/
+https://www.fairtradeamerica.org/shop-fairtrade/all-products/lilys-sweets-dark-chocolate-caramel-popcorn-3-5-oz/
+https://www.chocolatemoosey.com/buffalo-ranch-caramel-popcorn/
+https://www.livewellbakeoften.com/caramel-popcorn/
+https://www.chocolatemoosey.com/buffalo-ranch-caramel-popcorn/feed/
+https://www.chocolatemoosey.com/caramel-popcorn/
 https://rough-hill-1800.ck.page/posts/best-super-bowl-snacks
-http://www.yummytummyrecipeindex.com/2001/10/appam-sweet-bites.html
+https://www.chocolatemoosey.com/category/appetizers-and-party-foods/
+https://www.christinascucina.com/category/special-diets/vegan/page/3/
+
+Average Hierarchial Clustering Results: 
+https://www.chocolatemoosey.com/caramel-popcorn/feed/
+https://butterwithasideofbread.com/better-than-caramel-popcorn/
+https://littlesunnykitchen.com/caramel-popcorn/
+https://www.chocolatemoosey.com/smores-caramel-popcorn/
+https://littlesunnykitchen.com/category/meal/snacks/feed/
+https://www.chocolatemoosey.com/category/appetizers-and-party-foods/popcorn-and-snacks/
+https://www.chocolatemoosey.com/category/appetizers-and-party-foods/popcorn-and-snacks/feed/
+https://www.chocolatemoosey.com/buffalo-ranch-caramel-popcorn/
+https://www.chocolatemoosey.com/buffalo-ranch-caramel-popcorn/feed/
+https://www.chocolatemoosey.com/caramel-popcorn/
+https://rough-hill-1800.ck.page/posts/best-super-bowl-snacks
+https://www.christinascucina.com/category/special-diets/vegan/page/3/
+https://www.chocolatemoosey.com/tag/small-batch/
+https://www.chocolatemoosey.com/gingerbread-popcorn-snack-mix/
+https://www.chocolatemoosey.com/caramel-apple-butter-popcorn/

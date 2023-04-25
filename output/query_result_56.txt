@@ -3,51 +3,68 @@ Query: Swiss roll
 Solr Results
 https://lovefoodies.com/authentic-german-black-forest-swiss-roll-schwarzwalder-kirschtorte/
 https://drivemehungry.com/bakery-swiss-roll-cake-recipe/comment-page-3/
-http://www.dianasdesserts.com/index.cfm/fuseaction/recipes.recipeListing/filter/guests/recipeID/4019/Recipe.cfm
-https://www.christinascucina.com/yule-log-made-easily-delicious-and/comment-page-6/
 http://www.yummytummyrecipeindex.com/2013/11/pies-tart-crumbles-bars-rolls.html
-https://www.sprinklebakes.com/feed
 https://www.christinascucina.com/summer-berry-meringue-roulade/feed/
-https://www.christinascucina.com/yule-log-made-easily-delicious-and/comment-page-7/
-http://www.dianasdesserts.com/index.cfm/fuseaction/recipes.recipeListing/filter/dianas/recipeID/3094/Recipe.cfm
-https://www.christinascucina.com/yule-log-made-easily-delicious-and/
-https://drivemehungry.com/comments/feed/
 http://coloryourrecipes.com/brazilian-cuisine-inspired-recipes/
-https://www.thelittleepicurean.com/2018/07/cookies-and-cream-ice-cream-cake.html
+https://www.christinascucina.com/yule-log-made-easily-delicious-and/comment-page-7/
+https://www.christinascucina.com/yule-log-made-easily-delicious-and/comment-page-6/
+https://www.christinascucina.com/yule-log-made-easily-delicious-and/
+http://www.dianasdesserts.com/index.cfm/fuseaction/recipes.recipeListing/filter/dianas/recipeID/3094/Recipe.cfm
+https://drivemehungry.com/comments/feed/
+http://www.dianasdesserts.com/index.cfm/fuseaction/recipes.recipeListing/filter/guests/recipeID/4019/Recipe.cfm
+https://www.sprinklebakes.com/feed
+https://icecreamfromscratch.com/little-debbie-ice-cream/
 http://www.dianasdesserts.com/index.cfm/fuseaction/recipes.recipeListing/filter/dianas/recipeID/2122/Recipe.cfm
-http://www.zencancook.com/zenspotting/
+https://www.benandjerrys.ca/en/sitemap
 
 
 Flat Clustering Results: 
 https://drivemehungry.com/bakery-swiss-roll-cake-recipe/comment-page-3/
-https://londonist.com/2015/03/london-food-history-chelsea-buns
 https://doyouknowjapan.com/sushi/
+https://londonist.com/2015/03/london-food-history-chelsea-buns
 https://lovefoodies.com/authentic-german-black-forest-swiss-roll-schwarzwalder-kirschtorte/
-https://www.christinascucina.com/yule-log-made-easily-delicious-and/comment-page-6/
 https://www.christinascucina.com/yule-log-made-easily-delicious-and/comment-page-7/
+https://www.christinascucina.com/yule-log-made-easily-delicious-and/comment-page-6/
 https://www.christinascucina.com/yule-log-made-easily-delicious-and/
-http://www.dianasdesserts.com/index.cfm/fuseaction/recipes.recipeListing/filter/guests/recipeID/4019/Recipe.cfm
 http://www.yummytummyrecipeindex.com/2013/11/pies-tart-crumbles-bars-rolls.html
+http://www.dianasdesserts.com/index.cfm/fuseaction/recipes.recipeListing/filter/guests/recipeID/4019/Recipe.cfm
 https://www.sprinklebakes.com/feed
+https://icecreamfromscratch.com/little-debbie-ice-cream/
 http://www.dianasdesserts.com/index.cfm/fuseaction/recipes.recipeListing/filter/dianas/recipeID/2122/Recipe.cfm
-http://www.zencancook.com/zenspotting/
-https://www.christinascucina.com/summer-berry-meringue-roulade/
 https://www.benandjerrys.ca/en/sitemap
+http://www.dianasdesserts.com/index.cfm/fuseaction/recipes.recipeListing/filter/dianas/recipeID/3368/Recipe.cfm
 https://www.christinascucina.com/summer-berry-meringue-roulade/comment-page-3/
 
-Hierarchial Clustering Results: 
+Single Hierarchial Clustering Results: 
 https://lovefoodies.com/authentic-german-black-forest-swiss-roll-schwarzwalder-kirschtorte/
 https://drivemehungry.com/bakery-swiss-roll-cake-recipe/comment-page-3/
-http://www.dianasdesserts.com/index.cfm/fuseaction/recipes.recipeListing/filter/guests/recipeID/4019/Recipe.cfm
-https://www.christinascucina.com/yule-log-made-easily-delicious-and/comment-page-6/
 http://www.yummytummyrecipeindex.com/2013/11/pies-tart-crumbles-bars-rolls.html
 https://www.christinascucina.com/summer-berry-meringue-roulade/feed/
-http://www.dianasdesserts.com/index.cfm/fuseaction/recipes.recipeListing/filter/dianas/recipeID/3094/Recipe.cfm
-https://www.christinascucina.com/yule-log-made-easily-delicious-and/
-https://drivemehungry.com/comments/feed/
 http://coloryourrecipes.com/brazilian-cuisine-inspired-recipes/
-https://www.thelittleepicurean.com/2018/07/cookies-and-cream-ice-cream-cake.html
+https://www.christinascucina.com/yule-log-made-easily-delicious-and/comment-page-7/
+https://www.christinascucina.com/yule-log-made-easily-delicious-and/comment-page-6/
+https://www.christinascucina.com/yule-log-made-easily-delicious-and/
+http://www.dianasdesserts.com/index.cfm/fuseaction/recipes.recipeListing/filter/dianas/recipeID/3094/Recipe.cfm
+https://drivemehungry.com/comments/feed/
+http://www.dianasdesserts.com/index.cfm/fuseaction/recipes.recipeListing/filter/guests/recipeID/4019/Recipe.cfm
+https://www.sprinklebakes.com/feed
+https://icecreamfromscratch.com/little-debbie-ice-cream/
 http://www.dianasdesserts.com/index.cfm/fuseaction/recipes.recipeListing/filter/dianas/recipeID/2122/Recipe.cfm
-http://www.zencancook.com/zenspotting/
-https://www.christinascucina.com/summer-berry-meringue-roulade/
+https://www.benandjerrys.ca/en/sitemap
+
+Average Hierarchial Clustering Results: 
+https://lovefoodies.com/authentic-german-black-forest-swiss-roll-schwarzwalder-kirschtorte/
+https://drivemehungry.com/bakery-swiss-roll-cake-recipe/comment-page-3/
+http://www.yummytummyrecipeindex.com/2013/11/pies-tart-crumbles-bars-rolls.html
+https://www.christinascucina.com/summer-berry-meringue-roulade/feed/
+http://coloryourrecipes.com/brazilian-cuisine-inspired-recipes/
+https://www.christinascucina.com/yule-log-made-easily-delicious-and/comment-page-6/
+https://www.christinascucina.com/yule-log-made-easily-delicious-and/
+http://www.dianasdesserts.com/index.cfm/fuseaction/recipes.recipeListing/filter/dianas/recipeID/3094/Recipe.cfm
+https://drivemehungry.com/comments/feed/
+http://www.dianasdesserts.com/index.cfm/fuseaction/recipes.recipeListing/filter/guests/recipeID/4019/Recipe.cfm
+https://icecreamfromscratch.com/little-debbie-ice-cream/
+http://www.dianasdesserts.com/index.cfm/fuseaction/recipes.recipeListing/filter/dianas/recipeID/2122/Recipe.cfm
+https://www.benandjerrys.ca/en/sitemap
+http://www.dianasdesserts.com/index.cfm/fuseaction/recipes.recipeListing/filter/dianas/recipeID/3368/Recipe.cfm
 https://www.theansweriscake.com/lemon-cake-roll/

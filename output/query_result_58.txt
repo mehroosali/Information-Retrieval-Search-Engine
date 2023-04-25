@@ -3,19 +3,19 @@ Query: churro
 Solr Results
 https://celebratingsweets.com/churro-cheesecake/feed/
 https://www.chocolatemoosey.com/churro-ice-cream-sandwiches/
-https://www.bakeat350.net/2019/08/churro-ice-cream.html
 https://www.icecream.com/us/en/brands/haagen-dazs/products/dulce-de-leche-churro-ice-cream
-https://www.bakeat350.net/feeds/1850933542870555557/comments/default
-https://www.chocolatemoosey.com/churro-ice-cream-sandwiches/feed/
-https://thefirstyearblog.com/churro-cheesecake/feed/
-https://easydessertrecipes.com/churro-bundt-cake/
-https://easydessertrecipes.com/churro-french-toast/
 https://celebratingsweets.com/web-stories/churro-cheesecake/
+https://easydessertrecipes.com/churro-french-toast/
 https://wellsfoodservice.com/recipes/churro-sundae
+https://www.chocolatemoosey.com/churro-ice-cream-sandwiches/feed/
+https://www.bakeat350.net/2019/08/churro-ice-cream.html
+https://easydessertrecipes.com/churro-bundt-cake/
+https://thefirstyearblog.com/churro-cheesecake/feed/
+https://www.bakeat350.net/feeds/1850933542870555557/comments/default
 https://celebratingsweets.com/churro-cheesecake/
-https://www.icecream.com/us/en/brands/dreyers/products/churro-caramel-crossroads-ice-cream
+https://www.britannica.com/topic/churro
+https://thefirstyearblog.com/churro-cheesecake/
 https://www.shugarysweets.com/churros/
-https://www.britannica.com/facts/churro
 
 
 Flat Clustering Results: 
@@ -25,29 +25,46 @@ https://www.icecream.com/us/es/brands/haagen-dazs/products/dulce-de-leche-churro
 https://celebratingsweets.com/wp-json/web-stories/v1/web-story/28999
 https://www.eatthis.com/costco-food-court-hacks/
 https://www.brandeating.com/
-https://www.brandeating.com/2023/04/
 https://www.bluebunny.com/products/retired
-https://www.brandeating.com/p/current-menu-promotions.html
-http://www.dishingthedivine.com/tag/cupcake/
+https://www.brandeating.com/2023/04/
 https://www.brandeating.com/2018/08/
+http://www.dishingthedivine.com/tag/cupcake/
+https://www.brandeating.com/p/current-menu-promotions.html
 https://www.shugarysweets.com/churros/
-https://www.britannica.com/facts/churro
 https://easydessertrecipes.com/web-stories/easy-and-tasty-bread-recipes-story/
 http://www.feedyoursoul2.com/category/lunch/
+https://www.britannica.com/topic/churro/images-videos
 
-Hierarchial Clustering Results: 
+Single Hierarchial Clustering Results: 
 https://celebratingsweets.com/churro-cheesecake/feed/
-https://www.bakeat350.net/2019/08/churro-ice-cream.html
-https://www.bakeat350.net/feeds/1850933542870555557/comments/default
-https://www.chocolatemoosey.com/churro-ice-cream-sandwiches/feed/
-https://thefirstyearblog.com/churro-cheesecake/feed/
-https://easydessertrecipes.com/churro-bundt-cake/
-https://easydessertrecipes.com/churro-french-toast/
+https://www.chocolatemoosey.com/churro-ice-cream-sandwiches/
+https://www.icecream.com/us/en/brands/haagen-dazs/products/dulce-de-leche-churro-ice-cream
 https://celebratingsweets.com/web-stories/churro-cheesecake/
+https://easydessertrecipes.com/churro-french-toast/
 https://wellsfoodservice.com/recipes/churro-sundae
+https://www.chocolatemoosey.com/churro-ice-cream-sandwiches/feed/
+https://www.bakeat350.net/2019/08/churro-ice-cream.html
+https://easydessertrecipes.com/churro-bundt-cake/
+https://thefirstyearblog.com/churro-cheesecake/feed/
+https://www.bakeat350.net/feeds/1850933542870555557/comments/default
 https://celebratingsweets.com/churro-cheesecake/
-https://www.icecream.com/us/en/brands/dreyers/products/churro-caramel-crossroads-ice-cream
-https://easydessertrecipes.com/web-stories/easy-and-tasty-bread-recipes-story/
-https://www.icecream.com/us/en/brands/edys/products/churro-caramel-crossroads-ice-cream
+https://www.britannica.com/topic/churro
 https://thefirstyearblog.com/churro-cheesecake/
-https://easydessertrecipes.com/web-stories/the-best-bundt-recipes-story/
+https://www.shugarysweets.com/churros/
+
+Average Hierarchial Clustering Results: 
+https://celebratingsweets.com/churro-cheesecake/feed/
+https://celebratingsweets.com/web-stories/churro-cheesecake/
+https://easydessertrecipes.com/churro-french-toast/
+https://wellsfoodservice.com/recipes/churro-sundae
+https://www.chocolatemoosey.com/churro-ice-cream-sandwiches/feed/
+https://www.bakeat350.net/2019/08/churro-ice-cream.html
+https://easydessertrecipes.com/churro-bundt-cake/
+https://thefirstyearblog.com/churro-cheesecake/feed/
+https://www.bakeat350.net/feeds/1850933542870555557/comments/default
+https://celebratingsweets.com/churro-cheesecake/
+https://www.britannica.com/topic/churro
+https://thefirstyearblog.com/churro-cheesecake/
+https://www.icecream.com/us/en/brands/edys/products/churro-caramel-crossroads-ice-cream
+https://www.icecream.com/us/en/brands/dreyers/products/churro-caramel-crossroads-ice-cream
+https://celebratingsweets.com/wp-json/web-stories/v1/web-story/28999

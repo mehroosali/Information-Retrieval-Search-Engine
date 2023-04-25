@@ -3,51 +3,68 @@ Query: Chocolate sweets
 Solr Results
 http://www.dianasdesserts.com/index.cfm/fuseaction/recipes.categorylistings/categoryID/39/filter/guests/CategoryListings.cfm
 http://www.dianasdesserts.com/index.cfm/fuseaction/recipes.categorylistings/categoryID/39/filter/dianas/CategoryListings.cfm
+http://www.dianasdesserts.com/index.cfm/fuseaction/bakingtips.Spring/Spring.cfm
+http://www.dianasdesserts.com/index.cfm/fuseaction/bakingtips.Miniature/Miniature.cfm
 http://www.dianasdesserts.com/index.cfm/fuseaction/bakingtips.PoundCakes/PoundCakes.cfm
 http://www.dianasdesserts.com/index.cfm/fuseaction/bakingtips.ChineseNewYear/ChineseNewYear.cfm
-http://www.dianasdesserts.com/index.cfm/fuseaction/bakingtips.IceCreams/IceCreams.cfm
-http://www.dianasdesserts.com/index.cfm/fuseaction/bakingtips.Miniature/Miniature.cfm
-http://www.dianasdesserts.com/index.cfm/fuseaction/bakingtips.StPatricksDay/StPatricksDay.cfm
-http://www.dianasdesserts.com/index.cfm/fuseaction/bakingtips.main/BakingTips.cfm
-http://www.dianasdesserts.com/index.cfm/fuseaction/bakingtips.Spring/Spring.cfm
-http://www.dianasdesserts.com/index.cfm/fuseaction/recipes.front/
 http://www.dianasdesserts.com/index.cfm/fuseaction/bakingtips.diabetics/ForDiabetics.cfm
+http://www.dianasdesserts.com/index.cfm/fuseaction/bakingtips.StPatricksDay/StPatricksDay.cfm
 http://www.dianasdesserts.com/index.cfm/fuseaction/bakingtips.SpoonDesserts/SpoonDesserts.cfm
-http://www.dianasdesserts.com/index.cfm/fuseaction/bakingtips.quickandeasy/QuickandEasy.cfm
-http://www.dianasdesserts.com/index.cfm/fuseaction/bakingtips.CoffeeCakes/CoffeeCakes.cfm
+http://www.dianasdesserts.com/index.cfm/fuseaction/recipes.front/
+http://www.dianasdesserts.com/index.cfm/fuseaction/bakingtips.main/BakingTips.cfm
+http://www.dianasdesserts.com/index.cfm/fuseaction/bakingtips.IceCreams/IceCreams.cfm
+http://www.dianasdesserts.com/index.cfm/fuseaction/recipes.main/filter/guests/GuestRecipes.cfm
+http://www.dianasdesserts.com/index.cfm/fuseaction/recipes.categorylistings/categoryID/60/filter/guests/CategoryListings.cfm
 http://www.dianasdesserts.com/index.cfm/fuseaction/recipes.categorylistings/categoryID/34/filter/guests/CategoryListings.cfm
 
 
 Flat Clustering Results: 
 http://www.dianasdesserts.com/index.cfm/fuseaction/recipes.categorylistings/categoryID/39/filter/guests/CategoryListings.cfm
+http://www.dianasdesserts.com/index.cfm/fuseaction/bakingtips.Spring/Spring.cfm
+http://www.dianasdesserts.com/index.cfm/fuseaction/bakingtips.Miniature/Miniature.cfm
 http://www.dianasdesserts.com/index.cfm/fuseaction/bakingtips.PoundCakes/PoundCakes.cfm
 http://www.dianasdesserts.com/index.cfm/fuseaction/bakingtips.ChineseNewYear/ChineseNewYear.cfm
-http://www.dianasdesserts.com/index.cfm/fuseaction/bakingtips.IceCreams/IceCreams.cfm
-http://www.dianasdesserts.com/index.cfm/fuseaction/bakingtips.Miniature/Miniature.cfm
-http://www.dianasdesserts.com/index.cfm/fuseaction/bakingtips.StPatricksDay/StPatricksDay.cfm
-http://www.dianasdesserts.com/index.cfm/fuseaction/bakingtips.main/BakingTips.cfm
-http://www.dianasdesserts.com/index.cfm/fuseaction/bakingtips.Spring/Spring.cfm
-http://www.dianasdesserts.com/index.cfm/fuseaction/recipes.front/
 http://www.dianasdesserts.com/index.cfm/fuseaction/bakingtips.diabetics/ForDiabetics.cfm
+http://www.dianasdesserts.com/index.cfm/fuseaction/bakingtips.StPatricksDay/StPatricksDay.cfm
 http://www.dianasdesserts.com/index.cfm/fuseaction/bakingtips.SpoonDesserts/SpoonDesserts.cfm
-http://www.dianasdesserts.com/index.cfm/fuseaction/bakingtips.quickandeasy/QuickandEasy.cfm
-http://www.dianasdesserts.com/index.cfm/fuseaction/bakingtips.CoffeeCakes/CoffeeCakes.cfm
-http://www.dianasdesserts.com/index.cfm/fuseaction/recipes.categorylistings/categoryID/34/filter/guests/CategoryListings.cfm
+http://www.dianasdesserts.com/index.cfm/fuseaction/recipes.front/
+http://www.dianasdesserts.com/index.cfm/fuseaction/bakingtips.main/BakingTips.cfm
+http://www.dianasdesserts.com/index.cfm/fuseaction/bakingtips.IceCreams/IceCreams.cfm
+http://www.dianasdesserts.com/index.cfm/fuseaction/recipes.main/filter/guests/GuestRecipes.cfm
 http://www.dianasdesserts.com/index.cfm/fuseaction/recipes.categorylistings/categoryID/60/filter/guests/CategoryListings.cfm
+http://www.dianasdesserts.com/index.cfm/fuseaction/recipes.categorylistings/categoryID/34/filter/guests/CategoryListings.cfm
+http://www.dianasdesserts.com/index.cfm/fuseaction/recipes.categorylistings/categoryID/56/filter/guests/CategoryListings.cfm
 
-Hierarchial Clustering Results: 
+Single Hierarchial Clustering Results: 
+http://www.dianasdesserts.com/index.cfm/fuseaction/recipes.categorylistings/categoryID/39/filter/guests/CategoryListings.cfm
+http://www.dianasdesserts.com/index.cfm/fuseaction/recipes.categorylistings/categoryID/39/filter/dianas/CategoryListings.cfm
+http://www.dianasdesserts.com/index.cfm/fuseaction/bakingtips.Spring/Spring.cfm
+http://www.dianasdesserts.com/index.cfm/fuseaction/bakingtips.Miniature/Miniature.cfm
+http://www.dianasdesserts.com/index.cfm/fuseaction/bakingtips.PoundCakes/PoundCakes.cfm
+http://www.dianasdesserts.com/index.cfm/fuseaction/bakingtips.ChineseNewYear/ChineseNewYear.cfm
+http://www.dianasdesserts.com/index.cfm/fuseaction/bakingtips.diabetics/ForDiabetics.cfm
+http://www.dianasdesserts.com/index.cfm/fuseaction/bakingtips.StPatricksDay/StPatricksDay.cfm
+http://www.dianasdesserts.com/index.cfm/fuseaction/bakingtips.SpoonDesserts/SpoonDesserts.cfm
+http://www.dianasdesserts.com/index.cfm/fuseaction/recipes.front/
+http://www.dianasdesserts.com/index.cfm/fuseaction/bakingtips.main/BakingTips.cfm
+http://www.dianasdesserts.com/index.cfm/fuseaction/bakingtips.IceCreams/IceCreams.cfm
+http://www.dianasdesserts.com/index.cfm/fuseaction/recipes.main/filter/guests/GuestRecipes.cfm
+http://www.dianasdesserts.com/index.cfm/fuseaction/recipes.categorylistings/categoryID/60/filter/guests/CategoryListings.cfm
+http://www.dianasdesserts.com/index.cfm/fuseaction/recipes.categorylistings/categoryID/34/filter/guests/CategoryListings.cfm
+
+Average Hierarchial Clustering Results: 
 http://www.dianasdesserts.com/index.cfm/fuseaction/recipes.categorylistings/categoryID/59/filter/guests/CategoryListings.cfm
-http://www.dianasdesserts.com/index.cfm/fuseaction/recipes.recipeListing/filter/guests/recipeID/2320/Recipe.cfm
 http://www.dianasdesserts.com/index.cfm/fuseaction/recipes.recipeListing/filter/guests/recipeID/1550/Recipe.cfm
+http://www.dianasdesserts.com/index.cfm/fuseaction/recipes.recipeListing/filter/guests/recipeID/2320/Recipe.cfm
 http://www.dianasdesserts.com/index.cfm/fuseaction/recipes.recipeListing/filter/guests/recipeID/487/Recipe.cfm
 http://www.dianasdesserts.com/index.cfm/fuseaction/recipes.recipeListing/filter/guests/recipeID/6507/Recipe.cfm
 http://www.dianasdesserts.com/index.cfm/fuseaction/recipes.recipeListing/filter/guests/recipeID/3791/Recipe.cfm
-http://www.dianasdesserts.com/index.cfm/fuseaction/recipes.recipeListing/filter/guests/recipeID/2423/Recipe.cfm
 http://www.dianasdesserts.com/index.cfm/fuseaction/recipes.categorylistings/categoryID/55/filter/guest/CategoryListings.cfm
-http://www.dianasdesserts.com/index.cfm/fuseaction/recipes.recipeListing/filter/guests/recipeID/1628/Recipe.cfm
+http://www.dianasdesserts.com/index.cfm/fuseaction/recipes.recipeListing/filter/guests/recipeID/2423/Recipe.cfm
 http://www.dianasdesserts.com/index.cfm/fuseaction/recipes.recipeListing/filter/guests/recipeID/485/Recipe.cfm
 http://www.dianasdesserts.com/index.cfm/fuseaction/recipes.recipeListing/filter/guests/recipeID/2047/Recipe.cfm
+http://www.dianasdesserts.com/index.cfm/fuseaction/recipes.recipeListing/filter/guests/recipeID/1628/Recipe.cfm
 http://www.dianasdesserts.com/index.cfm/fuseaction/recipes.recipeListing/filter/guests/recipeID/486/Recipe.cfm
 http://www.dianasdesserts.com/index.cfm/fuseaction/recipes.recipeListing/filter/dianas/recipeID/946/Recipe.cfm
 http://www.dianasdesserts.com/index.cfm/fuseaction/recipes.recipeListing/filter/dianas/recipeID/2198/Recipe.cfm
-http://www.dianasdesserts.com/index.cfm/fuseaction/recipes.recipeListing/filter/dianas/recipeID/2405/Recipe.cfm
+http://www.dianasdesserts.com/index.cfm/fuseaction/recipes.recipeListing/filter/dianas/recipeID/2130/Recipe.cfm

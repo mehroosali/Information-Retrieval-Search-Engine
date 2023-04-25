@@ -3,18 +3,18 @@ Query: chocolate milkshake
 Solr Results
 https://icecreamfromscratch.com/chocolate-milkshake/
 https://icecreamfromscratch.com/chocolate-milkshake/feed/
+https://www.vegrecipesofindia.com/chocolate-milkshake-recipe/
+https://www.vegrecipesofindia.com/chocolate-milkshake-recipe/comment-page-1/
+https://www.yummytummyaarthi.com/chocolate-milkshake-recipe
+https://icecreamfromscratch.com/category/milkshake-recipes/
+https://wellsfoodservice.com/recipes/quickblend-chocolate-milkshake-whole-milk-powder
+https://wellsfoodservice.com/products/blue-bunny/scoopables/bulk/quick-blend
 https://www.vegrecipesofindia.com/chocolate-milkshake-recipe/feed/
 https://icecreamfromscratch.com/hersheys-milkshake/
-https://icecreamfromscratch.com/category/milkshake-recipes/
-https://www.yummytummyaarthi.com/chocolate-milkshake-recipe
-https://wellsfoodservice.com/recipes/quickblend-chocolate-milkshake-whole-milk-powder
 https://www.vegrecipesofindia.com/recipes/milkshakes/feed/
-https://www.vegrecipesofindia.com/chocolate-milkshake-recipe/comment-page-1/
 https://wellsfoodservice.com/recipes/quickblend-chocolate-milkshake-whole-milk
-https://wellsfoodservice.com/products/blue-bunny/scoopables/bulk/quick-blend
-https://www.vegrecipesofindia.com/chocolate-milkshake-recipe/
-https://amyshealthybaking.com/blog/category/drinks/
-https://icecreamfromscratch.com/chocolate-peanut-butter-milkshake/
+https://icecreamfromscratch.com/category/milkshake-recipes/page/2/
+https://amyshealthybaking.com/blog/category/high-protein/
 https://icecreamfromscratch.com/chocolate-ice-cream-bars/
 
 
@@ -24,30 +24,47 @@ https://amyshealthybaking.com/blog/category/drinks/
 https://www.eatthis.com/are-smoothies-healthy/
 https://icecreamfromscratch.com/chocolate-milkshake/
 https://icecreamfromscratch.com/chocolate-milkshake/feed/
-https://icecreamfromscratch.com/hersheys-milkshake/
+https://www.vegrecipesofindia.com/chocolate-milkshake-recipe/
+https://www.vegrecipesofindia.com/chocolate-milkshake-recipe/comment-page-1/
 https://icecreamfromscratch.com/category/milkshake-recipes/
 https://wellsfoodservice.com/recipes/quickblend-chocolate-milkshake-whole-milk-powder
-https://www.vegrecipesofindia.com/chocolate-milkshake-recipe/comment-page-1/
-https://wellsfoodservice.com/recipes/quickblend-chocolate-milkshake-whole-milk
 https://wellsfoodservice.com/products/blue-bunny/scoopables/bulk/quick-blend
-https://www.vegrecipesofindia.com/chocolate-milkshake-recipe/
-https://icecreamfromscratch.com/chocolate-peanut-butter-milkshake/
+https://icecreamfromscratch.com/hersheys-milkshake/
+https://wellsfoodservice.com/recipes/quickblend-chocolate-milkshake-whole-milk
+https://icecreamfromscratch.com/category/milkshake-recipes/page/2/
+https://amyshealthybaking.com/blog/category/high-protein/
 https://icecreamfromscratch.com/chocolate-ice-cream-bars/
-https://icecreamfromscratch.com/hot-fudge-sauce-recipe/
 
-Hierarchial Clustering Results: 
+Single Hierarchial Clustering Results: 
 https://icecreamfromscratch.com/chocolate-milkshake/
 https://icecreamfromscratch.com/chocolate-milkshake/feed/
-https://www.vegrecipesofindia.com/chocolate-milkshake-recipe/feed/
-https://icecreamfromscratch.com/hersheys-milkshake/
+https://www.vegrecipesofindia.com/chocolate-milkshake-recipe/
+https://www.vegrecipesofindia.com/chocolate-milkshake-recipe/comment-page-1/
+https://www.yummytummyaarthi.com/chocolate-milkshake-recipe
 https://icecreamfromscratch.com/category/milkshake-recipes/
 https://wellsfoodservice.com/recipes/quickblend-chocolate-milkshake-whole-milk-powder
-https://www.vegrecipesofindia.com/chocolate-milkshake-recipe/comment-page-1/
-https://wellsfoodservice.com/recipes/quickblend-chocolate-milkshake-whole-milk
 https://wellsfoodservice.com/products/blue-bunny/scoopables/bulk/quick-blend
-https://amyshealthybaking.com/blog/category/drinks/
-https://icecreamfromscratch.com/chocolate-peanut-butter-milkshake/
-https://icecreamfromscratch.com/chocolate-ice-cream-bars/
-https://icecreamfromscratch.com/hot-fudge-sauce-recipe/
-https://icecreamfromscratch.com/vegan-milkshake/
+https://www.vegrecipesofindia.com/chocolate-milkshake-recipe/feed/
+https://icecreamfromscratch.com/hersheys-milkshake/
+https://www.vegrecipesofindia.com/recipes/milkshakes/feed/
+https://wellsfoodservice.com/recipes/quickblend-chocolate-milkshake-whole-milk
 https://icecreamfromscratch.com/category/milkshake-recipes/page/2/
+https://amyshealthybaking.com/blog/category/high-protein/
+https://icecreamfromscratch.com/chocolate-ice-cream-bars/
+
+Average Hierarchial Clustering Results: 
+https://icecreamfromscratch.com/chocolate-milkshake/
+https://icecreamfromscratch.com/chocolate-milkshake/feed/
+https://www.vegrecipesofindia.com/chocolate-milkshake-recipe/comment-page-1/
+https://icecreamfromscratch.com/category/milkshake-recipes/
+https://wellsfoodservice.com/recipes/quickblend-chocolate-milkshake-whole-milk-powder
+https://wellsfoodservice.com/products/blue-bunny/scoopables/bulk/quick-blend
+https://www.vegrecipesofindia.com/chocolate-milkshake-recipe/feed/
+https://icecreamfromscratch.com/hersheys-milkshake/
+https://wellsfoodservice.com/recipes/quickblend-chocolate-milkshake-whole-milk
+https://icecreamfromscratch.com/category/milkshake-recipes/page/2/
+https://amyshealthybaking.com/blog/category/high-protein/
+https://icecreamfromscratch.com/chocolate-ice-cream-bars/
+https://icecreamfromscratch.com/vegan-milkshake/
+https://amyshealthybaking.com/blog/category/drinks/
+https://icecreamfromscratch.com/hot-fudge-sauce-recipe/

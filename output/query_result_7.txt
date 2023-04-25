@@ -4,50 +4,67 @@ Solr Results
 https://icecreamfromscratch.com/stracciatella-gelato/
 https://icecreamfromscratch.com/mango-gelato/
 https://foodnouveau.com/how-to-make-gelato/feed/
-https://www.benjerry.it/i-nostri-gelati/cookie-dough-gelato
-https://icecreamfromscratch.com/mango-gelato/feed/
-https://icecreamfromscratch.com/cherry-gelato-recipe/
 https://foodnouveau.com/irresistible-homemade-gelato-recipes/feed/
 https://www.benjerry.it/i-nostri-gelati/barattoli-di-gelato
-https://www.benjerry.it/i-nostri-gelati/peace-pop-gelato
 https://biscuitstobrownies.com/italian-gelato-in-atlanta/
 https://pastrychefonline.com/toblerone-gelato-ice-cream-tuesday/feed/
+https://icecreamfromscratch.com/mango-gelato/feed/
 https://www.benjerry.it/ice-cream-near-me
+https://www.benjerry.it/i-nostri-gelati/peace-pop-gelato
+https://www.benjerry.it/i-nostri-gelati/cookie-dough-gelato
+https://icecreamfromscratch.com/cherry-gelato-recipe/
+https://foodnouveau.com/irresistible-homemade-gelato-recipes/
+https://www.texanerin.com/vegan-chocolate-ice-cream/
 http://www.dianasdesserts.com/index.cfm/fuseaction/recipes.recipeListing/filter/dianas/recipeID/3431/Recipe.cfm
-https://pastrychefonline.com/toblerone-gelato-ice-cream-tuesday/
-https://www.streetdirectory.com/food_editorials/snacks/snacks/5/
 
 
 Flat Clustering Results: 
 https://icecreamfromscratch.com/stracciatella-gelato/
-https://www.benjerry.it/i-nostri-gelati/cookie-dough-gelato
-https://icecreamfromscratch.com/mango-gelato/feed/
 https://foodnouveau.com/irresistible-homemade-gelato-recipes/feed/
 https://www.benjerry.it/i-nostri-gelati/barattoli-di-gelato
-https://www.benjerry.it/i-nostri-gelati/peace-pop-gelato
 https://biscuitstobrownies.com/italian-gelato-in-atlanta/
+https://icecreamfromscratch.com/mango-gelato/feed/
 https://www.benjerry.it/ice-cream-near-me
-https://rubinos.net/products/gelato-cannoli-pastries/
-https://foodnouveau.com/how-to-make-gelato/
-https://www.appropriateomnivore.com/tag/gelato-pops/feed/
+https://www.benjerry.it/i-nostri-gelati/peace-pop-gelato
+https://www.benjerry.it/i-nostri-gelati/cookie-dough-gelato
 https://foodnouveau.com/irresistible-homemade-gelato-recipes/
+https://www.appropriateomnivore.com/tag/gelato-pops/feed/
+https://foodnouveau.com/how-to-make-gelato/
+https://rubinos.net/products/gelato-cannoli-pastries/
 https://food52.com/blog/17152-the-easiest-strawberry-buttermilk-ice-cream-you-ll-make-all-summer
 https://rubinos.net/products/
 http://www.onsecondscoop.com/2023/03/talenti-cookies-and-cream-gelato-layers.html
 
-Hierarchial Clustering Results: 
+Single Hierarchial Clustering Results: 
 https://icecreamfromscratch.com/stracciatella-gelato/
 https://icecreamfromscratch.com/mango-gelato/
 https://foodnouveau.com/how-to-make-gelato/feed/
-https://www.benjerry.it/i-nostri-gelati/cookie-dough-gelato
-https://icecreamfromscratch.com/mango-gelato/feed/
-https://icecreamfromscratch.com/cherry-gelato-recipe/
+https://foodnouveau.com/irresistible-homemade-gelato-recipes/feed/
 https://www.benjerry.it/i-nostri-gelati/barattoli-di-gelato
-https://www.benjerry.it/i-nostri-gelati/peace-pop-gelato
+https://biscuitstobrownies.com/italian-gelato-in-atlanta/
 https://pastrychefonline.com/toblerone-gelato-ice-cream-tuesday/feed/
+https://icecreamfromscratch.com/mango-gelato/feed/
 https://www.benjerry.it/ice-cream-near-me
-http://www.dianasdesserts.com/index.cfm/fuseaction/recipes.recipeListing/filter/dianas/recipeID/3431/Recipe.cfm
-https://pastrychefonline.com/toblerone-gelato-ice-cream-tuesday/
-https://rubinos.net/products/gelato-cannoli-pastries/
+https://www.benjerry.it/i-nostri-gelati/peace-pop-gelato
+https://www.benjerry.it/i-nostri-gelati/cookie-dough-gelato
+https://icecreamfromscratch.com/cherry-gelato-recipe/
+https://foodnouveau.com/irresistible-homemade-gelato-recipes/
 https://www.texanerin.com/vegan-chocolate-ice-cream/
+http://www.dianasdesserts.com/index.cfm/fuseaction/recipes.recipeListing/filter/dianas/recipeID/3431/Recipe.cfm
+
+Average Hierarchial Clustering Results: 
+https://icecreamfromscratch.com/stracciatella-gelato/
+https://icecreamfromscratch.com/mango-gelato/
+https://foodnouveau.com/how-to-make-gelato/feed/
+https://www.benjerry.it/i-nostri-gelati/barattoli-di-gelato
+https://pastrychefonline.com/toblerone-gelato-ice-cream-tuesday/feed/
+https://icecreamfromscratch.com/mango-gelato/feed/
+https://www.benjerry.it/ice-cream-near-me
+https://www.benjerry.it/i-nostri-gelati/peace-pop-gelato
+https://www.benjerry.it/i-nostri-gelati/cookie-dough-gelato
+https://icecreamfromscratch.com/cherry-gelato-recipe/
+https://www.texanerin.com/vegan-chocolate-ice-cream/
+http://www.dianasdesserts.com/index.cfm/fuseaction/recipes.recipeListing/filter/dianas/recipeID/3431/Recipe.cfm
+https://www.appropriateomnivore.com/tag/gelato-pops/feed/
 https://foodnouveau.com/how-to-make-gelato/
+https://pastrychefonline.com/toblerone-gelato-ice-cream-tuesday/

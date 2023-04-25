@@ -3,51 +3,68 @@ Query: pumpkin pie
 Solr Results
 https://icecreamfromscratch.com/pumpkin-pie-ice-cream/
 https://www.chocolatemoosey.com/small-pumpkin-pie/
-https://www.chocolatemoosey.com/pumpkin-pie-for-two-egg-free/
+https://thefirstyearblog.com/easy-pumpkin-pie-bars/
 https://www.anightowlblog.com/pumpkin-pie-cheesecake-dip/
-https://butteryourbiscuit.com/pumpkin-pie-bites/feed/
-https://www.chocolatemoosey.com/mini-deep-dish-pumpkin-pies/
+https://bake-eat-repeat.com/homemade-pumpkin-pie-spice-recipe/feed/
 https://www.chocolatemoosey.com/pumpkin-pie-crumb-bars/
 https://thefrugalgirls.com/2015/09/best-no-bake-pumpkin-pie-recipe.html
-https://bake-eat-repeat.com/homemade-pumpkin-pie-spice-recipe/feed/
-https://thefirstyearblog.com/easy-pumpkin-pie-bars/
-https://icecreaminspiration.com/pumpkin-pie-milkshake/feed/
+https://www.chocolatemoosey.com/pumpkin-pie-for-two-egg-free/
+https://butteryourbiscuit.com/pumpkin-pie-bites/feed/
 https://cooking.nytimes.com/recipes/1015622-pumpkin-pie
-https://thefrugalgirls.com/2014/10/pumpkin-pie-spice-recipe.html
-https://www.bakedbyrachel.com/deep-dish-pumpkin-pie-with-gingersnap-crust/feed/
-https://icecreamfromscratch.com/pumpkin-pie-ice-cream/feed/
+https://www.chocolatemoosey.com/mini-deep-dish-pumpkin-pies/
+https://icecreaminspiration.com/pumpkin-pie-milkshake/feed/
+http://tinaschic.com/2013/12/pumpkin-pie/feed/
+https://www.lovebakesgoodcakes.com/pumpkin-pie/
+https://www.bakedbyrachel.com/pumpkin-pie-cheesecake-bars/feed/
 
 
 Flat Clustering Results: 
-https://butteryourbiscuit.com/pumpkin-pie-bites/feed/
 https://bake-eat-repeat.com/homemade-pumpkin-pie-spice-recipe/feed/
+https://butteryourbiscuit.com/pumpkin-pie-bites/feed/
 https://icecreaminspiration.com/pumpkin-pie-milkshake/feed/
 https://cooking.nytimes.com/recipes/1022732-ultimate-pumpkin-pie
-https://www.bakedbyrachel.com/pumpkin-pie-cheesecake-bars/
 https://butteryourbiscuit.com/pumpkin-pie-bites/
 https://www.cookingclassy.com/pumpkin-pie-crumb-bars/
+https://www.bakedbyrachel.com/pumpkin-pie-cheesecake-bars/
 https://cooking.nytimes.com/recipes/1020595-vegan-pumpkin-pie
 https://food52.com/blog/20818-clear-pumpkin-pie
 https://icecreamfromscratch.com/pumpkin-pie-ice-cream/
 https://www.chocolatemoosey.com/small-pumpkin-pie/
-https://www.chocolatemoosey.com/pumpkin-pie-for-two-egg-free/
-https://www.chocolatemoosey.com/mini-deep-dish-pumpkin-pies/
-https://www.chocolatemoosey.com/pumpkin-pie-crumb-bars/
 https://thefirstyearblog.com/easy-pumpkin-pie-bars/
+https://www.chocolatemoosey.com/pumpkin-pie-crumb-bars/
+https://www.chocolatemoosey.com/pumpkin-pie-for-two-egg-free/
+https://cooking.nytimes.com/recipes/1015622-pumpkin-pie
 
-Hierarchial Clustering Results: 
+Single Hierarchial Clustering Results: 
+https://icecreamfromscratch.com/pumpkin-pie-ice-cream/
 https://www.chocolatemoosey.com/small-pumpkin-pie/
+https://thefirstyearblog.com/easy-pumpkin-pie-bars/
 https://www.anightowlblog.com/pumpkin-pie-cheesecake-dip/
-https://butteryourbiscuit.com/pumpkin-pie-bites/feed/
-https://www.chocolatemoosey.com/mini-deep-dish-pumpkin-pies/
+https://bake-eat-repeat.com/homemade-pumpkin-pie-spice-recipe/feed/
 https://www.chocolatemoosey.com/pumpkin-pie-crumb-bars/
 https://thefrugalgirls.com/2015/09/best-no-bake-pumpkin-pie-recipe.html
-https://bake-eat-repeat.com/homemade-pumpkin-pie-spice-recipe/feed/
-https://thefirstyearblog.com/easy-pumpkin-pie-bars/
-https://icecreaminspiration.com/pumpkin-pie-milkshake/feed/
+https://www.chocolatemoosey.com/pumpkin-pie-for-two-egg-free/
+https://butteryourbiscuit.com/pumpkin-pie-bites/feed/
 https://cooking.nytimes.com/recipes/1015622-pumpkin-pie
-https://thefrugalgirls.com/2014/10/pumpkin-pie-spice-recipe.html
-https://www.bakedbyrachel.com/deep-dish-pumpkin-pie-with-gingersnap-crust/feed/
-https://icecreamfromscratch.com/pumpkin-pie-ice-cream/feed/
-https://food52.com/tags/pumpkin-pie
+https://www.chocolatemoosey.com/mini-deep-dish-pumpkin-pies/
+https://icecreaminspiration.com/pumpkin-pie-milkshake/feed/
 http://tinaschic.com/2013/12/pumpkin-pie/feed/
+https://www.lovebakesgoodcakes.com/pumpkin-pie/
+https://www.bakedbyrachel.com/pumpkin-pie-cheesecake-bars/feed/
+
+Average Hierarchial Clustering Results: 
+https://www.chocolatemoosey.com/small-pumpkin-pie/
+https://thefirstyearblog.com/easy-pumpkin-pie-bars/
+https://www.anightowlblog.com/pumpkin-pie-cheesecake-dip/
+https://bake-eat-repeat.com/homemade-pumpkin-pie-spice-recipe/feed/
+https://www.chocolatemoosey.com/pumpkin-pie-crumb-bars/
+https://thefrugalgirls.com/2015/09/best-no-bake-pumpkin-pie-recipe.html
+https://butteryourbiscuit.com/pumpkin-pie-bites/feed/
+https://cooking.nytimes.com/recipes/1015622-pumpkin-pie
+https://www.chocolatemoosey.com/mini-deep-dish-pumpkin-pies/
+https://icecreaminspiration.com/pumpkin-pie-milkshake/feed/
+http://tinaschic.com/2013/12/pumpkin-pie/feed/
+https://www.lovebakesgoodcakes.com/pumpkin-pie/
+https://www.bakedbyrachel.com/pumpkin-pie-cheesecake-bars/feed/
+https://cooking.nytimes.com/recipes/1022732-ultimate-pumpkin-pie
+https://icecreamfromscratch.com/pumpkin-pie-ice-cream/feed/

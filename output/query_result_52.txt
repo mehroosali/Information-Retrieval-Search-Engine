@@ -3,19 +3,19 @@ Query: Baked Alaska
 Solr Results
 https://icecreamfromscratch.com/baked-alaska/
 https://icecreaminspiration.com/easy-baked-alaska/feed/
-https://www.benjerry.fi/jaatelomme/baked-alaska-jaatelo
-https://www.christinascucina.com/chocolate-chip-cookie-baked-alaska-pie/
-https://icecreaminspiration.com/tag/ice-cream/feed/
-http://www.dianasdesserts.com/index.cfm/fuseaction/recipes.recipeListing/filter/guests/recipeID/2017/Recipe.cfm
-https://www.chocolatemoosey.com/smores-baked-alaska-for-two/feed/
-https://icecreaminspiration.com/easy-baked-alaska/
 https://www.chocolatemoosey.com/smores-baked-alaska-for-two/
-http://www.dianasdesserts.com/index.cfm/fuseaction/recipes.recipeListing/filter/dianas/recipeID/294/Recipe.cfm
-https://www.eatthis.com/vintage-desserts-restaurant-menus/
 https://sallysbakingaddiction.com/brownie-baked-alaska/
+https://www.christinascucina.com/chocolate-chip-cookie-baked-alaska-pie/
+https://www.chocolatemoosey.com/smores-baked-alaska-for-two/feed/
+https://www.benjerry.fi/jaatelomme/baked-alaska-jaatelo
+http://www.dianasdesserts.com/index.cfm/fuseaction/recipes.recipeListing/filter/dianas/recipeID/294/Recipe.cfm
+https://icecreaminspiration.com/easy-baked-alaska/
+https://www.eatthis.com/vintage-desserts-restaurant-menus/
+http://www.dianasdesserts.com/index.cfm/fuseaction/recipes.recipeListing/filter/guests/recipeID/2017/Recipe.cfm
+https://icecreaminspiration.com/tag/ice-cream/feed/
+https://www.benjerry.de/sorten/ice-cream-tubs
 https://www.benjerry.se/smaker/ice-cream-tubs
-http://www.dianasdesserts.com/index.cfm/fuseaction/recipes.recipeListing/filter/dianas/recipeID/295/Recipe.cfm
-https://www.chocolatemoosey.com/page/163/
+https://icecreamfromscratch.com/category/ice-cream-desserts/
 
 
 Flat Clustering Results: 
@@ -24,30 +24,47 @@ https://www.eatthis.com/vintage-desserts-restaurant-menus/
 https://www.benjerry.se/smaker/ice-cream-tubs
 https://www.benjerry.fi/tietoa-meista
 https://www.benjerry.fi/jaatelomme/ice-cream-tubs
-https://www.benandjerrys.ca/fr/about-us
-https://www.benjerry.nl/smaken/allergenen
 https://www.benjerry.dk/om-os
+https://www.benjerry.nl/smaken/allergenen
+https://www.benandjerrys.ca/fr/about-us
 https://www.benjerry.ch/fr/about-us
-https://www.benjerry.fr/a-propos-de-nous
+https://www.benandjerrys.com.mx/acerca-de-nosotros
 https://www.benjerry.no/om-oss
 https://www.ben-jerry.gr/about-us
-https://www.benandjerrys.com.mx/acerca-de-nosotros
 https://www.ben-jerrys.es/sobre-nosotros
+https://www.benjerry.fr/a-propos-de-nous
 https://www.benjerry.com.pr/acerca-de-nosotros
 
-Hierarchial Clustering Results: 
+Single Hierarchial Clustering Results: 
 https://icecreamfromscratch.com/baked-alaska/
 https://icecreaminspiration.com/easy-baked-alaska/feed/
-https://www.benjerry.fi/jaatelomme/baked-alaska-jaatelo
-https://www.christinascucina.com/chocolate-chip-cookie-baked-alaska-pie/
-https://icecreaminspiration.com/tag/ice-cream/feed/
-http://www.dianasdesserts.com/index.cfm/fuseaction/recipes.recipeListing/filter/guests/recipeID/2017/Recipe.cfm
-https://www.chocolatemoosey.com/smores-baked-alaska-for-two/feed/
-https://icecreaminspiration.com/easy-baked-alaska/
 https://www.chocolatemoosey.com/smores-baked-alaska-for-two/
-http://www.dianasdesserts.com/index.cfm/fuseaction/recipes.recipeListing/filter/dianas/recipeID/294/Recipe.cfm
-https://www.eatthis.com/vintage-desserts-restaurant-menus/
 https://sallysbakingaddiction.com/brownie-baked-alaska/
+https://www.christinascucina.com/chocolate-chip-cookie-baked-alaska-pie/
+https://www.chocolatemoosey.com/smores-baked-alaska-for-two/feed/
+https://www.benjerry.fi/jaatelomme/baked-alaska-jaatelo
+http://www.dianasdesserts.com/index.cfm/fuseaction/recipes.recipeListing/filter/dianas/recipeID/294/Recipe.cfm
+https://icecreaminspiration.com/easy-baked-alaska/
+https://www.eatthis.com/vintage-desserts-restaurant-menus/
+http://www.dianasdesserts.com/index.cfm/fuseaction/recipes.recipeListing/filter/guests/recipeID/2017/Recipe.cfm
+https://icecreaminspiration.com/tag/ice-cream/feed/
+https://www.benjerry.de/sorten/ice-cream-tubs
 https://www.benjerry.se/smaker/ice-cream-tubs
-http://www.dianasdesserts.com/index.cfm/fuseaction/recipes.recipeListing/filter/dianas/recipeID/295/Recipe.cfm
-https://www.chocolatemoosey.com/page/163/
+https://icecreamfromscratch.com/category/ice-cream-desserts/
+
+Average Hierarchial Clustering Results: 
+https://icecreamfromscratch.com/baked-alaska/
+https://icecreaminspiration.com/easy-baked-alaska/feed/
+https://www.chocolatemoosey.com/smores-baked-alaska-for-two/
+https://sallysbakingaddiction.com/brownie-baked-alaska/
+https://www.christinascucina.com/chocolate-chip-cookie-baked-alaska-pie/
+https://www.chocolatemoosey.com/smores-baked-alaska-for-two/feed/
+https://www.benjerry.fi/jaatelomme/baked-alaska-jaatelo
+http://www.dianasdesserts.com/index.cfm/fuseaction/recipes.recipeListing/filter/dianas/recipeID/294/Recipe.cfm
+https://icecreaminspiration.com/easy-baked-alaska/
+https://www.eatthis.com/vintage-desserts-restaurant-menus/
+http://www.dianasdesserts.com/index.cfm/fuseaction/recipes.recipeListing/filter/guests/recipeID/2017/Recipe.cfm
+https://icecreaminspiration.com/tag/ice-cream/feed/
+https://www.benjerry.de/sorten/ice-cream-tubs
+https://www.benjerry.se/smaker/ice-cream-tubs
+https://icecreamfromscratch.com/category/ice-cream-desserts/

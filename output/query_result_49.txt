@@ -3,51 +3,68 @@ Query: Oreo
 Solr Results
 https://www.icecream.com/us/en/brands/oreo/products/oreo-bars
 https://www.icecream.com/us/en/brands/oreo/products/oreo-sandwiches
+https://thefirstyearblog.com/turtle-oreo-balls/
 https://www.icecream.com/us/en/brands/oreo/products/oreo-frozen-dessert-bars-singles
-https://icecreamfromscratch.com/oreo-ice-cream/
 https://thefirstyearblog.com/oreo-acorn-balls/
 https://thefirstyearblog.com/recipes/oreo-balls/
-https://icecreamfromscratch.com/oreo-milkshake/
-https://icecreamfromscratch.com/oreo-ice-cream-cake/
 https://thefirstyearblog.com/caramel-apple-oreo-balls/
-https://thefrugalgirls.com/2016/06/oreo-milkshake.html/feed
-https://thefirstyearblog.com/turtle-oreo-balls/
+https://icecreamfromscratch.com/oreo-milkshake/
+https://icecreamfromscratch.com/oreo-ice-cream/
+https://icecreamfromscratch.com/oreo-ice-cream-cake/
 https://www.icecream.com/us/en/brands/oreo/products/oreo-frozen-dessert-bars-multipack
-https://www.twopeasandtheirpod.com/oreo-white-chocolate-pudding-peppermint-cookies/
+https://thefrugalgirls.com/2016/06/oreo-milkshake.html/feed
 https://neverendingjourneys.com/2020/11/01/no-bake-oreo-balls-recipe/
-https://www.livewellbakeoften.com/chocolate-oreo-cupcakes/
+https://butterwithasideofbread.com/oreo-balls/feed/
+https://www.eatthis.com/new-oreo-flavor-january-2023/
 
 
 Flat Clustering Results: 
 https://www.icecream.com/us/en/brands/oreo/products/oreo-bars
 https://www.icecream.com/us/en/brands/oreo/products/oreo-sandwiches
+https://thefirstyearblog.com/turtle-oreo-balls/
 https://www.icecream.com/us/en/brands/oreo/products/oreo-frozen-dessert-bars-singles
 https://thefirstyearblog.com/oreo-acorn-balls/
 https://thefirstyearblog.com/recipes/oreo-balls/
 https://thefirstyearblog.com/caramel-apple-oreo-balls/
-https://thefirstyearblog.com/turtle-oreo-balls/
 https://www.icecream.com/us/en/brands/oreo/products/oreo-frozen-dessert-bars-multipack
-https://www.eatthis.com/new-oreo-flavor-march-2023/
-https://www.savingdessert.com/oreo-cheesecake/
 https://www.eatthis.com/new-oreo-flavor-january-2023/
-https://bakingamoment.com/oreo-pie-crust/feed/
-https://dinnerthendessert.com/easy-oreo-dessert-recipes/feed/
+https://www.savingdessert.com/oreo-cheesecake/
+https://www.eatthis.com/new-oreo-flavor-march-2023/
 http://www.onsecondscoop.com/feeds/620110146610921739/comments/default
+https://dinnerthendessert.com/easy-oreo-dessert-recipes/feed/
+https://bakingamoment.com/oreo-pie-crust/feed/
 https://www.eatthis.com/oreo-dessert-recipes/
 
-Hierarchial Clustering Results: 
+Single Hierarchial Clustering Results: 
 https://www.icecream.com/us/en/brands/oreo/products/oreo-bars
 https://www.icecream.com/us/en/brands/oreo/products/oreo-sandwiches
+https://thefirstyearblog.com/turtle-oreo-balls/
 https://www.icecream.com/us/en/brands/oreo/products/oreo-frozen-dessert-bars-singles
-https://icecreamfromscratch.com/oreo-ice-cream/
 https://thefirstyearblog.com/oreo-acorn-balls/
 https://thefirstyearblog.com/recipes/oreo-balls/
-https://icecreamfromscratch.com/oreo-milkshake/
-https://icecreamfromscratch.com/oreo-ice-cream-cake/
 https://thefirstyearblog.com/caramel-apple-oreo-balls/
-https://thefrugalgirls.com/2016/06/oreo-milkshake.html/feed
-https://thefirstyearblog.com/turtle-oreo-balls/
+https://icecreamfromscratch.com/oreo-milkshake/
+https://icecreamfromscratch.com/oreo-ice-cream/
+https://icecreamfromscratch.com/oreo-ice-cream-cake/
 https://www.icecream.com/us/en/brands/oreo/products/oreo-frozen-dessert-bars-multipack
+https://thefrugalgirls.com/2016/06/oreo-milkshake.html/feed
 https://neverendingjourneys.com/2020/11/01/no-bake-oreo-balls-recipe/
-https://www.eatthis.com/new-oreo-flavor-march-2023/
+https://butterwithasideofbread.com/oreo-balls/feed/
 https://www.eatthis.com/new-oreo-flavor-january-2023/
+
+Average Hierarchial Clustering Results: 
+https://www.savingdessert.com/oreo-cheesecake/
+https://www.twopeasandtheirpod.com/oreo-white-chocolate-pudding-peppermint-cookies/
+https://www.lovebakesgoodcakes.com/oreo-cheesecake-cupcakes/
+https://www.livewellbakeoften.com/oreo-balls/feed/
+https://www.livewellbakeoften.com/oreo-cake/
+https://www.lovebakesgoodcakes.com/oreo-cheesecake-cupcakes/feed/
+https://www.sprinklebakes.com/2023/03/oreo-cupcakes.html
+https://www.icecream.com/us/en/brands/oreo/products/oreo-bars
+https://www.icecream.com/us/en/brands/oreo/products/oreo-sandwiches
+https://thefirstyearblog.com/turtle-oreo-balls/
+https://www.icecream.com/us/en/brands/oreo/products/oreo-frozen-dessert-bars-singles
+https://thefirstyearblog.com/oreo-acorn-balls/
+https://thefirstyearblog.com/recipes/oreo-balls/
+https://thefirstyearblog.com/caramel-apple-oreo-balls/
+https://icecreamfromscratch.com/oreo-milkshake/

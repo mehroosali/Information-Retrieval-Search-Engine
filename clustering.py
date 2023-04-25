@@ -14,6 +14,8 @@ class Clustering:
         self.read_cluster_center_average()
         self.read_URL_cluster_single()
         self.read_cluster_center_single()
+        self.queries = []
+        self.queries_result = {}
         
     
     def read_URL_cluster_flat(self):
@@ -116,6 +118,13 @@ class Clustering:
         return new_results
 
     def hierarchical_clustering_average(self, query, results):
+        if query in self.queries:
+            return self.queries_result[query]
+        
+        if (len(self.queries) > 5):
+            del self.queries_result[self.queries[-1]]
+            self.queries = self.queries[:-1]
+
         sorted_clusters = self.compute_distance(query, 'average')
         values = {}
         not_imp_urls = []
@@ -138,10 +147,19 @@ class Clustering:
                 new_results.extend(values[cluster_num])
 
         new_results.extend(not_imp_urls)
+        self.queries.append(query)
+        self.queries_result[query] = new_results
         return new_results
     
 
     def hierarchical_clustering_single(self, query, results):
+        if query in self.queries:
+            return self.queries_result[query]
+        
+        if (len(self.queries) > 5):
+            del self.queries_result[self.queries[-1]]
+            self.queries = self.queries[:-1]
+
         sorted_clusters = self.compute_distance(query, 'single')
         values = {}
         not_imp_urls = []
@@ -163,4 +181,6 @@ class Clustering:
                 new_results.extend(values[cluster_num])
 
         new_results.extend(not_imp_urls)
+        self.queries.append(query)
+        self.queries_result[query] = new_results
         return new_results

@@ -3,51 +3,68 @@ Query: gulab jamun
 Solr Results
 https://www.tashasartisanfoods.com/blog/easy-homemade-gulab-jamun/
 http://www.dianasdesserts.com/index.cfm/fuseaction/recipes.recipeListing/filter/guests/recipeID/6167/Recipe.cfm
-https://www.rajbhog.com/product-category/sweets/feed/
 https://www.rajbhog.com/product/gulab-jamun/
 https://www.vegrecipesofindia.com/recipes/desserts-recipes/feed/
 https://www.vegrecipesofindia.com/gulab-jamun-recipe-with-khoya/comment-page-14/
-https://www.vegrecipesofindia.com/gulab-jamun-recipe-with-khoya/feed/
-https://www.vegrecipesofindia.com/gulab-jamun-recipe-with-khoya/
 https://www.tashasartisanfoods.com/blog/desserts/page/3/
-http://www.dianasdesserts.com/index.cfm/fuseaction/recipes.recipeListing/filter/guests/recipeID/1706/Recipe.cfm
-http://www.dianasdesserts.com/index.cfm/fuseaction/recipes.categorylistings/categoryID/19/filter/guests/CategoryListings.cfm
 http://www.dianasdesserts.com/index.cfm/fuseaction/recipes.recipeListing/filter/guests/recipeID/6708/Recipe.cfm
-http://www.dianasdesserts.com/index.cfm/fuseaction/recipes.recipeListing/filter/guests/recipeID/4164/Recipe.cfm
-http://www.dianasdesserts.com/index.cfm/fuseaction/recipes.recipeListing/filter/guests/recipeID/1807/Recipe.cfm
+https://www.vegrecipesofindia.com/gulab-jamun-recipe-with-khoya/feed/
+http://www.dianasdesserts.com/index.cfm/fuseaction/recipes.recipeListing/filter/guests/recipeID/1706/Recipe.cfm
+https://www.rajbhog.com/product-category/sweets/feed/
+http://www.dianasdesserts.com/index.cfm/fuseaction/recipes.categorylistings/categoryID/19/filter/guests/CategoryListings.cfm
+https://www.vegrecipesofindia.com/gulab-jamun-recipe-with-khoya/
 http://www.dianasdesserts.com/index.cfm/fuseaction/recipes.recipeListing/filter/guests/recipeID/2770/Recipe.cfm
+http://ivoryhut.com/tag/travel/
+http://www.dianasdesserts.com/index.cfm/fuseaction/recipes.recipeListing/filter/guests/recipeID/4164/Recipe.cfm
 
 
 Flat Clustering Results: 
-https://www.rajbhog.com/product-category/sweets/feed/
 https://www.rajbhog.com/product/gulab-jamun/
+https://www.rajbhog.com/product-category/sweets/feed/
 http://ivoryhut.com/tag/travel/
 https://traveltriangle.com/blog/indian-restaurants-in-australia/
-https://traveltriangle.com/blog/places-to-visit-in-chandigarh-for-couples/
 https://traveltriangle.com/blog/indian-restaurants-in-sydney/
+https://traveltriangle.com/blog/places-to-visit-in-chandigarh-for-couples/
 https://traveltriangle.com/blog/indian-restaurants-in-orlando/
 https://www.tashasartisanfoods.com/blog/easy-homemade-gulab-jamun/
 https://www.vegrecipesofindia.com/recipes/desserts-recipes/feed/
 https://www.vegrecipesofindia.com/gulab-jamun-recipe-with-khoya/comment-page-14/
-https://www.vegrecipesofindia.com/gulab-jamun-recipe-with-khoya/
 https://www.tashasartisanfoods.com/blog/desserts/page/3/
+https://www.vegrecipesofindia.com/gulab-jamun-recipe-with-khoya/
 http://www.dianasdesserts.com/index.cfm/fuseaction/recipes.recipeListing/filter/guests/recipeID/6167/Recipe.cfm
+http://www.dianasdesserts.com/index.cfm/fuseaction/recipes.recipeListing/filter/guests/recipeID/6708/Recipe.cfm
 http://www.dianasdesserts.com/index.cfm/fuseaction/recipes.recipeListing/filter/guests/recipeID/1706/Recipe.cfm
-http://www.dianasdesserts.com/index.cfm/fuseaction/recipes.categorylistings/categoryID/19/filter/guests/CategoryListings.cfm
 
-Hierarchial Clustering Results: 
+Single Hierarchial Clustering Results: 
+https://www.tashasartisanfoods.com/blog/easy-homemade-gulab-jamun/
+http://www.dianasdesserts.com/index.cfm/fuseaction/recipes.recipeListing/filter/guests/recipeID/6167/Recipe.cfm
+https://www.rajbhog.com/product/gulab-jamun/
+https://www.vegrecipesofindia.com/recipes/desserts-recipes/feed/
+https://www.vegrecipesofindia.com/gulab-jamun-recipe-with-khoya/comment-page-14/
+https://www.tashasartisanfoods.com/blog/desserts/page/3/
+http://www.dianasdesserts.com/index.cfm/fuseaction/recipes.recipeListing/filter/guests/recipeID/6708/Recipe.cfm
+https://www.vegrecipesofindia.com/gulab-jamun-recipe-with-khoya/feed/
+http://www.dianasdesserts.com/index.cfm/fuseaction/recipes.recipeListing/filter/guests/recipeID/1706/Recipe.cfm
+https://www.rajbhog.com/product-category/sweets/feed/
+http://www.dianasdesserts.com/index.cfm/fuseaction/recipes.categorylistings/categoryID/19/filter/guests/CategoryListings.cfm
+https://www.vegrecipesofindia.com/gulab-jamun-recipe-with-khoya/
+http://www.dianasdesserts.com/index.cfm/fuseaction/recipes.recipeListing/filter/guests/recipeID/2770/Recipe.cfm
+http://ivoryhut.com/tag/travel/
+http://www.dianasdesserts.com/index.cfm/fuseaction/recipes.recipeListing/filter/guests/recipeID/4164/Recipe.cfm
+
+Average Hierarchial Clustering Results: 
 https://www.tashasartisanfoods.com/blog/easy-homemade-gulab-jamun/
 http://www.dianasdesserts.com/index.cfm/fuseaction/recipes.recipeListing/filter/guests/recipeID/6167/Recipe.cfm
 https://www.vegrecipesofindia.com/gulab-jamun-recipe-with-khoya/comment-page-14/
+http://www.dianasdesserts.com/index.cfm/fuseaction/recipes.recipeListing/filter/guests/recipeID/6708/Recipe.cfm
 https://www.vegrecipesofindia.com/gulab-jamun-recipe-with-khoya/feed/
 http://www.dianasdesserts.com/index.cfm/fuseaction/recipes.recipeListing/filter/guests/recipeID/1706/Recipe.cfm
-http://www.dianasdesserts.com/index.cfm/fuseaction/recipes.recipeListing/filter/guests/recipeID/6708/Recipe.cfm
-http://www.dianasdesserts.com/index.cfm/fuseaction/recipes.recipeListing/filter/guests/recipeID/4164/Recipe.cfm
-http://www.dianasdesserts.com/index.cfm/fuseaction/recipes.recipeListing/filter/guests/recipeID/1807/Recipe.cfm
 http://www.dianasdesserts.com/index.cfm/fuseaction/recipes.recipeListing/filter/guests/recipeID/2770/Recipe.cfm
-http://www.dianasdesserts.com/index.cfm/fuseaction/recipes.recipeListing/filter/guests/recipeID/3168/Recipe.cfm
-http://www.dianasdesserts.com/index.cfm/fuseaction/recipes.recipeListing/filter/guests/recipeID/2769/Recipe.cfm
-http://www.dianasdesserts.com/index.cfm/fuseaction/recipes.recipeListing/filter/guests/recipeID/2767/Recipe.cfm
-http://www.dianasdesserts.com/index.cfm/fuseaction/recipes.recipeListing/filter/guests/recipeID/2087/Recipe.cfm
-http://www.dianasdesserts.com/index.cfm/fuseaction/recipes.recipeListing/filter/guests/recipeID/2761/Recipe.cfm
+http://ivoryhut.com/tag/travel/
+http://www.dianasdesserts.com/index.cfm/fuseaction/recipes.recipeListing/filter/guests/recipeID/4164/Recipe.cfm
 http://www.dianasdesserts.com/index.cfm/fuseaction/recipes.recipeListing/filter/guests/recipeID/1510/Recipe.cfm
+http://www.dianasdesserts.com/index.cfm/fuseaction/recipes.recipeListing/filter/guests/recipeID/2087/Recipe.cfm
+http://www.dianasdesserts.com/index.cfm/fuseaction/recipes.recipeListing/filter/guests/recipeID/2767/Recipe.cfm
+http://www.dianasdesserts.com/index.cfm/fuseaction/recipes.recipeListing/filter/guests/recipeID/2769/Recipe.cfm
+http://www.dianasdesserts.com/index.cfm/fuseaction/recipes.recipeListing/filter/guests/recipeID/3168/Recipe.cfm
+http://www.dianasdesserts.com/index.cfm/fuseaction/recipes.recipeListing/filter/guests/recipeID/1807/Recipe.cfm

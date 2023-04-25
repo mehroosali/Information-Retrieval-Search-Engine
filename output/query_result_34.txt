@@ -3,51 +3,68 @@ Query: chocolate mousse
 Solr Results
 https://www.theansweriscake.com/tag/cake-with-white-chocolate-mousse/feed/
 https://www.tessadomesticdiva.com/raw-dark-chocolate-mousse-paleo-friendly/
-http://www.dianasdesserts.com/index.cfm/fuseaction/recipes.recipeListing/filter/dianas/recipeID/1264/Recipe.cfm
+http://tinaschic.com/2017/12/chocolate-mousse/feed/
+https://www.bakeat350.net/2020/05/chocolate-mousse-cake-with-raspberry-sauce.html
+http://www.dianasdesserts.com/index.cfm/fuseaction/recipes.recipeListing/filter/dianas/recipeID/1176/Recipe.cfm
 https://www.theansweriscake.com/white-chocolate-mousse-truffle-cake/feed/
-https://www.theansweriscake.com/white-chocolate-mousse-truffle-cake/
-https://karluci.com/2019/02/02/vegan-chocolate-mousse-with-cauliflower/feed/
 https://www.thelittleepicurean.com/2019/08/chocolate-mousse-pie.html
 http://www.dianasdesserts.com/index.cfm/fuseaction/recipes.recipeListing/filter/dianas/recipeID/1174/Recipe.cfm
-https://www.bakeat350.net/2020/05/chocolate-mousse-cake-with-raspberry-sauce.html
 http://www.dianasdesserts.com/index.cfm/fuseaction/recipes.recipeListing/filter/dianas/recipeID/572/Recipe.cfm
-http://tinaschic.com/2017/12/chocolate-mousse/feed/
-http://www.dianasdesserts.com/index.cfm/fuseaction/recipes.recipeListing/filter/dianas/recipeID/1176/Recipe.cfm
+http://www.dianasdesserts.com/index.cfm/fuseaction/recipes.recipeListing/filter/dianas/recipeID/1264/Recipe.cfm
+https://karluci.com/2019/02/02/vegan-chocolate-mousse-with-cauliflower/feed/
+https://www.theansweriscake.com/white-chocolate-mousse-truffle-cake/
 https://karluci.com/2019/02/02/vegan-chocolate-mousse-with-cauliflower/amp/
-https://www.joyofbaking.com/printpages/ChocMousseprint.html
-https://pastrychefonline.com/making-mousse/
+https://www.wholefoodsmarket.com/recipes/sweet-potato-chocolate-mousse
+https://www.masterstech-home.com/the_kitchen/recipes/Dessert_Recipes/MintWhiteChocolateMousse.html
 
 
 Flat Clustering Results: 
-http://www.dianasdesserts.com/index.cfm/fuseaction/recipes.recipeListing/filter/dianas/recipeID/1264/Recipe.cfm
+http://www.dianasdesserts.com/index.cfm/fuseaction/recipes.recipeListing/filter/dianas/recipeID/1176/Recipe.cfm
 https://www.thelittleepicurean.com/2019/08/chocolate-mousse-pie.html
 http://www.dianasdesserts.com/index.cfm/fuseaction/recipes.recipeListing/filter/dianas/recipeID/1174/Recipe.cfm
 http://www.dianasdesserts.com/index.cfm/fuseaction/recipes.recipeListing/filter/dianas/recipeID/572/Recipe.cfm
-http://www.dianasdesserts.com/index.cfm/fuseaction/recipes.recipeListing/filter/dianas/recipeID/1176/Recipe.cfm
+http://www.dianasdesserts.com/index.cfm/fuseaction/recipes.recipeListing/filter/dianas/recipeID/1264/Recipe.cfm
 https://karluci.com/2019/02/02/vegan-chocolate-mousse-with-cauliflower/amp/
-https://www.joyofbaking.com/printpages/ChocMousseprint.html
 https://www.masterstech-home.com/the_kitchen/recipes/Dessert_Recipes/MintWhiteChocolateMousse.html
+https://www.joyofbaking.com/printpages/ChocMousseprint.html
 https://www.chocolatemoosey.com/brownie-bottom-chocolate-mousse-cake/
+https://www.cs.cmu.edu/~mjw/recipes/dessert/choc-mousse.html
 https://www.joyofbaking.com/ChocolateMousse.html
+https://karluci.com/2019/02/02/vegan-chocolate-mousse-with-cauliflower/
 https://www.joyofbaking.com/printpages/ChocolateMousseCakesprint.html
 https://www.christinascucina.com/pumpkin-cheesecake-and-chocolate-mousse/
 https://www.masterstech-home.com/the_kitchen/recipes/Dessert_Recipes/ChocolateMousse2.html
-https://karluci.com/2019/02/02/vegan-chocolate-mousse-with-cauliflower/
-https://www.cs.cmu.edu/~mjw/recipes/dessert/choc-mousse.html
 
-Hierarchial Clustering Results: 
+Single Hierarchial Clustering Results: 
+https://www.theansweriscake.com/tag/cake-with-white-chocolate-mousse/feed/
 https://www.tessadomesticdiva.com/raw-dark-chocolate-mousse-paleo-friendly/
-http://www.dianasdesserts.com/index.cfm/fuseaction/recipes.recipeListing/filter/dianas/recipeID/1264/Recipe.cfm
+http://tinaschic.com/2017/12/chocolate-mousse/feed/
+https://www.bakeat350.net/2020/05/chocolate-mousse-cake-with-raspberry-sauce.html
+http://www.dianasdesserts.com/index.cfm/fuseaction/recipes.recipeListing/filter/dianas/recipeID/1176/Recipe.cfm
 https://www.theansweriscake.com/white-chocolate-mousse-truffle-cake/feed/
-https://karluci.com/2019/02/02/vegan-chocolate-mousse-with-cauliflower/feed/
 https://www.thelittleepicurean.com/2019/08/chocolate-mousse-pie.html
 http://www.dianasdesserts.com/index.cfm/fuseaction/recipes.recipeListing/filter/dianas/recipeID/1174/Recipe.cfm
-https://www.bakeat350.net/2020/05/chocolate-mousse-cake-with-raspberry-sauce.html
 http://www.dianasdesserts.com/index.cfm/fuseaction/recipes.recipeListing/filter/dianas/recipeID/572/Recipe.cfm
-http://tinaschic.com/2017/12/chocolate-mousse/feed/
-http://www.dianasdesserts.com/index.cfm/fuseaction/recipes.recipeListing/filter/dianas/recipeID/1176/Recipe.cfm
+http://www.dianasdesserts.com/index.cfm/fuseaction/recipes.recipeListing/filter/dianas/recipeID/1264/Recipe.cfm
+https://karluci.com/2019/02/02/vegan-chocolate-mousse-with-cauliflower/feed/
+https://www.theansweriscake.com/white-chocolate-mousse-truffle-cake/
 https://karluci.com/2019/02/02/vegan-chocolate-mousse-with-cauliflower/amp/
-https://pastrychefonline.com/making-mousse/
-https://neverendingjourneys.com/2020/08/02/easy-vegan-chocolate-mousse-recipe/feed/
-https://www.bakeat350.net/feeds/4724803362514572495/comments/default
+https://www.wholefoodsmarket.com/recipes/sweet-potato-chocolate-mousse
 https://www.masterstech-home.com/the_kitchen/recipes/Dessert_Recipes/MintWhiteChocolateMousse.html
+
+Average Hierarchial Clustering Results: 
+https://www.tessadomesticdiva.com/raw-dark-chocolate-mousse-paleo-friendly/
+http://tinaschic.com/2017/12/chocolate-mousse/feed/
+https://www.bakeat350.net/2020/05/chocolate-mousse-cake-with-raspberry-sauce.html
+http://www.dianasdesserts.com/index.cfm/fuseaction/recipes.recipeListing/filter/dianas/recipeID/1176/Recipe.cfm
+https://www.theansweriscake.com/white-chocolate-mousse-truffle-cake/feed/
+https://www.thelittleepicurean.com/2019/08/chocolate-mousse-pie.html
+http://www.dianasdesserts.com/index.cfm/fuseaction/recipes.recipeListing/filter/dianas/recipeID/1174/Recipe.cfm
+http://www.dianasdesserts.com/index.cfm/fuseaction/recipes.recipeListing/filter/dianas/recipeID/572/Recipe.cfm
+http://www.dianasdesserts.com/index.cfm/fuseaction/recipes.recipeListing/filter/dianas/recipeID/1264/Recipe.cfm
+https://karluci.com/2019/02/02/vegan-chocolate-mousse-with-cauliflower/feed/
+https://karluci.com/2019/02/02/vegan-chocolate-mousse-with-cauliflower/amp/
+https://www.wholefoodsmarket.com/recipes/sweet-potato-chocolate-mousse
+https://www.masterstech-home.com/the_kitchen/recipes/Dessert_Recipes/MintWhiteChocolateMousse.html
+https://www.theansweriscake.com/tag/mousse-cake/feed/
+https://www.bakeat350.net/feeds/4724803362514572495/comments/default

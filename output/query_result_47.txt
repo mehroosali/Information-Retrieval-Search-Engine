@@ -3,51 +3,68 @@ Query: Souffle
 Solr Results
 http://www.jewishfood-list.com/recipes/brunch/blintz/&blintz_index.html
 http://www.jewishfood-list.com/recipes/shavuot/blintz/&shavuot_blintz_index.html
-http://www.dianasdesserts.com/index.cfm/fuseaction/recipes.recipeListing/filter/dianas/recipeID/2573/Recipe.cfm
-http://www.theansweriscake.com/chocolate-fallen-souffle-cake/
 https://monrealescookinginspirations.com/index.php/2016/08/03/passionfruit-soufflepuddings/feed/
-https://www.cs.cmu.edu/~mjw/recipes/souffle/sweet/chestnut-souf.html
-https://www.cs.cmu.edu/~mjw/recipes/souffle/sweet/maple-souf.html
-https://www.theansweriscake.com/chocolate-fallen-souffle-cake/
-https://www.theansweriscake.com/chocolate-fallen-souffle-cake/feed/
+http://www.dianasdesserts.com/index.cfm/fuseaction/recipes.recipeListing/filter/dianas/recipeID/2573/Recipe.cfm
 https://www.cs.cmu.edu/~mjw/recipes/souffle/sweet/index.html
-http://www.jewishfood-list.com/recipes/brunch/blintz/blintzsoufflecherry01.html
 https://www.masterstech-home.com/the_kitchen/recipes/Dessert_Recipes/MapleSouffle.html
+https://www.theansweriscake.com/chocolate-fallen-souffle-cake/feed/
+https://www.theansweriscake.com/chocolate-fallen-souffle-cake/
+https://www.cs.cmu.edu/~mjw/recipes/souffle/sweet/maple-souf.html
+http://www.jewishfood-list.com/recipes/brunch/blintz/blintzsoufflecherry01.html
+https://www.cs.cmu.edu/~mjw/recipes/souffle/sweet/chestnut-souf.html
+http://www.theansweriscake.com/chocolate-fallen-souffle-cake/
 http://jewishfood-list.com/recipes/appetizer/eggplantsouffle01.html
-https://www.theansweriscake.com/tag/fallen-chocolate-souffle-cake/
-http://www.dianasdesserts.com/index.cfm/fuseaction/recipes.recipeListing/filter/dianas/recipeID/2569/Recipe.cfm
+https://www.masterstech-home.com/the_kitchen/Recipes/Main_Course_Recipes/Seafood_Recipes/WhitebaitSouffle.html
+http://jewishfood-list.com/recipes/brunch/blintz/blintzsoufflefast01.html
 
 
 Flat Clustering Results: 
 http://www.jewishfood-list.com/recipes/brunch/blintz/&blintz_index.html
 http://www.jewishfood-list.com/recipes/shavuot/blintz/&shavuot_blintz_index.html
 https://monrealescookinginspirations.com/index.php/2016/08/03/passionfruit-soufflepuddings/feed/
-https://www.cs.cmu.edu/~mjw/recipes/souffle/sweet/maple-souf.html
 https://www.cs.cmu.edu/~mjw/recipes/souffle/sweet/index.html
+https://www.cs.cmu.edu/~mjw/recipes/souffle/sweet/maple-souf.html
 https://food52.com/hotline/51510-can-i-prepare-a-souffle-recipe-in-advsnce-transport-to-another-home-and-cook-the-finished-product-t
 https://iamafoodblog.com/fluffy-japanese-pancakes-souffle-pancake-recipe/
-https://food52.com/tags/southern
 https://tranchedepain.com/page/2/
-https://marshmallowfluff.com/online-yummy-book/
-https://tranchedepain.com/amp/page/2/
-https://food52.com/tags/bread
 https://www.joyofbaking.com/printpages/raspberriesprint.html
+https://tranchedepain.com/amp/page/2/
 https://tranchedepain.com/millefeuille-au-14-arpents/
-https://tranchedepain.com/nouveau-menu-au-jack-saloon/
+https://food52.com/tags/bread
+https://food52.com/tags/southern
+https://marshmallowfluff.com/online-yummy-book/
+https://food52.com/hotline/questions/baking
 
-Hierarchial Clustering Results: 
+Single Hierarchial Clustering Results: 
 http://www.jewishfood-list.com/recipes/brunch/blintz/&blintz_index.html
 http://www.jewishfood-list.com/recipes/shavuot/blintz/&shavuot_blintz_index.html
-http://www.dianasdesserts.com/index.cfm/fuseaction/recipes.recipeListing/filter/dianas/recipeID/2573/Recipe.cfm
-http://www.theansweriscake.com/chocolate-fallen-souffle-cake/
 https://monrealescookinginspirations.com/index.php/2016/08/03/passionfruit-soufflepuddings/feed/
-https://www.cs.cmu.edu/~mjw/recipes/souffle/sweet/chestnut-souf.html
-https://www.cs.cmu.edu/~mjw/recipes/souffle/sweet/maple-souf.html
-https://www.theansweriscake.com/chocolate-fallen-souffle-cake/
+http://www.dianasdesserts.com/index.cfm/fuseaction/recipes.recipeListing/filter/dianas/recipeID/2573/Recipe.cfm
+https://www.cs.cmu.edu/~mjw/recipes/souffle/sweet/index.html
+https://www.masterstech-home.com/the_kitchen/recipes/Dessert_Recipes/MapleSouffle.html
 https://www.theansweriscake.com/chocolate-fallen-souffle-cake/feed/
+https://www.theansweriscake.com/chocolate-fallen-souffle-cake/
+https://www.cs.cmu.edu/~mjw/recipes/souffle/sweet/maple-souf.html
 http://www.jewishfood-list.com/recipes/brunch/blintz/blintzsoufflecherry01.html
-https://www.theansweriscake.com/tag/fallen-chocolate-souffle-cake/
-http://www.dianasdesserts.com/index.cfm/fuseaction/recipes.recipeListing/filter/dianas/recipeID/2569/Recipe.cfm
-http://www.jewishfood-list.com/recipes/salad/coleslawsouffle01.html
+https://www.cs.cmu.edu/~mjw/recipes/souffle/sweet/chestnut-souf.html
+http://www.theansweriscake.com/chocolate-fallen-souffle-cake/
+https://www.masterstech-home.com/the_kitchen/Recipes/Main_Course_Recipes/Seafood_Recipes/WhitebaitSouffle.html
 http://jewishfood-list.com/recipes/brunch/blintz/blintzsoufflefast01.html
+https://www.cs.cmu.edu/~mjw/recipes/souffle/sweet/orange-souf.html
+
+Average Hierarchial Clustering Results: 
+http://www.jewishfood-list.com/recipes/brunch/blintz/&blintz_index.html
+http://www.jewishfood-list.com/recipes/shavuot/blintz/&shavuot_blintz_index.html
+https://monrealescookinginspirations.com/index.php/2016/08/03/passionfruit-soufflepuddings/feed/
+http://www.dianasdesserts.com/index.cfm/fuseaction/recipes.recipeListing/filter/dianas/recipeID/2573/Recipe.cfm
+https://www.theansweriscake.com/chocolate-fallen-souffle-cake/feed/
+https://www.theansweriscake.com/chocolate-fallen-souffle-cake/
+https://www.cs.cmu.edu/~mjw/recipes/souffle/sweet/maple-souf.html
+http://www.jewishfood-list.com/recipes/brunch/blintz/blintzsoufflecherry01.html
+https://www.cs.cmu.edu/~mjw/recipes/souffle/sweet/chestnut-souf.html
+http://www.theansweriscake.com/chocolate-fallen-souffle-cake/
+http://jewishfood-list.com/recipes/brunch/blintz/blintzsoufflefast01.html
+https://www.cs.cmu.edu/~mjw/recipes/souffle/sweet/orange-souf.html
+https://www.theansweriscake.com/tag/fallen-chocolate-souffle-cake/
+http://www.jewishfood-list.com/recipes/salad/coleslawsouffle01.html
 http://jewishfood-list.com/recipes/kugel/savory_kugel/matzosouffle01.html

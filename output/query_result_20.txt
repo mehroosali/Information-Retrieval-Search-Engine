@@ -3,51 +3,68 @@ Query: black forest cake
 Solr Results
 https://www.theansweriscake.com/tag/cherry-chocolate-cake-recipe/feed/
 http://www.theansweriscake.com/easy-black-forest-cake-recipe/
-http://www.theansweriscake.com/black-forest-gateaux/
-https://www.theansweriscake.com/tag/retro-cake/feed/
 https://www.cs.cmu.edu/~mjw/recipes/cake/choc-cake/index.html
 https://www.joyofbaking.com/BlackForestCake.html
-https://www.joyofbaking.com/printpages/BlackForestCakeprint.html
 https://www.cs.cmu.edu/~mjw/recipes/dessert/cherry-crisp.html
-https://neverendingjourneys.com/2017/11/19/black-forest-dump-cake-recipe/
-http://www.dianasdesserts.com/index.cfm/fuseaction/recipes.recipeListing/filter/dianas/recipeID/1007/Recipe.cfm
+https://www.theansweriscake.com/tag/retro-cake/feed/
 http://www.theansweriscake.com/cherry-cake-recipes/
+https://neverendingjourneys.com/2017/11/19/black-forest-dump-cake-recipe/
 http://www.dianasdesserts.com/index.cfm/fuseaction/recipes.recipeListing/filter/dianas/recipeID/6109/Recipe.cfm
-https://www.joyofbaking.com/biscotti/other/ValentinesDayDesserts.html
+https://www.joyofbaking.com/printpages/BlackForestCakeprint.html
+http://www.theansweriscake.com/black-forest-gateaux/
+http://www.dianasdesserts.com/index.cfm/fuseaction/recipes.recipeListing/filter/dianas/recipeID/1007/Recipe.cfm
 http://www.yummytummyrecipeindex.com/2010/11/cakes.html
-https://www.joyofbaking.com/other/ValentinesDayDesserts.html
+https://www.theansweriscake.com/tag/chocolate-cherry-cake-recipe/
+https://www.theansweriscake.com/tag/retro-cake/
 
 
 Flat Clustering Results: 
 https://www.theansweriscake.com/tag/cherry-chocolate-cake-recipe/feed/
 http://www.theansweriscake.com/easy-black-forest-cake-recipe/
-http://www.theansweriscake.com/black-forest-gateaux/
-https://www.theansweriscake.com/tag/retro-cake/feed/
 https://www.cs.cmu.edu/~mjw/recipes/cake/choc-cake/index.html
 https://www.joyofbaking.com/BlackForestCake.html
-https://neverendingjourneys.com/2017/11/19/black-forest-dump-cake-recipe/
-http://www.dianasdesserts.com/index.cfm/fuseaction/recipes.recipeListing/filter/dianas/recipeID/1007/Recipe.cfm
+https://www.theansweriscake.com/tag/retro-cake/feed/
 http://www.theansweriscake.com/cherry-cake-recipes/
+https://neverendingjourneys.com/2017/11/19/black-forest-dump-cake-recipe/
 http://www.dianasdesserts.com/index.cfm/fuseaction/recipes.recipeListing/filter/dianas/recipeID/6109/Recipe.cfm
-https://www.joyofbaking.com/biscotti/other/ValentinesDayDesserts.html
+http://www.theansweriscake.com/black-forest-gateaux/
+http://www.dianasdesserts.com/index.cfm/fuseaction/recipes.recipeListing/filter/dianas/recipeID/1007/Recipe.cfm
 http://www.yummytummyrecipeindex.com/2010/11/cakes.html
-https://www.joyofbaking.com/other/ValentinesDayDesserts.html
-https://www.theansweriscake.com/tag/retro-cake/
 https://www.theansweriscake.com/tag/chocolate-cherry-cake-recipe/
+https://www.theansweriscake.com/tag/retro-cake/
+https://www.joyofbaking.com/biscotti/other/ValentinesDayDesserts.html
+https://www.theansweriscake.com/cherry-cake-recipes/
 
-Hierarchial Clustering Results: 
+Single Hierarchial Clustering Results: 
 https://www.theansweriscake.com/tag/cherry-chocolate-cake-recipe/feed/
 http://www.theansweriscake.com/easy-black-forest-cake-recipe/
-http://www.theansweriscake.com/black-forest-gateaux/
 https://www.cs.cmu.edu/~mjw/recipes/cake/choc-cake/index.html
-https://neverendingjourneys.com/2017/11/19/black-forest-dump-cake-recipe/
+https://www.joyofbaking.com/BlackForestCake.html
+https://www.cs.cmu.edu/~mjw/recipes/dessert/cherry-crisp.html
+https://www.theansweriscake.com/tag/retro-cake/feed/
 http://www.theansweriscake.com/cherry-cake-recipes/
+https://neverendingjourneys.com/2017/11/19/black-forest-dump-cake-recipe/
 http://www.dianasdesserts.com/index.cfm/fuseaction/recipes.recipeListing/filter/dianas/recipeID/6109/Recipe.cfm
+https://www.joyofbaking.com/printpages/BlackForestCakeprint.html
+http://www.theansweriscake.com/black-forest-gateaux/
+http://www.dianasdesserts.com/index.cfm/fuseaction/recipes.recipeListing/filter/dianas/recipeID/1007/Recipe.cfm
 http://www.yummytummyrecipeindex.com/2010/11/cakes.html
+https://www.theansweriscake.com/tag/chocolate-cherry-cake-recipe/
+https://www.theansweriscake.com/tag/retro-cake/
+
+Average Hierarchial Clustering Results: 
+https://www.theansweriscake.com/tag/cherry-chocolate-cake-recipe/feed/
+http://www.theansweriscake.com/easy-black-forest-cake-recipe/
+https://www.cs.cmu.edu/~mjw/recipes/cake/choc-cake/index.html
+http://www.theansweriscake.com/cherry-cake-recipes/
+https://neverendingjourneys.com/2017/11/19/black-forest-dump-cake-recipe/
+http://www.dianasdesserts.com/index.cfm/fuseaction/recipes.recipeListing/filter/dianas/recipeID/6109/Recipe.cfm
+http://www.theansweriscake.com/black-forest-gateaux/
+http://www.yummytummyrecipeindex.com/2010/11/cakes.html
+https://www.theansweriscake.com/tag/chocolate-cherry-cake-recipe/
 https://www.theansweriscake.com/tag/retro-cake/
 https://www.eatthis.com/old-fashioned-chocolate-desserts-recipes/
-http://www.dianasdesserts.com/index.cfm/fuseaction/recipes.recipeListing/filter/dianas/recipeID/461/Recipe.cfm
-https://www.theansweriscake.com/tag/chocolate-cherry-cake-recipe/
-https://www.theansweriscake.com/tag/cherry-chocolate-cake-recipe/
 https://www.cs.cmu.edu/~mjw/recipes/cake/choc-cake/blk-forest-coll.html
-http://www.dianasdesserts.com/index.cfm/fuseaction/recipes.recipeListing/filter/dianas/recipeID/945/Recipe.cfm
+http://www.dianasdesserts.com/index.cfm/fuseaction/recipes.recipeListing/filter/dianas/recipeID/461/Recipe.cfm
+https://www.theansweriscake.com/tag/cherry-chocolate-cake-recipe/
+http://www.dianasdesserts.com/index.cfm/fuseaction/recipes.recipeListing/filter/dianas/recipeID/852/Recipe.cfm

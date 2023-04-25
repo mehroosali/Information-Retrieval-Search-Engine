@@ -3,51 +3,68 @@ Query: Bread pudding
 Solr Results
 https://pastrychefonline.com/apple-butter-bread-pudding/feed/
 https://www.tashasartisanfoods.com/blog/chocolate-chip-bread-pudding/
-https://www.littlesweetbaker.com/easy-bread-pudding-recipe/feed/
-https://www.shugarysweets.com/dads-bread-pudding/comment-page-2/
+https://cooking.nytimes.com/recipes/1023558-mushroom-and-gruyere-bread-pudding
 https://cooking.nytimes.com/recipes/1020551-mushroom-bread-pudding
 https://www.tashasartisanfoods.com/blog/cinnamon-bread-pudding/feed/
-https://cooking.nytimes.com/recipes/1023558-mushroom-and-gruyere-bread-pudding
-https://www.littlesweetbaker.com/croissant-bread-pudding/feed/
 https://www.shugarysweets.com/dads-bread-pudding/feed/
 https://www.thelittleepicurean.com/2019/12/banana-foster-bread-pudding.html
-http://www.dianasdesserts.com/index.cfm/fuseaction/recipes.recipeListing/filter/guests/recipeID/486/Recipe.cfm
 https://www.shugarysweets.com/dads-bread-pudding/
-http://www.dianasdesserts.com/index.cfm/fuseaction/recipes.recipeListing/filter/dianas/recipeID/2227/Recipe.cfm
+https://www.littlesweetbaker.com/croissant-bread-pudding/feed/
+https://www.littlesweetbaker.com/easy-bread-pudding-recipe/feed/
+https://www.shugarysweets.com/dads-bread-pudding/comment-page-2/
+http://www.dianasdesserts.com/index.cfm/fuseaction/recipes.recipeListing/filter/guests/recipeID/486/Recipe.cfm
+https://www.christinascucina.com/custard-bread-pudding-with-raspberry-coulis/comment-page-1/
 http://www.dianasdesserts.com/index.cfm/fuseaction/recipes.recipeListing/filter/dianas/recipeID/2261/Recipe.cfm
-https://pastrychefonline.com/apple-butter-bread-pudding/
+https://www.christinascucina.com/custard-bread-pudding-with-raspberry-coulis/
 
 
 Flat Clustering Results: 
+https://cooking.nytimes.com/recipes/1023558-mushroom-and-gruyere-bread-pudding
 https://cooking.nytimes.com/recipes/1020551-mushroom-bread-pudding
 https://www.tashasartisanfoods.com/blog/cinnamon-bread-pudding/feed/
-https://cooking.nytimes.com/recipes/1023558-mushroom-and-gruyere-bread-pudding
-https://www.littlesweetbaker.com/croissant-bread-pudding/
-https://momsdish.com/brioche-bread-pudding
 https://food52.com/blog/21366-how-to-make-ranfanote-peruvian-bread-pudding
+https://momsdish.com/brioche-bread-pudding
+https://www.littlesweetbaker.com/croissant-bread-pudding/
 https://littlesunnykitchen.com/croissant-bread-pudding/
 http://www.myrecessionkitchen.com/2014/11/
 https://www.thelittleepicurean.com/2019/12/banana-foster-bread-pudding.html
 http://www.dianasdesserts.com/index.cfm/fuseaction/recipes.recipeListing/filter/guests/recipeID/486/Recipe.cfm
-http://www.dianasdesserts.com/index.cfm/fuseaction/recipes.recipeListing/filter/dianas/recipeID/2227/Recipe.cfm
 http://www.dianasdesserts.com/index.cfm/fuseaction/recipes.recipeListing/filter/dianas/recipeID/2261/Recipe.cfm
-http://www.dianasdesserts.com/index.cfm/fuseaction/recipes.recipeListing/filter/dianas/recipeID/569/Recipe.cfm
 https://www.thelittleepicurean.com/category/desserts/puddings
+http://www.dianasdesserts.com/index.cfm/fuseaction/recipes.recipeListing/filter/dianas/recipeID/2227/Recipe.cfm
+http://www.dianasdesserts.com/index.cfm/fuseaction/recipes.recipeListing/filter/dianas/recipeID/569/Recipe.cfm
 https://www.masterstech-home.com/the_kitchen/recipes/Dessert_Recipes/ChocolateBreadPudding.html
 
-Hierarchial Clustering Results: 
+Single Hierarchial Clustering Results: 
 https://pastrychefonline.com/apple-butter-bread-pudding/feed/
-https://cooking.nytimes.com/recipes/1020551-mushroom-bread-pudding
+https://www.tashasartisanfoods.com/blog/chocolate-chip-bread-pudding/
 https://cooking.nytimes.com/recipes/1023558-mushroom-and-gruyere-bread-pudding
+https://cooking.nytimes.com/recipes/1020551-mushroom-bread-pudding
+https://www.tashasartisanfoods.com/blog/cinnamon-bread-pudding/feed/
+https://www.shugarysweets.com/dads-bread-pudding/feed/
+https://www.thelittleepicurean.com/2019/12/banana-foster-bread-pudding.html
+https://www.shugarysweets.com/dads-bread-pudding/
+https://www.littlesweetbaker.com/croissant-bread-pudding/feed/
+https://www.littlesweetbaker.com/easy-bread-pudding-recipe/feed/
+https://www.shugarysweets.com/dads-bread-pudding/comment-page-2/
 http://www.dianasdesserts.com/index.cfm/fuseaction/recipes.recipeListing/filter/guests/recipeID/486/Recipe.cfm
-http://www.dianasdesserts.com/index.cfm/fuseaction/recipes.recipeListing/filter/dianas/recipeID/2227/Recipe.cfm
+https://www.christinascucina.com/custard-bread-pudding-with-raspberry-coulis/comment-page-1/
 http://www.dianasdesserts.com/index.cfm/fuseaction/recipes.recipeListing/filter/dianas/recipeID/2261/Recipe.cfm
-https://pastrychefonline.com/apple-butter-bread-pudding/
-http://www.dianasdesserts.com/index.cfm/fuseaction/recipes.recipeListing/filter/dianas/recipeID/569/Recipe.cfm
-https://www.christinascucina.com/aunt-rosas-british-bread-pudding-not-to-be-confused-with-bread-and-butter-pudding/
-https://www.thelittleepicurean.com/category/desserts/puddings
 https://www.christinascucina.com/custard-bread-pudding-with-raspberry-coulis/
-https://pastrychefonline.com/chocolate-glazed-doughnut-bread-pudding/feed/
-https://momsdish.com/brioche-bread-pudding
-https://easydessertrecipes.com/banana-bread-pudding-recipe/
+
+Average Hierarchial Clustering Results: 
+https://pastrychefonline.com/apple-butter-bread-pudding/feed/
+https://cooking.nytimes.com/recipes/1023558-mushroom-and-gruyere-bread-pudding
+https://cooking.nytimes.com/recipes/1020551-mushroom-bread-pudding
+http://www.dianasdesserts.com/index.cfm/fuseaction/recipes.recipeListing/filter/guests/recipeID/486/Recipe.cfm
+http://www.dianasdesserts.com/index.cfm/fuseaction/recipes.recipeListing/filter/dianas/recipeID/2261/Recipe.cfm
+https://www.christinascucina.com/custard-bread-pudding-with-raspberry-coulis/
+https://www.thelittleepicurean.com/category/desserts/puddings
+http://www.dianasdesserts.com/index.cfm/fuseaction/recipes.recipeListing/filter/dianas/recipeID/2227/Recipe.cfm
+https://www.christinascucina.com/aunt-rosas-british-bread-pudding-not-to-be-confused-with-bread-and-butter-pudding/
+http://www.dianasdesserts.com/index.cfm/fuseaction/recipes.recipeListing/filter/dianas/recipeID/569/Recipe.cfm
+https://pastrychefonline.com/apple-butter-bread-pudding/
+https://www.christinascucina.com/custard-bread-pudding-with-raspberry-coulis/feed/
+https://food52.com/blog/21366-how-to-make-ranfanote-peruvian-bread-pudding
 https://www.yummly.com/recipe/Banana-Chocolate-Chip-Bread-Pudding-9092210
+https://pastrychefonline.com/chocolate-glazed-doughnut-bread-pudding/feed/

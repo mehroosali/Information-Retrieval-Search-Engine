@@ -3,19 +3,19 @@ Query: Brownies
 Solr Results
 http://www.jewishfood-list.com/recipes/cookie/brownie/&brownie_index.html
 http://www.yummytummyrecipeindex.com/2010/11/brownies-blondies.html
+https://www.chocolatemoosey.com/category/desserts/browniesandblondies/
+http://www.dianasdesserts.com/index.cfm/fuseaction/recipes.categorylistings/categoryID/33/filter/dianas/CategoryListings.cfm
+http://www.dianasdesserts.com/index.cfm/fuseaction/recipes.recipeListing/filter/dianas/recipeID/2040/Recipe.cfm
+https://www.bakeat350.net/p/recipe-index-brownies-and-blondies.html
+http://www.dianasdesserts.com/index.cfm/fuseaction/recipes.recipeListing/filter/dianas/recipeID/3491/Recipe.cfm
 https://dinnerthendessert.com/category/dessert/brownies-bars/page/2/
 https://dinnerthendessert.com/category/dessert/brownies-bars/
-http://www.dianasdesserts.com/index.cfm/fuseaction/recipes.categorylistings/categoryID/33/filter/dianas/CategoryListings.cfm
-https://www.shugarysweets.com/buttermilk-brownies/
-https://www.chocolatemoosey.com/category/desserts/browniesandblondies/
-https://www.bakeat350.net/p/recipe-index-brownies-and-blondies.html
-https://www.glutenfreealchemist.com/category/sweet-treats/tray-bakes-brownies/
-http://www.dianasdesserts.com/index.cfm/fuseaction/recipes.recipeListing/filter/dianas/recipeID/2040/Recipe.cfm
-http://www.dianasdesserts.com/index.cfm/fuseaction/recipes.recipeListing/filter/dianas/recipeID/3491/Recipe.cfm
 http://www.dianasdesserts.com/index.cfm/fuseaction/recipes.recipeListing/filter/dianas/recipeID/1986/Recipe.cfm
+https://www.shugarysweets.com/buttermilk-brownies/
+https://www.glutenfreealchemist.com/category/sweet-treats/tray-bakes-brownies/
 http://www.cookie-elf.com/easy-brownies-recipe.html
-http://www.cookie-elf.com/cookie-dough-brownies-recipe.html
-https://www.chocolatemoosey.com/fudgy-fluffernutter-swirl-brownies/
+http://tinaschic.com/tag/brownies/feed/
+https://www.thelittleepicurean.com/2016/12/triple-chocolate-brownies.html
 
 
 Flat Clustering Results: 
@@ -27,27 +27,44 @@ https://dinnerthendessert.com/category/dessert/brownies-bars/page/2/
 https://dinnerthendessert.com/category/dessert/brownies-bars/
 https://www.glutenfreealchemist.com/category/sweet-treats/tray-bakes-brownies/
 https://thefirstyearblog.com/recipes/brownies-and-bars/page/2/
-http://tinaschic.com/tag/brownies/
-https://thefrugalgirls.com/tag/brownies/feed
 https://thefirstyearblog.com/healthier-fudgy-brownies/
 https://www.livewellbakeoften.com/category/brownies-bars/
-https://www.livewellbakeoften.com/nutella-brownies/
 https://www.glutenfreealchemist.com/category/sweet-treats/tray-bakes-brownies/page/2/
-https://www.shugarysweets.com/nutella-brownies/
+http://tinaschic.com/tag/brownies/
+https://www.livewellbakeoften.com/nutella-brownies/
+https://thefrugalgirls.com/tag/brownies/feed
+http://tinaschic.com/category/brownies/
 
-Hierarchial Clustering Results: 
+Single Hierarchial Clustering Results: 
 http://www.jewishfood-list.com/recipes/cookie/brownie/&brownie_index.html
 http://www.yummytummyrecipeindex.com/2010/11/brownies-blondies.html
+https://www.chocolatemoosey.com/category/desserts/browniesandblondies/
+http://www.dianasdesserts.com/index.cfm/fuseaction/recipes.categorylistings/categoryID/33/filter/dianas/CategoryListings.cfm
+http://www.dianasdesserts.com/index.cfm/fuseaction/recipes.recipeListing/filter/dianas/recipeID/2040/Recipe.cfm
+https://www.bakeat350.net/p/recipe-index-brownies-and-blondies.html
+http://www.dianasdesserts.com/index.cfm/fuseaction/recipes.recipeListing/filter/dianas/recipeID/3491/Recipe.cfm
 https://dinnerthendessert.com/category/dessert/brownies-bars/page/2/
 https://dinnerthendessert.com/category/dessert/brownies-bars/
-https://www.chocolatemoosey.com/category/desserts/browniesandblondies/
+http://www.dianasdesserts.com/index.cfm/fuseaction/recipes.recipeListing/filter/dianas/recipeID/1986/Recipe.cfm
+https://www.shugarysweets.com/buttermilk-brownies/
 https://www.glutenfreealchemist.com/category/sweet-treats/tray-bakes-brownies/
+http://www.cookie-elf.com/easy-brownies-recipe.html
+http://tinaschic.com/tag/brownies/feed/
+https://www.thelittleepicurean.com/2016/12/triple-chocolate-brownies.html
+
+Average Hierarchial Clustering Results: 
+http://www.jewishfood-list.com/recipes/cookie/brownie/&brownie_index.html
+http://www.yummytummyrecipeindex.com/2010/11/brownies-blondies.html
+https://www.chocolatemoosey.com/category/desserts/browniesandblondies/
 http://www.dianasdesserts.com/index.cfm/fuseaction/recipes.recipeListing/filter/dianas/recipeID/2040/Recipe.cfm
 http://www.dianasdesserts.com/index.cfm/fuseaction/recipes.recipeListing/filter/dianas/recipeID/3491/Recipe.cfm
+https://dinnerthendessert.com/category/dessert/brownies-bars/page/2/
+https://dinnerthendessert.com/category/dessert/brownies-bars/
 http://www.dianasdesserts.com/index.cfm/fuseaction/recipes.recipeListing/filter/dianas/recipeID/1986/Recipe.cfm
-https://www.thelittleepicurean.com/category/desserts/pastries
-https://www.chocolatemoosey.com/small-batch-fudge-brownies/feed/
-https://thefirstyearblog.com/recipes/brownies-and-bars/page/2/
+https://www.glutenfreealchemist.com/category/sweet-treats/tray-bakes-brownies/
 http://tinaschic.com/tag/brownies/feed/
 https://thefirstyearblog.com/banana-brownies/
-http://tinaschic.com/tag/brownies/
+https://www.chocolatemoosey.com/small-batch-fudge-brownies/feed/
+https://thefirstyearblog.com/recipes/brownies-and-bars/page/2/
+https://www.thelittleepicurean.com/category/desserts/pastries
+https://thefirstyearblog.com/healthier-fudgy-brownies/

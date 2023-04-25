@@ -3,51 +3,68 @@ Query: key lime pie
 Solr Results
 https://bakesbybrownsugar.com/web-stories/key-lime-pie-recipe-story/
 https://cookingwithcarlee.com/dreamy-key-lime-pie/feed/
-https://cookingwithcarlee.com/dreamy-key-lime-pie/
-https://thefirstyearblog.com/key-lime-bars/
-https://www.icecream.com/us/en/recipes/key-lime-pie-smoothie-recipe-outshine
-https://www.cs.cmu.edu/~mjw/recipes/pie/sweet/key-lime-1.html
 https://butteryourbiscuit.com/no-bake-key-lime-pie/
 https://www.livewellbakeoften.com/classic-key-lime-pie/
-http://www.dianasdesserts.com/index.cfm/fuseaction/recipes.recipeListing/filter/dianas/recipeID/2526/Recipe.cfm
 https://butteryourbiscuit.com/no-bake-key-lime-pie/feed/
+http://www.dianasdesserts.com/index.cfm/fuseaction/recipes.recipeListing/filter/dianas/recipeID/2526/Recipe.cfm
 https://www.bakeat350.net/2015/05/trader-joes-key-lime-pie-review.html
 https://www.shugarysweets.com/key-lime-pie/
-https://www.cs.cmu.edu/~mjw/recipes/pie/sweet/key-lime-coll-2.html
-http://www.dianasdesserts.com/index.cfm/fuseaction/recipes.recipeListing/filter/dianas/recipeID/926/Recipe.cfm
+https://thefirstyearblog.com/key-lime-bars/
+https://cookingwithcarlee.com/dreamy-key-lime-pie/
+https://www.icecream.com/us/en/recipes/key-lime-pie-smoothie-recipe-outshine
+https://www.cs.cmu.edu/~mjw/recipes/pie/sweet/key-lime-1.html
 https://www.cs.cmu.edu/~mjw/recipes/pie/sweet/index.html
+http://www.dianasdesserts.com/index.cfm/fuseaction/recipes.recipeListing/filter/dianas/recipeID/3328/Recipe.cfm
+https://www.intheraw.com/using-itr/recipes/keto-key-lime-pie/
 
 
 Flat Clustering Results: 
-https://cookingwithcarlee.com/dreamy-key-lime-pie/
 https://butteryourbiscuit.com/no-bake-key-lime-pie/
 https://butteryourbiscuit.com/no-bake-key-lime-pie/feed/
 https://www.bakeat350.net/2015/05/trader-joes-key-lime-pie-review.html
+https://cookingwithcarlee.com/dreamy-key-lime-pie/
 https://food52.com/blog/13539-15-ways-to-make-magic-with-your-food-processor
 https://www.garnishwithlemon.com/web-stories/feed/
 https://www.bakeat350.net/2021/07/trader-joes-key-lime-kettle-corn-review.html
 https://www.eatthis.com/sitemap/year/2019/month/2/day/8/
 https://www.galvanizedbooks.com/books/7-day-smoothie-diet/
 https://www.joes.net/
+http://www.dianasdesserts.com/index.cfm/fuseaction/recipes.recipeListing/filter/dianas/recipeID/2526/Recipe.cfm
 https://thefirstyearblog.com/key-lime-bars/
 https://www.icecream.com/us/en/recipes/key-lime-pie-smoothie-recipe-outshine
-http://www.dianasdesserts.com/index.cfm/fuseaction/recipes.recipeListing/filter/dianas/recipeID/2526/Recipe.cfm
-https://www.cs.cmu.edu/~mjw/recipes/pie/sweet/key-lime-coll-2.html
-http://www.dianasdesserts.com/index.cfm/fuseaction/recipes.recipeListing/filter/dianas/recipeID/926/Recipe.cfm
+https://www.cs.cmu.edu/~mjw/recipes/pie/sweet/index.html
+http://www.dianasdesserts.com/index.cfm/fuseaction/recipes.recipeListing/filter/dianas/recipeID/3328/Recipe.cfm
 
-Hierarchial Clustering Results: 
+Single Hierarchial Clustering Results: 
 https://bakesbybrownsugar.com/web-stories/key-lime-pie-recipe-story/
 https://cookingwithcarlee.com/dreamy-key-lime-pie/feed/
-https://cookingwithcarlee.com/dreamy-key-lime-pie/
+https://butteryourbiscuit.com/no-bake-key-lime-pie/
+https://www.livewellbakeoften.com/classic-key-lime-pie/
+https://butteryourbiscuit.com/no-bake-key-lime-pie/feed/
+http://www.dianasdesserts.com/index.cfm/fuseaction/recipes.recipeListing/filter/dianas/recipeID/2526/Recipe.cfm
+https://www.bakeat350.net/2015/05/trader-joes-key-lime-pie-review.html
+https://www.shugarysweets.com/key-lime-pie/
 https://thefirstyearblog.com/key-lime-bars/
+https://cookingwithcarlee.com/dreamy-key-lime-pie/
 https://www.icecream.com/us/en/recipes/key-lime-pie-smoothie-recipe-outshine
 https://www.cs.cmu.edu/~mjw/recipes/pie/sweet/key-lime-1.html
-https://butteryourbiscuit.com/no-bake-key-lime-pie/
-http://www.dianasdesserts.com/index.cfm/fuseaction/recipes.recipeListing/filter/dianas/recipeID/2526/Recipe.cfm
-https://butteryourbiscuit.com/no-bake-key-lime-pie/feed/
-https://www.bakeat350.net/2015/05/trader-joes-key-lime-pie-review.html
-https://www.cs.cmu.edu/~mjw/recipes/pie/sweet/key-lime-coll-2.html
-http://www.dianasdesserts.com/index.cfm/fuseaction/recipes.recipeListing/filter/dianas/recipeID/926/Recipe.cfm
-https://www.cs.cmu.edu/~mjw/recipes/pie/sweet/key-lime-coll.html
-https://food52.com/blog/13539-15-ways-to-make-magic-with-your-food-processor
+https://www.cs.cmu.edu/~mjw/recipes/pie/sweet/index.html
 http://www.dianasdesserts.com/index.cfm/fuseaction/recipes.recipeListing/filter/dianas/recipeID/3328/Recipe.cfm
+https://www.intheraw.com/using-itr/recipes/keto-key-lime-pie/
+
+Average Hierarchial Clustering Results: 
+https://bakesbybrownsugar.com/web-stories/key-lime-pie-recipe-story/
+https://cookingwithcarlee.com/dreamy-key-lime-pie/feed/
+https://butteryourbiscuit.com/no-bake-key-lime-pie/
+https://butteryourbiscuit.com/no-bake-key-lime-pie/feed/
+http://www.dianasdesserts.com/index.cfm/fuseaction/recipes.recipeListing/filter/dianas/recipeID/2526/Recipe.cfm
+https://www.bakeat350.net/2015/05/trader-joes-key-lime-pie-review.html
+https://thefirstyearblog.com/key-lime-bars/
+https://cookingwithcarlee.com/dreamy-key-lime-pie/
+https://www.icecream.com/us/en/recipes/key-lime-pie-smoothie-recipe-outshine
+https://www.cs.cmu.edu/~mjw/recipes/pie/sweet/key-lime-1.html
+http://www.dianasdesserts.com/index.cfm/fuseaction/recipes.recipeListing/filter/dianas/recipeID/3328/Recipe.cfm
+https://www.intheraw.com/using-itr/recipes/keto-key-lime-pie/
+http://www.dianasdesserts.com/index.cfm/fuseaction/recipes.recipeListing/filter/dianas/recipeID/926/Recipe.cfm
+https://www.cs.cmu.edu/~mjw/recipes/pie/sweet/key-lime-coll-2.html
+https://food52.com/blog/13539-15-ways-to-make-magic-with-your-food-processor

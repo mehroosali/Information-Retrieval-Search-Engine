@@ -3,51 +3,68 @@ Query: Banana pudding
 Solr Results
 https://icecreamfromscratch.com/banana-pudding-ice-cream/
 https://familycookierecipes.com/banana-pudding-cookies/feed/
-https://www.shugarysweets.com/banana-pudding-cupcakes/
-https://www.shugarysweets.com/banana-pudding/comment-page-5/
+https://www.shugarysweets.com/banana-pudding/
 https://bakingamoment.com/banana-pudding/
 https://thefirstyearblog.com/easy-banana-pudding-recipe/feed/
-https://easydessertrecipes.com/banana-pudding-recipe/feed/
+https://www.shugarysweets.com/banana-pudding-cupcakes/
 https://funcookierecipes.com/web-stories/banana-pudding-cookies/
+https://thefirstyearblog.com/banana-pudding-poke-cake/
+https://www.shugarysweets.com/banana-pudding/comment-page-5/
+https://easydessertrecipes.com/banana-pudding-recipe/feed/
 https://whatagirleats.com/roasted-banana-pudding-parfaits-gluten-free/
 https://thefirstyearblog.com/easy-banana-pudding-recipe/
-https://thefirstyearblog.com/banana-pudding-poke-cake/
-https://www.shugarysweets.com/banana-pudding/
-https://bakingamoment.com/banana-pudding/feed/
+https://easydessertrecipes.com/banana-pudding-cookies-recipe/
 https://food52.com/blog/27870-magnolia-bakery-banana-pudding-cookies-review
-https://www.livewellbakeoften.com/banana-pudding-cheesecake/feed/
+https://cheflindseyfarr.com/banana-pudding/
 
 
 Flat Clustering Results: 
 https://easydessertrecipes.com/banana-pudding-recipe/feed/
 https://whatagirleats.com/roasted-banana-pudding-parfaits-gluten-free/
 https://food52.com/blog/27870-magnolia-bakery-banana-pudding-cookies-review
-https://www.averiecooks.com/old-fashioned-banana-pudding/
 https://cheflindseyfarr.com/banana-pudding/
-https://www.delish.com/food-news/a26874114/popeyes-banana-pudding-parfait/
+https://www.averiecooks.com/old-fashioned-banana-pudding/
 https://familycookierecipes.com/wp-json/web-stories/v1/web-story/16364
 https://www.sacurrent.com/food-drink/folks-are-going-bananas-for-san-antonio-based-whataburgers-new-banana-pudding-milkshake-29310094
+https://www.delish.com/food-news/a26874114/popeyes-banana-pudding-parfait/
 https://www.southernliving.com/culture/history-of-banana-pudding-south
-https://www.eatthis.com/vintage-desserts-restaurant-menus/
 https://www.onceuponachef.com/recipes/banana-pudding.html/comment-page-1
+https://www.eatthis.com/vintage-desserts-restaurant-menus/
 https://www.onceuponachef.com/recipes/banana-pudding.html
 https://icecreamfromscratch.com/banana-pudding-ice-cream/
 https://www.shugarysweets.com/banana-pudding/
 https://cheflindseyfarr.com/banana-pudding-ice-box-cake/
 
-Hierarchial Clustering Results: 
+Single Hierarchial Clustering Results: 
 https://icecreamfromscratch.com/banana-pudding-ice-cream/
 https://familycookierecipes.com/banana-pudding-cookies/feed/
-https://www.shugarysweets.com/banana-pudding-cupcakes/
+https://www.shugarysweets.com/banana-pudding/
+https://bakingamoment.com/banana-pudding/
 https://thefirstyearblog.com/easy-banana-pudding-recipe/feed/
-https://easydessertrecipes.com/banana-pudding-recipe/feed/
+https://www.shugarysweets.com/banana-pudding-cupcakes/
 https://funcookierecipes.com/web-stories/banana-pudding-cookies/
-https://thefirstyearblog.com/easy-banana-pudding-recipe/
 https://thefirstyearblog.com/banana-pudding-poke-cake/
-https://bakingamoment.com/banana-pudding/feed/
+https://www.shugarysweets.com/banana-pudding/comment-page-5/
+https://easydessertrecipes.com/banana-pudding-recipe/feed/
+https://whatagirleats.com/roasted-banana-pudding-parfaits-gluten-free/
+https://thefirstyearblog.com/easy-banana-pudding-recipe/
+https://easydessertrecipes.com/banana-pudding-cookies-recipe/
 https://food52.com/blog/27870-magnolia-bakery-banana-pudding-cookies-review
-https://cheflindseyfarr.com/banana-pudding-ice-box-cake/
-https://familycookierecipes.com/banana-pudding-cookies/comment-page-1/
-https://easydessertrecipes.com/banana-pudding-recipe/
-https://www.averiecooks.com/old-fashioned-banana-pudding/
 https://cheflindseyfarr.com/banana-pudding/
+
+Average Hierarchial Clustering Results: 
+https://icecreamfromscratch.com/banana-pudding-ice-cream/
+https://familycookierecipes.com/banana-pudding-cookies/feed/
+https://thefirstyearblog.com/easy-banana-pudding-recipe/feed/
+https://www.shugarysweets.com/banana-pudding-cupcakes/
+https://funcookierecipes.com/web-stories/banana-pudding-cookies/
+https://thefirstyearblog.com/banana-pudding-poke-cake/
+https://easydessertrecipes.com/banana-pudding-recipe/feed/
+https://thefirstyearblog.com/easy-banana-pudding-recipe/
+https://easydessertrecipes.com/banana-pudding-cookies-recipe/
+https://food52.com/blog/27870-magnolia-bakery-banana-pudding-cookies-review
+https://cheflindseyfarr.com/banana-pudding/
+https://bakingamoment.com/banana-pudding/feed/
+https://cheflindseyfarr.com/banana-pudding-ice-box-cake/
+https://www.averiecooks.com/old-fashioned-banana-pudding/
+https://easydessertrecipes.com/banana-pudding-recipe/

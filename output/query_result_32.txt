@@ -3,51 +3,68 @@ Query: Slushies
 Solr Results
 https://kidsactivityzone.com/homemade-slushies/feed/
 https://www.yummytoddlerfood.com/favorite-homemade-fruit-slushies/feed/
-https://thefrugalgirls.com/2015/08/dr-pepper-slush-recipe.html/feed
-https://www.chocolatemoosey.com/watermelon-slushies/feed/
-https://www.pmq.com/sip-shine/
-https://kidsactivityzone.com/homemade-slushies/
 https://www.chocolatemoosey.com/strawberry-wine-spritzer-slush/
-https://www.sweetandsavorybyshinee.com/sparkling-fruit-slushy/
-https://www.sipshine.com/sip-shine-slushies/
-https://www.pmq.com/sip-shine/feed/
+https://www.chocolatemoosey.com/watermelon-slushies/feed/
 https://www.chocolatemoosey.com/watermelon-slushies/
 https://www.yummytoddlerfood.com/favorite-homemade-fruit-slushies/
-https://www.chocolatemoosey.com/strawberry-wine-spritzer-slush/feed/
+https://thefrugalgirls.com/2015/08/dr-pepper-slush-recipe.html/feed
+https://www.pmq.com/sip-shine/
+https://www.pmq.com/sip-shine/feed/
+https://www.sweetandsavorybyshinee.com/sparkling-fruit-slushy/
+https://kidsactivityzone.com/homemade-slushies/
+https://www.sipshine.com/sip-shine-slushies/
+https://www.sipshine.com/sweet-spicy-watermelon/
 https://www.sipshine.com/
-https://bakingamoment.com/frose-recipe/
+https://www.sipshine.com/gannett-peak-sunset/
 
 
 Flat Clustering Results: 
 https://kidsactivityzone.com/homemade-slushies/feed/
 https://www.yummytoddlerfood.com/favorite-homemade-fruit-slushies/feed/
-https://www.pmq.com/sip-shine/
-https://kidsactivityzone.com/homemade-slushies/
-https://www.sweetandsavorybyshinee.com/sparkling-fruit-slushy/
-https://www.sipshine.com/sip-shine-slushies/
-https://www.pmq.com/sip-shine/feed/
 https://www.chocolatemoosey.com/watermelon-slushies/
 https://www.yummytoddlerfood.com/favorite-homemade-fruit-slushies/
-https://www.sipshine.com/
-https://www.sipshine.com/brodie-appleseed/
-https://www.slusheeland.com/slushies
-https://www.sipshine.com/sour-apple-lemonade/
+https://www.pmq.com/sip-shine/
+https://www.pmq.com/sip-shine/feed/
+https://www.sweetandsavorybyshinee.com/sparkling-fruit-slushy/
+https://kidsactivityzone.com/homemade-slushies/
+https://www.sipshine.com/sip-shine-slushies/
 https://www.sipshine.com/sweet-spicy-watermelon/
+https://www.sipshine.com/
+https://www.sipshine.com/gannett-peak-sunset/
+https://www.sipshine.com/brodie-appleseed/
+https://www.sipshine.com/chili-margarita/
 https://www.sipshine.com/kyodie-whiskey/
 
-Hierarchial Clustering Results: 
+Single Hierarchial Clustering Results: 
 https://kidsactivityzone.com/homemade-slushies/feed/
-https://thefrugalgirls.com/2015/08/dr-pepper-slush-recipe.html/feed
-https://www.chocolatemoosey.com/watermelon-slushies/feed/
+https://www.yummytoddlerfood.com/favorite-homemade-fruit-slushies/feed/
 https://www.chocolatemoosey.com/strawberry-wine-spritzer-slush/
+https://www.chocolatemoosey.com/watermelon-slushies/feed/
 https://www.chocolatemoosey.com/watermelon-slushies/
+https://www.yummytoddlerfood.com/favorite-homemade-fruit-slushies/
+https://thefrugalgirls.com/2015/08/dr-pepper-slush-recipe.html/feed
+https://www.pmq.com/sip-shine/
+https://www.pmq.com/sip-shine/feed/
+https://www.sweetandsavorybyshinee.com/sparkling-fruit-slushy/
+https://kidsactivityzone.com/homemade-slushies/
+https://www.sipshine.com/sip-shine-slushies/
+https://www.sipshine.com/sweet-spicy-watermelon/
+https://www.sipshine.com/
+https://www.sipshine.com/gannett-peak-sunset/
+
+Average Hierarchial Clustering Results: 
+https://kidsactivityzone.com/homemade-slushies/feed/
+https://www.chocolatemoosey.com/strawberry-wine-spritzer-slush/
+https://www.chocolatemoosey.com/watermelon-slushies/feed/
+https://www.chocolatemoosey.com/watermelon-slushies/
+https://thefrugalgirls.com/2015/08/dr-pepper-slush-recipe.html/feed
 https://www.chocolatemoosey.com/strawberry-wine-spritzer-slush/feed/
 https://diythrill.com/tag/slushies/
-https://thefrugalgirls.com/2015/06/coca-cola-slushie-recipe.html/feed
 https://www.chocolatemoosey.com/category/drinks/page/2/
-https://www.chocolatemoosey.com/category/occasion/page/18/
+https://thefrugalgirls.com/2015/06/coca-cola-slushie-recipe.html/feed
 https://neverendingjourneys.com/2021/06/27/grape-slushie-recipe/feed/
 https://www.chocolatemoosey.com/tag/watermelon/
+https://www.chocolatemoosey.com/category/occasion/page/18/
 https://thefrugalgirls.com/2019/04/sweet-tea-slush-recipe.html/feed
 https://diythrill.com/tag/slushies/feed/
 https://www.chocolatemoosey.com/category/desserts/page/20/

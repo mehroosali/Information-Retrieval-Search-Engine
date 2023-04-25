@@ -3,18 +3,18 @@ Query: gingersnaps
 Solr Results
 https://funcookierecipes.com/gingersnaps-recipe/feed/
 https://www.spicesinmydna.com/chewy-tahini-gingersnaps-with-dark-chocolate-and-sea-salt/feed/
-https://www.thisvivaciouslife.com/web-stories/gingerbread-martini-mocktail/
-https://thefirstyearblog.com/pumpkin-dip/
-https://www.masterstech-home.com/the_kitchen/Recipes/Cookie_Recipes/Gingersnaps.html
-https://www.spicesinmydna.com/chewy-tahini-gingersnaps-with-dark-chocolate-and-sea-salt/
-http://www.dianasdesserts.com/index.cfm/fuseaction/recipes.recipeListing/filter/dianas/recipeID/536/Recipe.cfm
-https://www.masterstech-home.com/the_kitchen/recipes/Cookie_Recipes/Gingersnaps.html
-https://www.spicesinmydna.com/category/cookies/
 https://www.chocolatemoosey.com/chocolate-gingersnap-cookies/
+https://www.spicesinmydna.com/category/cookies/
+https://www.thisvivaciouslife.com/web-stories/gingerbread-martini-mocktail/
+http://www.dianasdesserts.com/index.cfm/fuseaction/recipes.recipeListing/filter/dianas/recipeID/536/Recipe.cfm
+https://thefirstyearblog.com/pumpkin-dip/
 http://www.dianasdesserts.com/index.cfm/fuseaction/recipes.recipeListing/filter/dianas/recipeID/2206/Recipe.cfm
 https://funcookierecipes.com/gingersnaps-recipe/
+https://www.masterstech-home.com/the_kitchen/Recipes/Cookie_Recipes/Gingersnaps.html
+https://www.masterstech-home.com/the_kitchen/recipes/Cookie_Recipes/Gingersnaps.html
+https://www.spicesinmydna.com/chewy-tahini-gingersnaps-with-dark-chocolate-and-sea-salt/
 https://www.masterstech-home.com/the_kitchen/recipes/Recipe_Indices/CookieRecipesIndex2.html
-https://funcookierecipes.com/category/cookies/no-chill-cookies/
+https://funcookierecipes.com/category/cookies/page/3/
 https://funcookierecipes.com/category/holiday/christmas/
 
 
@@ -24,30 +24,47 @@ https://www.thisvivaciouslife.com/web-stories/gingerbread-martini-mocktail/
 https://www.sweetontraderjoes.com/2023/03/trader-joes-triple-ginger-pretzels-review.html
 https://iamafoodblog.com/waffled-donut-recipe/
 https://thefirstyearblog.com/pumpkin-dip/
-https://www.cs.cmu.edu/~mjw/recipes/dessert/cheesecake/pumpkin-chsck-2.html
 https://wellsfoodservice.com/recipes/o-snap-uccino-shake
+https://www.cs.cmu.edu/~mjw/recipes/dessert/cheesecake/pumpkin-chsck-2.html
+http://www.dianasdesserts.com/index.cfm/fuseaction/recipes.recipeListing/filter/dianas/recipeID/753/Recipe.cfm
+http://www.dianasdesserts.com/index.cfm/fuseaction/recipes.recipeListing/filter/dianas/recipeID/3451/Recipe.cfm
 http://www.dianasdesserts.com/index.cfm/fuseaction/recipes.recipeListing/filter/dianas/recipeID/579/Recipe.cfm
 https://www.joyofbaking.com/Gingersnaps.html
-http://www.dianasdesserts.com/index.cfm/fuseaction/recipes.recipeListing/filter/dianas/recipeID/3451/Recipe.cfm
 http://www.dianasdesserts.com/index.cfm/fuseaction/recipes.recipeListing/filter/guests/recipeID/3093/Recipe.cfm
-http://www.dianasdesserts.com/index.cfm/fuseaction/recipes.recipeListing/filter/dianas/recipeID/753/Recipe.cfm
 https://www.joyofbaking.com/GingerCookies.html
-https://www.bakeat350.net/p/perfect-cheesecake-printable-recipe.html
 https://www.chocolatemoosey.com/copycat-dairy-queen-ice-cream-cake-for-icecreamweek/
+https://www.bakeat350.net/2013/06/desserts-for-dudes-blueberry-cheesecake.html
 
-Hierarchial Clustering Results: 
+Single Hierarchial Clustering Results: 
 https://funcookierecipes.com/gingersnaps-recipe/feed/
-https://www.thisvivaciouslife.com/web-stories/gingerbread-martini-mocktail/
-https://thefirstyearblog.com/pumpkin-dip/
-http://www.dianasdesserts.com/index.cfm/fuseaction/recipes.recipeListing/filter/dianas/recipeID/536/Recipe.cfm
-https://www.masterstech-home.com/the_kitchen/recipes/Cookie_Recipes/Gingersnaps.html
+https://www.spicesinmydna.com/chewy-tahini-gingersnaps-with-dark-chocolate-and-sea-salt/feed/
 https://www.chocolatemoosey.com/chocolate-gingersnap-cookies/
+https://www.spicesinmydna.com/category/cookies/
+https://www.thisvivaciouslife.com/web-stories/gingerbread-martini-mocktail/
+http://www.dianasdesserts.com/index.cfm/fuseaction/recipes.recipeListing/filter/dianas/recipeID/536/Recipe.cfm
+https://thefirstyearblog.com/pumpkin-dip/
 http://www.dianasdesserts.com/index.cfm/fuseaction/recipes.recipeListing/filter/dianas/recipeID/2206/Recipe.cfm
 https://funcookierecipes.com/gingersnaps-recipe/
-https://funcookierecipes.com/category/cookies/no-chill-cookies/
+https://www.masterstech-home.com/the_kitchen/Recipes/Cookie_Recipes/Gingersnaps.html
+https://www.masterstech-home.com/the_kitchen/recipes/Cookie_Recipes/Gingersnaps.html
+https://www.spicesinmydna.com/chewy-tahini-gingersnaps-with-dark-chocolate-and-sea-salt/
+https://www.masterstech-home.com/the_kitchen/recipes/Recipe_Indices/CookieRecipesIndex2.html
+https://funcookierecipes.com/category/cookies/page/3/
+https://funcookierecipes.com/category/holiday/christmas/
+
+Average Hierarchial Clustering Results: 
+https://funcookierecipes.com/gingersnaps-recipe/feed/
+https://www.chocolatemoosey.com/chocolate-gingersnap-cookies/
+https://www.thisvivaciouslife.com/web-stories/gingerbread-martini-mocktail/
+http://www.dianasdesserts.com/index.cfm/fuseaction/recipes.recipeListing/filter/dianas/recipeID/536/Recipe.cfm
+https://thefirstyearblog.com/pumpkin-dip/
+http://www.dianasdesserts.com/index.cfm/fuseaction/recipes.recipeListing/filter/dianas/recipeID/2206/Recipe.cfm
+https://funcookierecipes.com/gingersnaps-recipe/
+https://www.masterstech-home.com/the_kitchen/recipes/Cookie_Recipes/Gingersnaps.html
+https://funcookierecipes.com/category/cookies/page/3/
 http://www.jewishfood-list.com/recipes/dessert/frozen/cakefrozencreamsicle01.html
-https://www.cs.cmu.edu/~mjw/recipes/dessert/cheesecake/pumpkin-chsck-2.html
 https://wellsfoodservice.com/recipes/o-snap-uccino-shake
 https://www.chocolatemoosey.com/maple-gingersnap-cookies/
-https://funcookierecipes.com/category/cookies/page/3/
-http://www.dianasdesserts.com/index.cfm/fuseaction/recipes.recipeListing/filter/dianas/recipeID/579/Recipe.cfm
+https://www.cs.cmu.edu/~mjw/recipes/dessert/cheesecake/pumpkin-chsck-2.html
+https://funcookierecipes.com/category/cookies/no-chill-cookies/
+http://www.dianasdesserts.com/index.cfm/fuseaction/recipes.recipeListing/filter/dianas/recipeID/753/Recipe.cfm

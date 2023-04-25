@@ -3,51 +3,68 @@ Query: Truffle
 Solr Results
 https://www.christinascucina.com/baked-camembert-with-truffle-honey/feed/
 https://www.christinascucina.com/brie-and-truffle-burger-with-mushrooms-arugula-and-creme-fraiche/
+https://www.christinascucina.com/truffle-fondue-fonduta-al-tartufo-with-fontina-cheese/
+https://www.chocolatemoosey.com/cherry-cordial-and-mint-truffle-kiss-hot-chocolate-with-marshmallow-whipped-cream/feed/
 https://www.chocolatemoosey.com/cherry-cordial-and-mint-truffle-kiss-hot-chocolate-with-marshmallow-whipped-cream/
+https://food52.com/blog/17814-a-creamy-coconutty-strawberry-filled-brazilian-truffle-a-new-contest-winner
+https://www.sprinklebakes.com/2023/01/chocolate-truffle-tart.html
 https://www.christinascucina.com/brie-and-truffle-burger-with-mushrooms-arugula-and-creme-fraiche/comment-page-2/
 https://www.appropriateomnivore.com/tag/truffle-butter/feed/
-https://www.chocolatemoosey.com/cherry-cordial-and-mint-truffle-kiss-hot-chocolate-with-marshmallow-whipped-cream/feed/
 https://www.appropriateomnivore.com/recipes-trufflebutterrisotto/feed/
-https://goldentruffle.com/
-https://www.sprinklebakes.com/2023/01/chocolate-truffle-tart.html
-https://www.christinascucina.com/truffle-fondue-fonduta-al-tartufo-with-fontina-cheese/
-https://food52.com/blog/17814-a-creamy-coconutty-strawberry-filled-brazilian-truffle-a-new-contest-winner
 https://www.inspiredtaste.net/9665/creamy-mushroom-crostini-recipe/
+https://goldentruffle.com/
 https://www.theansweriscake.com/flourless-chocolate-truffle-cake/
-https://www.icecream.com/us/en/brands/haagen-dazs/products/white-chocolate-raspberry-truffle-ice-cream
-https://www.cs.cmu.edu/~mjw/recipes/dessert/cheesecake/fudge-truffle-chsck.html
+https://www.icecream.com/us/en/brands/haagen-dazs/products/spirits-bourbon-vanilla-bean-truffle-ice-cream
+https://www.chocolatemoosey.com/dark-truffle-candied-cherry-and-toasted-almond-ice-cream-guest-post-for-overtimecook/feed/
 
 
 Flat Clustering Results: 
 https://www.christinascucina.com/brie-and-truffle-burger-with-mushrooms-arugula-and-creme-fraiche/
+https://food52.com/blog/17814-a-creamy-coconutty-strawberry-filled-brazilian-truffle-a-new-contest-winner
+https://www.sprinklebakes.com/2023/01/chocolate-truffle-tart.html
 https://www.christinascucina.com/brie-and-truffle-burger-with-mushrooms-arugula-and-creme-fraiche/comment-page-2/
 https://www.appropriateomnivore.com/tag/truffle-butter/feed/
 https://www.appropriateomnivore.com/recipes-trufflebutterrisotto/feed/
 https://goldentruffle.com/
-https://www.sprinklebakes.com/2023/01/chocolate-truffle-tart.html
-https://food52.com/blog/17814-a-creamy-coconutty-strawberry-filled-brazilian-truffle-a-new-contest-winner
-https://www.icecream.com/us/es/brands/haagen-dazs/products/spirits-bourbon-vanilla-bean-truffle-ice-cream
 https://goldentruffle.com/page/2/
-https://www.traderjoes.com/home/products/pdp/organic-milk-chocolate-truffle-bar-070558
+https://www.icecream.com/us/es/brands/haagen-dazs/products/spirits-bourbon-vanilla-bean-truffle-ice-cream
 https://www.appropriateomnivore.com/tag/chives/feed/
-https://shakeshack.com/blog
+https://www.traderjoes.com/home/products/pdp/organic-milk-chocolate-truffle-bar-070558
 https://www.wholefoodsmarket.com/products/brands/mitica
+https://shakeshack.com/blog
 https://www.deliciousmagazine.co.uk/ingredients/mushroom-recipes/feed/
-https://shakeshack.com/blog/our-food
+https://www.madaboutmacarons.com/cremini-mushroom-cappuccino/
 
-Hierarchial Clustering Results: 
+Single Hierarchial Clustering Results: 
 https://www.christinascucina.com/baked-camembert-with-truffle-honey/feed/
 https://www.christinascucina.com/brie-and-truffle-burger-with-mushrooms-arugula-and-creme-fraiche/
+https://www.christinascucina.com/truffle-fondue-fonduta-al-tartufo-with-fontina-cheese/
+https://www.chocolatemoosey.com/cherry-cordial-and-mint-truffle-kiss-hot-chocolate-with-marshmallow-whipped-cream/feed/
 https://www.chocolatemoosey.com/cherry-cordial-and-mint-truffle-kiss-hot-chocolate-with-marshmallow-whipped-cream/
+https://food52.com/blog/17814-a-creamy-coconutty-strawberry-filled-brazilian-truffle-a-new-contest-winner
+https://www.sprinklebakes.com/2023/01/chocolate-truffle-tart.html
 https://www.christinascucina.com/brie-and-truffle-burger-with-mushrooms-arugula-and-creme-fraiche/comment-page-2/
 https://www.appropriateomnivore.com/tag/truffle-butter/feed/
-https://www.chocolatemoosey.com/cherry-cordial-and-mint-truffle-kiss-hot-chocolate-with-marshmallow-whipped-cream/feed/
 https://www.appropriateomnivore.com/recipes-trufflebutterrisotto/feed/
-https://goldentruffle.com/
-https://www.christinascucina.com/truffle-fondue-fonduta-al-tartufo-with-fontina-cheese/
-https://food52.com/blog/17814-a-creamy-coconutty-strawberry-filled-brazilian-truffle-a-new-contest-winner
 https://www.inspiredtaste.net/9665/creamy-mushroom-crostini-recipe/
+https://goldentruffle.com/
 https://www.theansweriscake.com/flourless-chocolate-truffle-cake/
-https://www.cs.cmu.edu/~mjw/recipes/dessert/cheesecake/fudge-truffle-chsck.html
-https://goldentruffle.com/page/2/
+https://www.icecream.com/us/en/brands/haagen-dazs/products/spirits-bourbon-vanilla-bean-truffle-ice-cream
 https://www.chocolatemoosey.com/dark-truffle-candied-cherry-and-toasted-almond-ice-cream-guest-post-for-overtimecook/feed/
+
+Average Hierarchial Clustering Results: 
+https://www.christinascucina.com/baked-camembert-with-truffle-honey/feed/
+https://www.christinascucina.com/brie-and-truffle-burger-with-mushrooms-arugula-and-creme-fraiche/
+https://www.christinascucina.com/truffle-fondue-fonduta-al-tartufo-with-fontina-cheese/
+https://www.chocolatemoosey.com/cherry-cordial-and-mint-truffle-kiss-hot-chocolate-with-marshmallow-whipped-cream/feed/
+https://www.chocolatemoosey.com/cherry-cordial-and-mint-truffle-kiss-hot-chocolate-with-marshmallow-whipped-cream/
+https://food52.com/blog/17814-a-creamy-coconutty-strawberry-filled-brazilian-truffle-a-new-contest-winner
+https://www.christinascucina.com/brie-and-truffle-burger-with-mushrooms-arugula-and-creme-fraiche/comment-page-2/
+https://www.appropriateomnivore.com/tag/truffle-butter/feed/
+https://www.appropriateomnivore.com/recipes-trufflebutterrisotto/feed/
+https://www.inspiredtaste.net/9665/creamy-mushroom-crostini-recipe/
+https://goldentruffle.com/
+https://www.theansweriscake.com/flourless-chocolate-truffle-cake/
+https://www.chocolatemoosey.com/dark-truffle-candied-cherry-and-toasted-almond-ice-cream-guest-post-for-overtimecook/feed/
+https://goldentruffle.com/page/2/
+https://www.cs.cmu.edu/~mjw/recipes/dessert/cheesecake/fudge-truffle-chsck.html

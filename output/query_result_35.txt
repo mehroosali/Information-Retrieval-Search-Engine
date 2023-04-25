@@ -3,51 +3,68 @@ Query: yogurt
 Solr Results
 https://www.wholefoodsmarket.com/products/brands/siggis
 https://www.wholefoodsmarket.com/tips-and-ideas/archive/14-ideas-greek-yogurt-recipes
-http://www.jewishfood-list.com/recipes/chs/yogurtchs01.html
 http://www.dianasdesserts.com/index.cfm/fuseaction/recipes.recipeListing/filter/dianas/recipeID/5190/Recipe.cfm
-https://www.chocolatemoosey.com/orange-creamsicle-yogurt-pops-small-batch/feed/
-https://www.tashasartisanfoods.com/blog/cherry-yogurt-popsicles/feed/
 https://www.chocolatemoosey.com/french-toast-sticks-with-strawberry-yogurt-dipping-sauce/
+https://www.chocolatemoosey.com/orange-creamsicle-yogurt-pops-small-batch/feed/
+https://food52.com/tags/yogurt
+http://www.jewishfood-list.com/recipes/chs/yogurtchs01.html
+https://www.tashasartisanfoods.com/blog/cherry-yogurt-popsicles/feed/
 https://www.tashasartisanfoods.com/blog/thandai-baked-yogurt/
 https://www.bluebunny.com/products/frozen-yogurt
-https://www.yummytoddlerfood.com/greek-yogurt-pizza-dough/feed/
-https://food52.com/tags/yogurt
 https://www.theansweriscake.com/greek-yogurt-cake/
-https://www.chocolatemoosey.com/peach-pie-yogurt-pops/feed/
+https://www.yummytoddlerfood.com/greek-yogurt-pizza-dough/feed/
 https://littlesunnykitchen.com/yogurt-pasta-sauce/feed/
-https://www.joyofbaking.com/DulcedeLecheFrozenYogurt.html
+https://www.masterstech-home.com/The_Kitchen/Recipes/Appetizer_Recipes/YogurtCheese.html
+http://tinaschic.com/2019/05/tzatziki-cucumber-yogurt-dip/feed/
 
 
 Flat Clustering Results: 
 https://www.wholefoodsmarket.com/products/brands/siggis
-https://www.tashasartisanfoods.com/blog/cherry-yogurt-popsicles/feed/
 https://food52.com/tags/yogurt
-https://www.tashasartisanfoods.com/blog/mango-cherry-frozen-yogurt/
+https://www.tashasartisanfoods.com/blog/cherry-yogurt-popsicles/feed/
 http://tinaschic.com/2019/05/tzatziki-cucumber-yogurt-dip/feed/
-https://iamafoodblog.com/tiktok-yogurt-custard-toast/
+https://www.tashasartisanfoods.com/blog/mango-cherry-frozen-yogurt/
 https://www.healthline.com/nutrition/benefits-of-yogurt
 https://karluci.com/2019/08/09/chocolaty-vegan-yogurt/amp/
+https://iamafoodblog.com/tiktok-yogurt-custard-toast/
+https://pastrychefonline.com/vegan-vanilla-chai-pancakes-silk-non-dairy-yogurt-alternative/feed/
 https://www.icecream.com/us/en/brands/outshine/products/snacks-bites-strawberry-coconut
 https://www.hsph.harvard.edu/nutritionsource/food-features/yogurt/
-http://www.ouichefnetwork.com/2016/09/garlic-curry-chicken-thighs-with-yogurt-sauce.html/feed
-https://pastrychefonline.com/vegan-vanilla-chai-pancakes-silk-non-dairy-yogurt-alternative/feed/
 https://www.icecream.com/us/en/brands/outshine/products/snacks-bites-blueberry-pear
-https://karluci.com/2019/08/09/chocolaty-vegan-yogurt/feed/
+http://www.ouichefnetwork.com/2016/09/garlic-curry-chicken-thighs-with-yogurt-sauce.html/feed
 https://www.icecream.com/us/en/brands/outshine/products/snacks-bites-peach-raspberry
+https://karluci.com/2019/08/09/chocolaty-vegan-yogurt/feed/
 
-Hierarchial Clustering Results: 
+Single Hierarchial Clustering Results: 
 https://www.wholefoodsmarket.com/products/brands/siggis
 https://www.wholefoodsmarket.com/tips-and-ideas/archive/14-ideas-greek-yogurt-recipes
-http://www.jewishfood-list.com/recipes/chs/yogurtchs01.html
 http://www.dianasdesserts.com/index.cfm/fuseaction/recipes.recipeListing/filter/dianas/recipeID/5190/Recipe.cfm
-https://www.chocolatemoosey.com/orange-creamsicle-yogurt-pops-small-batch/feed/
-https://www.tashasartisanfoods.com/blog/cherry-yogurt-popsicles/feed/
 https://www.chocolatemoosey.com/french-toast-sticks-with-strawberry-yogurt-dipping-sauce/
-https://www.tashasartisanfoods.com/blog/thandai-baked-yogurt/
-https://www.yummytoddlerfood.com/greek-yogurt-pizza-dough/feed/
+https://www.chocolatemoosey.com/orange-creamsicle-yogurt-pops-small-batch/feed/
 https://food52.com/tags/yogurt
+http://www.jewishfood-list.com/recipes/chs/yogurtchs01.html
+https://www.tashasartisanfoods.com/blog/cherry-yogurt-popsicles/feed/
+https://www.tashasartisanfoods.com/blog/thandai-baked-yogurt/
+https://www.bluebunny.com/products/frozen-yogurt
 https://www.theansweriscake.com/greek-yogurt-cake/
-https://www.chocolatemoosey.com/peach-pie-yogurt-pops/feed/
+https://www.yummytoddlerfood.com/greek-yogurt-pizza-dough/feed/
 https://littlesunnykitchen.com/yogurt-pasta-sauce/feed/
-https://wellsfoodservice.com/recipes/banana-yogurt-shake
-http://tinaschic.com/2014/08/blueberry-pie-yogurt-parfait/feed/
+https://www.masterstech-home.com/The_Kitchen/Recipes/Appetizer_Recipes/YogurtCheese.html
+http://tinaschic.com/2019/05/tzatziki-cucumber-yogurt-dip/feed/
+
+Average Hierarchial Clustering Results: 
+https://www.wholefoodsmarket.com/products/brands/siggis
+https://www.wholefoodsmarket.com/tips-and-ideas/archive/14-ideas-greek-yogurt-recipes
+http://www.dianasdesserts.com/index.cfm/fuseaction/recipes.recipeListing/filter/dianas/recipeID/5190/Recipe.cfm
+https://www.chocolatemoosey.com/french-toast-sticks-with-strawberry-yogurt-dipping-sauce/
+https://www.chocolatemoosey.com/orange-creamsicle-yogurt-pops-small-batch/feed/
+https://food52.com/tags/yogurt
+http://www.jewishfood-list.com/recipes/chs/yogurtchs01.html
+https://www.tashasartisanfoods.com/blog/cherry-yogurt-popsicles/feed/
+https://www.tashasartisanfoods.com/blog/thandai-baked-yogurt/
+https://www.theansweriscake.com/greek-yogurt-cake/
+https://www.yummytoddlerfood.com/greek-yogurt-pizza-dough/feed/
+https://littlesunnykitchen.com/yogurt-pasta-sauce/feed/
+http://tinaschic.com/2019/05/tzatziki-cucumber-yogurt-dip/feed/
+https://www.chocolatemoosey.com/peach-pie-yogurt-pops/feed/
+https://www.masterstech-home.com/the_kitchen/Recipes/Appetizer_Recipes/YogurtCheese.html

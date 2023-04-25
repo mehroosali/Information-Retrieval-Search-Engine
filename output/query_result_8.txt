@@ -3,51 +3,68 @@ Query: Croissant
 Solr Results
 https://butterwithasideofbread.com/almond-croissant/feed/
 https://cooking.nytimes.com/recipes/1023722-giant-almond-croissant
-https://www.wholefoodsmarket.com/product/whole-foods-market-chocolate-brioche-croissant-6-pack-b07cwzfvvw
-https://www.wholefoodsmarket.com/product/whole-foods-market-frozen-croissant-dough-4-count-b08clg3vgc
+https://www.thelittleepicurean.com/2021/04/almond-croissant.html
+https://food52.com/hotline/51448-how-long-can-croissant-dough-rest-before-adding-the-butter
+https://www.littlesweetbaker.com/croissant-bread-pudding/
 https://www.wholefoodsmarket.com/product/whole-foods-market-mini-butter-croissant-12-count-10-oz-b07qkgjf1f
 https://butterwithasideofbread.com/almond-croissant/
-https://www.thelittleepicurean.com/2021/04/almond-croissant.html
-https://www.littlesweetbaker.com/croissant-bread-pudding/
+https://www.wholefoodsmarket.com/product/whole-foods-market-chocolate-brioche-croissant-6-pack-b07cwzfvvw
 https://littlesunnykitchen.com/croissant-bread-pudding/
-https://food52.com/hotline/51448-how-long-can-croissant-dough-rest-before-adding-the-butter
 https://www.littlesweetbaker.com/croissant-bread-pudding/feed/
+https://www.wholefoodsmarket.com/product/whole-foods-market-frozen-croissant-dough-4-count-b08clg3vgc
 https://www.wholefoodsmarket.com/product/whole-foods-market-mini-chocolate-croissant-12-count-b07t2k9zp9
-https://www.joyofbaking.com/breads/AlmondCroissants.html
+https://diythrill.com/2021/03/28/ham-and-cheese-croissant/
+https://news.dunkindonuts.com/news/dunkin-introduces-2-iced-mondays-and-extends-free-donut-fridays-for-dd-perksR-members
 https://karluci.com/2019/02/02/50-not-so-boring-salad-recipes-healthy-meals/feed/
-https://www.breadalone.com/pastry
 
 
 Flat Clustering Results: 
 https://butterwithasideofbread.com/almond-croissant/feed/
 https://cooking.nytimes.com/recipes/1023722-giant-almond-croissant
-https://butterwithasideofbread.com/almond-croissant/
-https://www.littlesweetbaker.com/croissant-bread-pudding/
-https://littlesunnykitchen.com/croissant-bread-pudding/
 https://food52.com/hotline/51448-how-long-can-croissant-dough-rest-before-adding-the-butter
+https://www.littlesweetbaker.com/croissant-bread-pudding/
+https://butterwithasideofbread.com/almond-croissant/
+https://littlesunnykitchen.com/croissant-bread-pudding/
+https://news.dunkindonuts.com/news/dunkin-introduces-2-iced-mondays-and-extends-free-donut-fridays-for-dd-perksR-members
 https://karluci.com/2019/02/02/50-not-so-boring-salad-recipes-healthy-meals/feed/
 https://www.breadalone.com/pastry
-https://news.dunkindonuts.com/news/dunkin-introduces-2-iced-mondays-and-extends-free-donut-fridays-for-dd-perksR-members
-https://news.dunkindonuts.com/news/spring-menu-2023
 https://karluci.com/2019/02/02/20-easy-healthy-salad-recipes-you-need-to-try/feed/
+https://news.dunkindonuts.com/news/spring-menu-2023
 http://bobbiesbakingblog.com/blog/2013/02/27/gluten-free-croissant-recipe/comment-page-1/
 https://karluci.com/comments/feed/
-https://karluci.com/2020/06/25/%E2%9E%A4-best-air-fryer-reviews-ratings-you-can-buy-amazon/feed/
+https://www.eatthis.com/wendys-breakfast-menu/
 https://www.eatthis.com/unique-fast-food-breakfast-sandwiches/
 
-Hierarchial Clustering Results: 
-https://www.wholefoodsmarket.com/product/whole-foods-market-chocolate-brioche-croissant-6-pack-b07cwzfvvw
-https://www.wholefoodsmarket.com/product/whole-foods-market-frozen-croissant-dough-4-count-b08clg3vgc
+Single Hierarchial Clustering Results: 
+https://butterwithasideofbread.com/almond-croissant/feed/
+https://cooking.nytimes.com/recipes/1023722-giant-almond-croissant
+https://www.thelittleepicurean.com/2021/04/almond-croissant.html
+https://food52.com/hotline/51448-how-long-can-croissant-dough-rest-before-adding-the-butter
+https://www.littlesweetbaker.com/croissant-bread-pudding/
 https://www.wholefoodsmarket.com/product/whole-foods-market-mini-butter-croissant-12-count-10-oz-b07qkgjf1f
 https://butterwithasideofbread.com/almond-croissant/
-https://www.thelittleepicurean.com/2021/04/almond-croissant.html
+https://www.wholefoodsmarket.com/product/whole-foods-market-chocolate-brioche-croissant-6-pack-b07cwzfvvw
 https://littlesunnykitchen.com/croissant-bread-pudding/
-https://food52.com/hotline/51448-how-long-can-croissant-dough-rest-before-adding-the-butter
+https://www.littlesweetbaker.com/croissant-bread-pudding/feed/
+https://www.wholefoodsmarket.com/product/whole-foods-market-frozen-croissant-dough-4-count-b08clg3vgc
 https://www.wholefoodsmarket.com/product/whole-foods-market-mini-chocolate-croissant-12-count-b07t2k9zp9
+https://diythrill.com/2021/03/28/ham-and-cheese-croissant/
+https://news.dunkindonuts.com/news/dunkin-introduces-2-iced-mondays-and-extends-free-donut-fridays-for-dd-perksR-members
+https://karluci.com/2019/02/02/50-not-so-boring-salad-recipes-healthy-meals/feed/
+
+Average Hierarchial Clustering Results: 
+https://www.thelittleepicurean.com/2021/04/almond-croissant.html
+https://food52.com/hotline/51448-how-long-can-croissant-dough-rest-before-adding-the-butter
+https://www.wholefoodsmarket.com/product/whole-foods-market-mini-butter-croissant-12-count-10-oz-b07qkgjf1f
+https://butterwithasideofbread.com/almond-croissant/
+https://www.wholefoodsmarket.com/product/whole-foods-market-chocolate-brioche-croissant-6-pack-b07cwzfvvw
+https://littlesunnykitchen.com/croissant-bread-pudding/
+https://www.wholefoodsmarket.com/product/whole-foods-market-frozen-croissant-dough-4-count-b08clg3vgc
+https://www.wholefoodsmarket.com/product/whole-foods-market-mini-chocolate-croissant-12-count-b07t2k9zp9
+https://diythrill.com/2021/03/28/ham-and-cheese-croissant/
+https://news.dunkindonuts.com/news/dunkin-introduces-2-iced-mondays-and-extends-free-donut-fridays-for-dd-perksR-members
 https://karluci.com/2019/02/02/50-not-so-boring-salad-recipes-healthy-meals/feed/
 https://www.breadalone.com/pastry
-https://www.thelittleepicurean.com/2018/01/orange-almond-bostock.html
+https://karluci.com/2019/02/02/20-easy-healthy-salad-recipes-you-need-to-try/feed/
 https://www.inspiredtaste.net/8359/nutella-bread-pudding-recipe/
-https://news.dunkindonuts.com/news/dunkin-introduces-2-iced-mondays-and-extends-free-donut-fridays-for-dd-perksR-members
-https://diythrill.com/2021/03/28/ham-and-cheese-croissant/
 https://news.dunkindonuts.com/news/spring-menu-2023

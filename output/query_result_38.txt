@@ -3,51 +3,68 @@ Query: blueberry muffin
 Solr Results
 https://www.theansweriscake.com/tag/blueberry-muffin-cake-recipe/feed/
 https://www.theansweriscake.com/blueberry-muffin-cake/feed/
-https://www.theansweriscake.com/blueberry-muffin-cake/
-https://www.christinascucina.com/blueberry-muffin-recipe-made-with-yogurt/comment-page-1/
-http://coloryourrecipes.com/dessert-sweet-recipes/
-https://www.christinascucina.com/blueberry-muffin-recipe-made-with-yogurt/feed/
-http://www.dishingthedivine.com/2012/03/16/blueberry-muffin-cake/feed/
-https://www.christinascucina.com/blueberry-muffin-recipe-made-with-yogurt/
 https://www.wholefoodsmarket.com/product/whole-foods-market-blueberry-muffin-4pk-b09rwqt56s
 https://www.theansweriscake.com/tag/blueberry-muffin-cake-recipe/
+https://www.theansweriscake.com/blueberry-muffin-cake/
+https://www.christinascucina.com/blueberry-muffin-recipe-made-with-yogurt/
+https://www.christinascucina.com/blueberry-muffin-recipe-made-with-yogurt/feed/
 https://pastrychefonline.com/uncle-ray-makes-muffins/
+https://www.christinascucina.com/blueberry-muffin-recipe-made-with-yogurt/comment-page-1/
+http://coloryourrecipes.com/dessert-sweet-recipes/
 https://www.christinascucina.com/blueberry-muffin-recipe-made-with-yogurt/comment-page-2/
+http://www.dishingthedivine.com/2012/03/16/blueberry-muffin-cake/feed/
 http://www.dianasdesserts.com/index.cfm/fuseaction/recipes.recipeListing/filter/dianas/recipeID/2543/Recipe.cfm
-https://www.tessadomesticdiva.com/easy-gluten-free-vegan-blueberry/
-http://tinaschic.com/2014/06/light-mini-blueberry-muffins/
+https://www.flourbakery.com/levelup/login
+http://tinaschic.com/2014/06/light-mini-blueberry-muffins/comment-page-1/
 
 
 Flat Clustering Results: 
 http://www.dishingthedivine.com/2012/03/16/blueberry-muffin-cake/feed/
 https://www.flourbakery.com/levelup/login
+https://fitfoodiefinds.com/web-stories/feed/
 https://www.flourbakery.com/about-us
 https://www.flourbakery.com/
-https://fitfoodiefinds.com/web-stories/feed/
 https://karluci.com/2020/03/17/35-delicious-healthy-overnight-oats-flavors/amp/
 https://cooking.nytimes.com/68861692-nyt-cooking/1045989-muffins-scones-and-biscuits-oh-my
-http://www.dishingthedivine.com/category/fruit/
 http://tinaschic.com/tag/muffins/feed/
+http://www.dishingthedivine.com/category/fruit/
 http://www.dianasdesserts.com/index.cfm/fuseaction/recipes.recipeListing/filter/dianas/recipeID/2543/Recipe.cfm
 http://www.dishingthedivine.com/2012/03/16/blueberry-muffin-cake/
-http://www.dianasdesserts.com/index.cfm/fuseaction/recipes.recipeListing/filter/dianas/recipeID/958/Recipe.cfm
 http://www.dianasdesserts.com/index.cfm/fuseaction/recipes.categorylistings/categoryID/38/filter/dianas/CategoryListings.cfm
 https://wellsfoodservice.com/products/blue-bunny/scoopables/bulk/huckleberry
+http://www.dianasdesserts.com/index.cfm/fuseaction/recipes.recipeListing/filter/dianas/recipeID/958/Recipe.cfm
 http://www.dianasdesserts.com/index.cfm/fuseaction/recipes.recipeListing/filter/dianas/recipeID/4232/Recipe.cfm
 
-Hierarchial Clustering Results: 
+Single Hierarchial Clustering Results: 
 https://www.theansweriscake.com/tag/blueberry-muffin-cake-recipe/feed/
 https://www.theansweriscake.com/blueberry-muffin-cake/feed/
-https://www.christinascucina.com/blueberry-muffin-recipe-made-with-yogurt/comment-page-1/
-http://coloryourrecipes.com/dessert-sweet-recipes/
-https://www.christinascucina.com/blueberry-muffin-recipe-made-with-yogurt/feed/
 https://www.wholefoodsmarket.com/product/whole-foods-market-blueberry-muffin-4pk-b09rwqt56s
 https://www.theansweriscake.com/tag/blueberry-muffin-cake-recipe/
+https://www.theansweriscake.com/blueberry-muffin-cake/
+https://www.christinascucina.com/blueberry-muffin-recipe-made-with-yogurt/
+https://www.christinascucina.com/blueberry-muffin-recipe-made-with-yogurt/feed/
 https://pastrychefonline.com/uncle-ray-makes-muffins/
+https://www.christinascucina.com/blueberry-muffin-recipe-made-with-yogurt/comment-page-1/
+http://coloryourrecipes.com/dessert-sweet-recipes/
+https://www.christinascucina.com/blueberry-muffin-recipe-made-with-yogurt/comment-page-2/
+http://www.dishingthedivine.com/2012/03/16/blueberry-muffin-cake/feed/
+http://www.dianasdesserts.com/index.cfm/fuseaction/recipes.recipeListing/filter/dianas/recipeID/2543/Recipe.cfm
+https://www.flourbakery.com/levelup/login
+http://tinaschic.com/2014/06/light-mini-blueberry-muffins/comment-page-1/
+
+Average Hierarchial Clustering Results: 
+https://www.theansweriscake.com/tag/blueberry-muffin-cake-recipe/feed/
+https://www.theansweriscake.com/blueberry-muffin-cake/feed/
+https://www.wholefoodsmarket.com/product/whole-foods-market-blueberry-muffin-4pk-b09rwqt56s
+https://www.theansweriscake.com/tag/blueberry-muffin-cake-recipe/
+https://www.christinascucina.com/blueberry-muffin-recipe-made-with-yogurt/feed/
+https://pastrychefonline.com/uncle-ray-makes-muffins/
+https://www.christinascucina.com/blueberry-muffin-recipe-made-with-yogurt/comment-page-1/
+http://coloryourrecipes.com/dessert-sweet-recipes/
 https://www.christinascucina.com/blueberry-muffin-recipe-made-with-yogurt/comment-page-2/
 http://www.dianasdesserts.com/index.cfm/fuseaction/recipes.recipeListing/filter/dianas/recipeID/2543/Recipe.cfm
 https://www.flourbakery.com/levelup/login
 http://tinaschic.com/2014/06/light-mini-blueberry-muffins/comment-page-1/
+https://fitfoodiefinds.com/web-stories/feed/
 http://www.dishingthedivine.com/2012/03/16/blueberry-muffin-cake/
 https://www.flourbakery.com/
-https://fitfoodiefinds.com/web-stories/feed/

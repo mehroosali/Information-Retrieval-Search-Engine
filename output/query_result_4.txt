@@ -4,18 +4,18 @@ Solr Results
 https://www.chocolatemoosey.com/apple-pie-filled-doughnuts/
 http://www.dianasdesserts.com/index.cfm/fuseaction/recipes.recipeListing/filter/dianas/recipeID/3954/Recipe.cfm
 http://www.dianasdesserts.com/index.cfm/fuseaction/recipes.recipeListing/filter/dianas/recipeID/541/Recipe.cfm
-https://www.chocolatemoosey.com/chocolate-gingerbread-baked-doughnuts/
-https://www.chocolatemoosey.com/apple-pie-filled-doughnuts/feed/
+https://www.chocolatemoosey.com/category/breakfast-and-brunch/doughnuts-pastries/
+http://www.dianasdesserts.com/index.cfm/fuseaction/recipes.recipeListing/filter/dianas/recipeID/886/Recipe.cfm
 https://www.doughnutplant.com/frequently-asked-questions/
 http://tinaschic.com/category/doughnuts/
-http://www.dianasdesserts.com/index.cfm/fuseaction/recipes.categorylistings/categoryID/42/filter/dianas/CategoryListings.cfm
-https://icecreaminspiration.com/tag/doughnuts/feed/
 http://tinaschic.com/category/doughnuts/page/2/
-http://www.dianasdesserts.com/index.cfm/fuseaction/recipes.recipeListing/filter/dianas/recipeID/886/Recipe.cfm
-https://www.chocolatemoosey.com/category/breakfast-and-brunch/doughnuts-pastries/
-https://www.joyofbaking.com/printpages/HomemadeDoughnutsRecipeprint.html
-https://bake-eat-repeat.com/baked-pumpkin-spice-doughnuts-recipe/
+https://www.chocolatemoosey.com/chocolate-gingerbread-baked-doughnuts/
+https://www.chocolatemoosey.com/apple-pie-filled-doughnuts/feed/
+https://icecreaminspiration.com/tag/doughnuts/feed/
+http://www.dianasdesserts.com/index.cfm/fuseaction/recipes.categorylistings/categoryID/42/filter/dianas/CategoryListings.cfm
 http://tinaschic.com/2014/08/mini-powdered-doughnuts/feed/
+https://thefrugalgirls.com/2012/10/pumpkin-spice-doughnuts-recipe.html
+https://www.glutenfreealchemist.com/gluten-free-sweet-potato-baked-doughnuts/feed/
 
 
 Flat Clustering Results: 
@@ -26,28 +26,45 @@ https://www.krispykreme.com/menu/doughnuts
 http://tinaschic.com/category/doughnuts/feed/
 https://food52.com/recipes/24904-sufganiyot-israeli-jelly-doughnuts
 https://www.krispykreme.com/
-https://www.thelittleepicurean.com/category/desserts/donuts-pancakes-waffles
 http://www.jewishfood-list.com/recipes/chanukah/&chanukah_index.html
-https://www.krispykreme.com/grocery
+https://www.thelittleepicurean.com/category/desserts/donuts-pancakes-waffles
 https://thefirstyearblog.com/pumpkin-donuts/
-https://shop.kingarthurbaking.com/mixes/doughnuts
 https://www.krispykreme.com/locate/location-search
+https://www.krispykreme.com/grocery
+https://shop.kingarthurbaking.com/mixes/doughnuts
 https://www.chocolatemoosey.com/apple-pie-filled-doughnuts/
-https://www.chocolatemoosey.com/chocolate-gingerbread-baked-doughnuts/
+https://www.chocolatemoosey.com/category/breakfast-and-brunch/doughnuts-pastries/
 
-Hierarchial Clustering Results: 
+Single Hierarchial Clustering Results: 
 https://www.chocolatemoosey.com/apple-pie-filled-doughnuts/
 http://www.dianasdesserts.com/index.cfm/fuseaction/recipes.recipeListing/filter/dianas/recipeID/3954/Recipe.cfm
 http://www.dianasdesserts.com/index.cfm/fuseaction/recipes.recipeListing/filter/dianas/recipeID/541/Recipe.cfm
+https://www.chocolatemoosey.com/category/breakfast-and-brunch/doughnuts-pastries/
+http://www.dianasdesserts.com/index.cfm/fuseaction/recipes.recipeListing/filter/dianas/recipeID/886/Recipe.cfm
+https://www.doughnutplant.com/frequently-asked-questions/
+http://tinaschic.com/category/doughnuts/
+http://tinaschic.com/category/doughnuts/page/2/
 https://www.chocolatemoosey.com/chocolate-gingerbread-baked-doughnuts/
 https://www.chocolatemoosey.com/apple-pie-filled-doughnuts/feed/
-http://tinaschic.com/category/doughnuts/
 https://icecreaminspiration.com/tag/doughnuts/feed/
-http://tinaschic.com/category/doughnuts/page/2/
-http://www.dianasdesserts.com/index.cfm/fuseaction/recipes.recipeListing/filter/dianas/recipeID/886/Recipe.cfm
-https://www.chocolatemoosey.com/category/breakfast-and-brunch/doughnuts-pastries/
-https://bake-eat-repeat.com/baked-pumpkin-spice-doughnuts-recipe/
+http://www.dianasdesserts.com/index.cfm/fuseaction/recipes.categorylistings/categoryID/42/filter/dianas/CategoryListings.cfm
 http://tinaschic.com/2014/08/mini-powdered-doughnuts/feed/
+https://thefrugalgirls.com/2012/10/pumpkin-spice-doughnuts-recipe.html
+https://www.glutenfreealchemist.com/gluten-free-sweet-potato-baked-doughnuts/feed/
+
+Average Hierarchial Clustering Results: 
+https://www.chocolatemoosey.com/apple-pie-filled-doughnuts/
+http://www.dianasdesserts.com/index.cfm/fuseaction/recipes.recipeListing/filter/dianas/recipeID/3954/Recipe.cfm
+http://www.dianasdesserts.com/index.cfm/fuseaction/recipes.recipeListing/filter/dianas/recipeID/541/Recipe.cfm
+https://www.chocolatemoosey.com/category/breakfast-and-brunch/doughnuts-pastries/
+http://www.dianasdesserts.com/index.cfm/fuseaction/recipes.recipeListing/filter/dianas/recipeID/886/Recipe.cfm
+http://tinaschic.com/category/doughnuts/
+http://tinaschic.com/category/doughnuts/page/2/
+https://www.chocolatemoosey.com/chocolate-gingerbread-baked-doughnuts/
+https://www.chocolatemoosey.com/apple-pie-filled-doughnuts/feed/
+https://icecreaminspiration.com/tag/doughnuts/feed/
+http://tinaschic.com/2014/08/mini-powdered-doughnuts/feed/
+https://thefrugalgirls.com/2012/10/pumpkin-spice-doughnuts-recipe.html
 https://www.glutenfreealchemist.com/gluten-free-sweet-potato-baked-doughnuts/feed/
 https://icecreaminspiration.com/pumpkin-doughnuts-maple-glaze/feed/
-http://tinaschic.com/category/doughnuts/feed/
+https://bake-eat-repeat.com/baked-pumpkin-spice-doughnuts-recipe/

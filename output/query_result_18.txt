@@ -3,51 +3,68 @@ Query: Popsicles
 Solr Results
 https://icecreamfromscratch.com/mango-popsicles/
 https://icecreamfromscratch.com/cherry-pineapple-popsicles/
-https://www.chocolatemoosey.com/strawberry-popsicles-small-batch/
-https://icecreamfromscratch.com/banana-popsicles/
-https://www.chocolatemoosey.com/pineapple-popsicles/
-https://www.tashasartisanfoods.com/blog/ice-cream/
-https://karluci.com/2019/04/23/50-flavorful-fruit-popsicle-recipes-for-the-summer/
-https://www.tashasartisanfoods.com/blog/cherry-yogurt-popsicles/feed/
-https://www.thelittleepicurean.com/2017/08/cherry-pineapple-popsicles.html
 https://karluci.com/2019/04/23/50-flavorful-fruit-popsicle-recipes-for-the-summer/amp/
-https://www.tashasartisanfoods.com/blog/plum-and-granola-popsicles/
+https://www.chocolatemoosey.com/strawberry-popsicles-small-batch/
+https://www.tashasartisanfoods.com/blog/cherry-yogurt-popsicles/feed/
+https://karluci.com/2019/04/23/50-flavorful-fruit-popsicle-recipes-for-the-summer/
+https://www.chocolatemoosey.com/pineapple-popsicles/
 https://icecreamfromscratch.com/strawberry-popsicles/
+https://www.thelittleepicurean.com/2017/08/cherry-pineapple-popsicles.html
+https://icecreamfromscratch.com/banana-popsicles/
+https://www.tashasartisanfoods.com/blog/plum-and-granola-popsicles/
+https://www.tashasartisanfoods.com/blog/ice-cream/
 https://www.appropriateomnivore.com/tag/fruit-and-vegetable-popsicles/feed/
-https://cookienameddesire.com/mango-kiwi-lemonade-popsicles/feed/
-https://www.appropriateomnivore.com/tag/popsicles/feed/
+https://thefirstyearblog.com/rainbow-popsicles/
+https://www.tessadomesticdiva.com/paleo-aip-strawberries-cream-popsicles/
 
 
 Flat Clustering Results: 
 https://icecreamfromscratch.com/mango-popsicles/
 https://icecreamfromscratch.com/cherry-pineapple-popsicles/
-https://www.chocolatemoosey.com/pineapple-popsicles/
-https://karluci.com/2019/04/23/50-flavorful-fruit-popsicle-recipes-for-the-summer/
-https://www.tashasartisanfoods.com/blog/cherry-yogurt-popsicles/feed/
-https://www.thelittleepicurean.com/2017/08/cherry-pineapple-popsicles.html
 https://karluci.com/2019/04/23/50-flavorful-fruit-popsicle-recipes-for-the-summer/amp/
-https://www.tashasartisanfoods.com/blog/plum-and-granola-popsicles/
+https://www.tashasartisanfoods.com/blog/cherry-yogurt-popsicles/feed/
+https://karluci.com/2019/04/23/50-flavorful-fruit-popsicle-recipes-for-the-summer/
+https://www.chocolatemoosey.com/pineapple-popsicles/
 https://icecreamfromscratch.com/strawberry-popsicles/
+https://www.thelittleepicurean.com/2017/08/cherry-pineapple-popsicles.html
+https://www.tashasartisanfoods.com/blog/plum-and-granola-popsicles/
 https://www.appropriateomnivore.com/tag/fruit-and-vegetable-popsicles/feed/
+https://thefirstyearblog.com/rainbow-popsicles/
+https://www.cleaneatingkitchen.com/mango-pineapple-banana-popsicles/
 https://www.appropriateomnivore.com/tag/popsicles/feed/
-https://www.tashasartisanfoods.com/blog/mango-lemon-cashew-popsicles/feed/
 https://www.thelittleepicurean.com/2017/06/passion-fruit-rose-popsicles.html
 https://www.chocolatemoosey.com/watermelon-lemonade-margarita-popsicles/
-https://thefirstyearblog.com/rainbow-popsicles/
 
-Hierarchial Clustering Results: 
+Single Hierarchial Clustering Results: 
+https://icecreamfromscratch.com/mango-popsicles/
+https://icecreamfromscratch.com/cherry-pineapple-popsicles/
+https://karluci.com/2019/04/23/50-flavorful-fruit-popsicle-recipes-for-the-summer/amp/
+https://www.chocolatemoosey.com/strawberry-popsicles-small-batch/
+https://www.tashasartisanfoods.com/blog/cherry-yogurt-popsicles/feed/
+https://karluci.com/2019/04/23/50-flavorful-fruit-popsicle-recipes-for-the-summer/
+https://www.chocolatemoosey.com/pineapple-popsicles/
+https://icecreamfromscratch.com/strawberry-popsicles/
+https://www.thelittleepicurean.com/2017/08/cherry-pineapple-popsicles.html
+https://icecreamfromscratch.com/banana-popsicles/
+https://www.tashasartisanfoods.com/blog/plum-and-granola-popsicles/
+https://www.tashasartisanfoods.com/blog/ice-cream/
+https://www.appropriateomnivore.com/tag/fruit-and-vegetable-popsicles/feed/
+https://thefirstyearblog.com/rainbow-popsicles/
+https://www.tessadomesticdiva.com/paleo-aip-strawberries-cream-popsicles/
+
+Average Hierarchial Clustering Results: 
 https://icecreamfromscratch.com/mango-popsicles/
 https://icecreamfromscratch.com/cherry-pineapple-popsicles/
 https://www.chocolatemoosey.com/strawberry-popsicles-small-batch/
-https://icecreamfromscratch.com/banana-popsicles/
-https://www.chocolatemoosey.com/pineapple-popsicles/
 https://www.tashasartisanfoods.com/blog/cherry-yogurt-popsicles/feed/
+https://www.chocolatemoosey.com/pineapple-popsicles/
 https://icecreamfromscratch.com/strawberry-popsicles/
+https://icecreamfromscratch.com/banana-popsicles/
 https://www.appropriateomnivore.com/tag/fruit-and-vegetable-popsicles/feed/
-https://cookienameddesire.com/mango-kiwi-lemonade-popsicles/feed/
-https://www.appropriateomnivore.com/tag/popsicles/feed/
 https://www.tessadomesticdiva.com/paleo-aip-strawberries-cream-popsicles/
-https://www.tashasartisanfoods.com/blog/mango-lemon-cashew-popsicles/feed/
+https://www.cleaneatingkitchen.com/mango-pineapple-banana-popsicles/
+https://www.appropriateomnivore.com/tag/popsicles/feed/
 https://www.thelittleepicurean.com/2017/06/passion-fruit-rose-popsicles.html
+https://cookienameddesire.com/mango-kiwi-lemonade-popsicles/feed/
 https://www.chocolatemoosey.com/watermelon-lemonade-margarita-popsicles/
-https://www.chocolatemoosey.com/blueberry-yogurt-popsicles/feed/
+https://www.tashasartisanfoods.com/blog/mango-lemon-cashew-popsicles/feed/

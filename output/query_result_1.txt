@@ -3,51 +3,68 @@ Query: apple pie
 Solr Results
 https://icecreamfromscratch.com/apple-pie-a-la-mode/
 https://www.chocolatemoosey.com/10-recipes-using-apple-pie-filling/
+https://www.chocolatemoosey.com/homemade-apple-pie-filling/
+https://icecreamfromscratch.com/apple-pie-ice-cream/
+https://thefrugalgirls.com/2022/09/apple-pie-filling-for-canning.html/feed
+https://www.christinascucina.com/my-favorite-british-apple-pie/
+https://www.theansweriscake.com/tag/apple-pie/feed/
+https://www.christinascucina.com/my-favorite-british-apple-pie/comment-page-8/
 https://thefrugalgirls.com/2018/06/easy-apple-pie-recipe.html/feed
 https://www.chocolatemoosey.com/10-recipes-using-apple-pie-filling/feed/
 https://www.christinascucina.com/my-favorite-british-apple-pie/feed/
-https://www.christinascucina.com/my-favorite-british-apple-pie/comment-page-8/
-https://www.chocolatemoosey.com/homemade-apple-pie-filling/
-https://icecreamfromscratch.com/apple-pie-ice-cream/
-https://www.christinascucina.com/my-favorite-british-apple-pie/
-https://thefrugalgirls.com/2022/09/apple-pie-filling-for-canning.html/feed
-https://www.theansweriscake.com/tag/apple-pie/feed/
 https://www.bakedbyrachel.com/double-crust-apple-pie/feed/
-https://www.tasteofhome.com/recipes/apple-pie/
-http://tinaschic.com/2015/11/apple-pie/feed/
 https://icecreamfromscratch.com/apple-pie-ice-cream/feed/
+https://www.tasteofhome.com/recipes/apple-pie/
+https://butterwithasideofbread.com/apple-pie-quick-bread/
 
 
 Flat Clustering Results: 
 https://meaningfuleats.com/gluten-free-apple-pie/
-https://www.bakedbyrachel.com/double-crust-apple-pie/
-https://www.yummly.com/amp/recipe/Apple-Pie-Baked-Oatmeal--9350558
 https://www.spendwithpennies.com/baked-apple-pie-roll-ups/
 https://cooking.nytimes.com/recipes/12320-apple-pie
+https://www.bakedbyrachel.com/double-crust-apple-pie/
+https://www.yummly.com/amp/recipe/Apple-Pie-Baked-Oatmeal--9350558
 https://www.willflyforfood.net/usa-julian-your-ticket-to-world-class-apple-pie/
 https://littlesunnykitchen.com/apple-pie/
 https://icecreamfromscratch.com/apple-pie-a-la-mode/
 https://www.chocolatemoosey.com/10-recipes-using-apple-pie-filling/
-https://www.christinascucina.com/my-favorite-british-apple-pie/comment-page-8/
 https://www.chocolatemoosey.com/homemade-apple-pie-filling/
 https://icecreamfromscratch.com/apple-pie-ice-cream/
 https://www.christinascucina.com/my-favorite-british-apple-pie/
+https://www.christinascucina.com/my-favorite-british-apple-pie/comment-page-8/
 https://icecreamfromscratch.com/apple-pie-ice-cream/feed/
-https://www.chocolatemoosey.com/apple-pie-crumb-bars/
+https://butterwithasideofbread.com/apple-pie-quick-bread/
 
-Hierarchial Clustering Results: 
+Single Hierarchial Clustering Results: 
 https://icecreamfromscratch.com/apple-pie-a-la-mode/
 https://www.chocolatemoosey.com/10-recipes-using-apple-pie-filling/
+https://www.chocolatemoosey.com/homemade-apple-pie-filling/
+https://icecreamfromscratch.com/apple-pie-ice-cream/
+https://thefrugalgirls.com/2022/09/apple-pie-filling-for-canning.html/feed
+https://www.christinascucina.com/my-favorite-british-apple-pie/
+https://www.theansweriscake.com/tag/apple-pie/feed/
+https://www.christinascucina.com/my-favorite-british-apple-pie/comment-page-8/
 https://thefrugalgirls.com/2018/06/easy-apple-pie-recipe.html/feed
 https://www.chocolatemoosey.com/10-recipes-using-apple-pie-filling/feed/
 https://www.christinascucina.com/my-favorite-british-apple-pie/feed/
-https://www.christinascucina.com/my-favorite-british-apple-pie/comment-page-8/
+https://www.bakedbyrachel.com/double-crust-apple-pie/feed/
+https://icecreamfromscratch.com/apple-pie-ice-cream/feed/
+https://www.tasteofhome.com/recipes/apple-pie/
+https://butterwithasideofbread.com/apple-pie-quick-bread/
+
+Average Hierarchial Clustering Results: 
+https://www.theansweriscake.com/apple-pie-cake/
+http://www.dianasdesserts.com/index.cfm/fuseaction/recipes.categorylistings/categoryID/1/filter/guests/CategoryListings.cfm
+https://www.wholefoodsmarket.com/recipes/caramel-apple-pie-bars
+https://icecreamfromscratch.com/apple-pie-a-la-mode/
+https://www.chocolatemoosey.com/10-recipes-using-apple-pie-filling/
 https://www.chocolatemoosey.com/homemade-apple-pie-filling/
 https://icecreamfromscratch.com/apple-pie-ice-cream/
-https://www.christinascucina.com/my-favorite-british-apple-pie/
 https://thefrugalgirls.com/2022/09/apple-pie-filling-for-canning.html/feed
+https://www.christinascucina.com/my-favorite-british-apple-pie/
 https://www.theansweriscake.com/tag/apple-pie/feed/
+https://www.christinascucina.com/my-favorite-british-apple-pie/comment-page-8/
+https://thefrugalgirls.com/2018/06/easy-apple-pie-recipe.html/feed
+https://www.chocolatemoosey.com/10-recipes-using-apple-pie-filling/feed/
+https://www.christinascucina.com/my-favorite-british-apple-pie/feed/
 https://www.bakedbyrachel.com/double-crust-apple-pie/feed/
-https://www.tasteofhome.com/recipes/apple-pie/
-http://tinaschic.com/2015/11/apple-pie/feed/
-https://icecreamfromscratch.com/apple-pie-ice-cream/feed/

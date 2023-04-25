@@ -3,19 +3,19 @@ Query: muffin
 Solr Results
 http://www.yummytummyrecipeindex.com/2013/11/cupcakes-muffins.html
 https://www.theansweriscake.com/tag/blueberry-muffin-cake-recipe/feed/
-https://www.masterstech-home.com/the_kitchen/recipes/Recipe_Indices/Bread_Recipe_Indices/MuffinRecipesIndex.html
-https://www.theansweriscake.com/blueberry-muffin-cake/feed/
-https://iamafoodblog.com/jordan-marshs-blueberry-muffins-recipe/
-http://www.dianasdesserts.com/index.cfm/fuseaction/bakingtips.Muffins/Muffins.cfm
-https://www.masterstech-home.com/the_kitchen/Recipes/Recipe_Indices/Bread_Recipe_Indices/MuffinRecipesIndex2.html
 http://www.dianasdesserts.com/index.cfm/fuseaction/recipes.recipeListing/filter/dianas/recipeID/2538/Recipe.cfm
 http://tinaschic.com/2014/06/english-muffin-bread/feed/
+https://www.masterstech-home.com/the_kitchen/Recipes/Recipe_Indices/Bread_Recipe_Indices/MuffinRecipesIndex2.html
+https://www.masterstech-home.com/the_kitchen/recipes/Recipe_Indices/Bread_Recipe_Indices/MuffinRecipesIndex.html
+http://www.dianasdesserts.com/index.cfm/fuseaction/bakingtips.Muffins/Muffins.cfm
+https://www.theansweriscake.com/blueberry-muffin-cake/feed/
+https://iamafoodblog.com/jordan-marshs-blueberry-muffins-recipe/
 http://www.dianasdesserts.com/index.cfm/fuseaction/recipes.recipeListing/filter/dianas/recipeID/2543/Recipe.cfm
-https://biscuitstobrownies.com/southern-style-doughnut-crossiant-or-muffin/feed/
 https://www.masterstech-home.com/The_Kitchen/Recipes/Recipe_Indices/Bread_Recipe_Indices/MuffinRecipesIndex2.html
-https://thefrugalgirls.com/best-ever-muffin-recipes/feed
+https://biscuitstobrownies.com/southern-style-doughnut-crossiant-or-muffin/feed/
+http://tinaschic.com/2013/07/baking-muffins-101/
 https://www.christinascucina.com/blueberry-muffin-recipe-made-with-yogurt/comment-page-1/
-https://www.christinascucina.com/blueberry-muffin-recipe-made-with-yogurt/comment-page-2/
+http://tinaschic.com/baking-101/baking-muffins-101/comment-page-1/
 
 
 Flat Clustering Results: 
@@ -24,30 +24,47 @@ https://biscuitstobrownies.com/southern-style-doughnut-crossiant-or-muffin/feed/
 https://thefrugalgirls.com/best-ever-muffin-recipes/feed
 https://www.browneyedbaker.com/english-muffin-bread-recipe/
 https://veenaazmanov.com/cake-recipes/muffin-recipes/
-https://shop.kingarthurbaking.com/pans/doughnut-muffin
-https://dinnerthendessert.com/hash-brown-egg-cups/feed/
 https://biscuitstobrownies.com/southern-style-doughnut-crossiant-or-muffin/
+https://dinnerthendessert.com/hash-brown-egg-cups/feed/
+https://shop.kingarthurbaking.com/pans/doughnut-muffin
 http://www.dishingthedivine.com/2012/03/16/blueberry-muffin-cake/feed/
+https://www.masterstech-home.com/the_kitchen/Recipes/Recipe_Indices/Bread_Recipe_Indices/MuffinRecipesIndex2.html
 https://www.masterstech-home.com/the_kitchen/recipes/Recipe_Indices/Bread_Recipe_Indices/MuffinRecipesIndex.html
 https://iamafoodblog.com/jordan-marshs-blueberry-muffins-recipe/
-https://www.masterstech-home.com/the_kitchen/Recipes/Recipe_Indices/Bread_Recipe_Indices/MuffinRecipesIndex2.html
 https://www.masterstech-home.com/The_Kitchen/Recipes/Recipe_Indices/Bread_Recipe_Indices/MuffinRecipesIndex2.html
+http://tinaschic.com/2013/07/baking-muffins-101/
 https://www.christinascucina.com/blueberry-muffin-recipe-made-with-yogurt/comment-page-1/
-https://www.christinascucina.com/blueberry-muffin-recipe-made-with-yogurt/comment-page-2/
 
-Hierarchial Clustering Results: 
+Single Hierarchial Clustering Results: 
 http://www.yummytummyrecipeindex.com/2013/11/cupcakes-muffins.html
 https://www.theansweriscake.com/tag/blueberry-muffin-cake-recipe/feed/
-https://www.theansweriscake.com/blueberry-muffin-cake/feed/
 http://www.dianasdesserts.com/index.cfm/fuseaction/recipes.recipeListing/filter/dianas/recipeID/2538/Recipe.cfm
 http://tinaschic.com/2014/06/english-muffin-bread/feed/
+https://www.masterstech-home.com/the_kitchen/Recipes/Recipe_Indices/Bread_Recipe_Indices/MuffinRecipesIndex2.html
+https://www.masterstech-home.com/the_kitchen/recipes/Recipe_Indices/Bread_Recipe_Indices/MuffinRecipesIndex.html
+http://www.dianasdesserts.com/index.cfm/fuseaction/bakingtips.Muffins/Muffins.cfm
+https://www.theansweriscake.com/blueberry-muffin-cake/feed/
+https://iamafoodblog.com/jordan-marshs-blueberry-muffins-recipe/
+http://www.dianasdesserts.com/index.cfm/fuseaction/recipes.recipeListing/filter/dianas/recipeID/2543/Recipe.cfm
+https://www.masterstech-home.com/The_Kitchen/Recipes/Recipe_Indices/Bread_Recipe_Indices/MuffinRecipesIndex2.html
+https://biscuitstobrownies.com/southern-style-doughnut-crossiant-or-muffin/feed/
+http://tinaschic.com/2013/07/baking-muffins-101/
+https://www.christinascucina.com/blueberry-muffin-recipe-made-with-yogurt/comment-page-1/
+http://tinaschic.com/baking-101/baking-muffins-101/comment-page-1/
+
+Average Hierarchial Clustering Results: 
+http://www.yummytummyrecipeindex.com/2013/11/cupcakes-muffins.html
+https://www.theansweriscake.com/tag/blueberry-muffin-cake-recipe/feed/
+http://www.dianasdesserts.com/index.cfm/fuseaction/recipes.recipeListing/filter/dianas/recipeID/2538/Recipe.cfm
+http://tinaschic.com/2014/06/english-muffin-bread/feed/
+https://www.theansweriscake.com/blueberry-muffin-cake/feed/
 http://www.dianasdesserts.com/index.cfm/fuseaction/recipes.recipeListing/filter/dianas/recipeID/2543/Recipe.cfm
 https://biscuitstobrownies.com/southern-style-doughnut-crossiant-or-muffin/feed/
-https://thefrugalgirls.com/best-ever-muffin-recipes/feed
+http://tinaschic.com/2013/07/baking-muffins-101/
 https://www.christinascucina.com/blueberry-muffin-recipe-made-with-yogurt/comment-page-1/
+http://tinaschic.com/baking-101/baking-muffins-101/comment-page-1/
+https://thefrugalgirls.com/best-ever-muffin-recipes/feed
 https://www.christinascucina.com/blueberry-muffin-recipe-made-with-yogurt/comment-page-2/
 https://thefirstyearblog.com/strawberry-muffins/
-http://tinaschic.com/2013/07/baking-muffins-101/
-http://tinaschic.com/baking-101/baking-muffins-101/comment-page-1/
 https://thefirstyearblog.com/chocolate-chip-muffins/
-https://easydessertrecipes.com/web-stories/easy-and-tasty-muffin-recipes-story/
+https://www.browneyedbaker.com/english-muffin-bread-recipe/

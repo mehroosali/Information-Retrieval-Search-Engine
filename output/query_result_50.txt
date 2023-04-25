@@ -3,51 +3,68 @@ Query: Pecan Pie
 Solr Results
 https://www.shugarysweets.com/pecan-pie-cheesecake-bars/
 https://www.chocolatemoosey.com/pecan-pie-cheesecake/
-https://www.chocolatemoosey.com/page/11/
-https://bakingamoment.com/pecan-pie-bars/
-https://www.shugarysweets.com/pecan-pie/comment-page-1/
-https://thefrugalgirls.com/2011/10/chocolate-chip-pecan-pie-recipe.html
-https://www.livewellbakeoften.com/classic-pecan-pie/
-https://www.shugarysweets.com/pecan-pie/
-https://bakingamoment.com/pecan-pie-cheesecake/
-https://bakingamoment.com/pecan-pie-bars/feed/
 https://www.shugarysweets.com/pecan-pie/feed/
+https://www.chocolatemoosey.com/page/11/
+https://www.shugarysweets.com/pecan-pie/
+https://thefrugalgirls.com/2011/10/chocolate-chip-pecan-pie-recipe.html
+https://bakingamoment.com/pecan-pie-cheesecake/
+https://www.shugarysweets.com/pecan-pie/comment-page-1/
+https://www.livewellbakeoften.com/classic-pecan-pie/
+https://bakingamoment.com/pecan-pie-bars/feed/
 https://www.chocolatemoosey.com/small-pecan-pie/
-https://cooking.nytimes.com/recipes/1023559-ina-gartens-bourbon-chocolate-pecan-pie
-https://www.chocolatemoosey.com/pecan-pie-cheesecake/feed/
+https://bakingamoment.com/pecan-pie-bars/
+https://www.bakeat350.net/2020/11/pecan-pie-energy-protein-balls.html
+https://cooking.nytimes.com/recipes/1015214-pecan-pie-truffles
 https://preppykitchen.com/pecan-pie-bars/
 
 
 Flat Clustering Results: 
 https://www.shugarysweets.com/pecan-pie/feed/
+https://cooking.nytimes.com/recipes/1015214-pecan-pie-truffles
 https://preppykitchen.com/pecan-pie-bars/
 https://food52.com/hotline/51328-thinning-pecan-pie-filling-to-create-a-sauce
-https://cooking.nytimes.com/recipes/1015214-pecan-pie-truffles
-https://preppykitchen.com/web-stories/feed/
 https://www.bakeat350.net/feeds/7818285927896705847/comments/default
+https://preppykitchen.com/web-stories/feed/
 https://www.chocolatemoosey.com/pecan-pie-cheesecake/
 https://www.chocolatemoosey.com/page/11/
 https://thefrugalgirls.com/2011/10/chocolate-chip-pecan-pie-recipe.html
 https://www.chocolatemoosey.com/small-pecan-pie/
-https://cooking.nytimes.com/recipes/1023559-ina-gartens-bourbon-chocolate-pecan-pie
 https://www.bakeat350.net/2020/11/pecan-pie-energy-protein-balls.html
 https://www.thelittleepicurean.com/2019/11/brown-butter-pecan-pie.html
+https://cooking.nytimes.com/recipes/1023559-ina-gartens-bourbon-chocolate-pecan-pie
 http://www.dianasdesserts.com/index.cfm/fuseaction/recipes.recipeListing/filter/guests/recipeID/433/Recipe.cfm
 https://sallysbakingaddiction.com/my-favorite-pecan-pie-recipe/
 
-Hierarchial Clustering Results: 
+Single Hierarchial Clustering Results: 
+https://www.shugarysweets.com/pecan-pie-cheesecake-bars/
 https://www.chocolatemoosey.com/pecan-pie-cheesecake/
-https://www.chocolatemoosey.com/page/11/
-https://bakingamoment.com/pecan-pie-bars/
-https://www.shugarysweets.com/pecan-pie/comment-page-1/
-https://thefrugalgirls.com/2011/10/chocolate-chip-pecan-pie-recipe.html
-https://bakingamoment.com/pecan-pie-bars/feed/
 https://www.shugarysweets.com/pecan-pie/feed/
+https://www.chocolatemoosey.com/page/11/
+https://www.shugarysweets.com/pecan-pie/
+https://thefrugalgirls.com/2011/10/chocolate-chip-pecan-pie-recipe.html
+https://bakingamoment.com/pecan-pie-cheesecake/
+https://www.shugarysweets.com/pecan-pie/comment-page-1/
+https://www.livewellbakeoften.com/classic-pecan-pie/
+https://bakingamoment.com/pecan-pie-bars/feed/
 https://www.chocolatemoosey.com/small-pecan-pie/
-https://cooking.nytimes.com/recipes/1023559-ina-gartens-bourbon-chocolate-pecan-pie
-https://www.chocolatemoosey.com/pecan-pie-cheesecake/feed/
-https://preppykitchen.com/pecan-pie-bars/
-https://food52.com/hotline/51328-thinning-pecan-pie-filling-to-create-a-sauce
+https://bakingamoment.com/pecan-pie-bars/
 https://www.bakeat350.net/2020/11/pecan-pie-energy-protein-balls.html
 https://cooking.nytimes.com/recipes/1015214-pecan-pie-truffles
+https://preppykitchen.com/pecan-pie-bars/
+
+Average Hierarchial Clustering Results: 
+https://www.chocolatemoosey.com/pecan-pie-cheesecake/
+https://www.shugarysweets.com/pecan-pie/feed/
+https://www.chocolatemoosey.com/page/11/
+https://thefrugalgirls.com/2011/10/chocolate-chip-pecan-pie-recipe.html
+https://www.shugarysweets.com/pecan-pie/comment-page-1/
+https://bakingamoment.com/pecan-pie-bars/feed/
+https://www.chocolatemoosey.com/small-pecan-pie/
+https://bakingamoment.com/pecan-pie-bars/
+https://www.bakeat350.net/2020/11/pecan-pie-energy-protein-balls.html
+https://cooking.nytimes.com/recipes/1015214-pecan-pie-truffles
+https://preppykitchen.com/pecan-pie-bars/
+https://www.chocolatemoosey.com/pecan-pie-cheesecake/feed/
+https://thefrugalgirls.com/2018/07/southern-skillet-pecan-pie-recipe.html
+https://www.thelittleepicurean.com/2019/11/brown-butter-pecan-pie.html
 https://preppykitchen.com/web-stories/pecan-pie-bars/

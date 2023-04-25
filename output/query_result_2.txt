@@ -3,51 +3,68 @@ Query: cheesecake
 Solr Results
 http://jewishfood-list.com/recipes/shavuot/chscake/&shavuot_chscake_index.html
 http://www.jewishfood-list.com/recipes/dessert/chscake/&chscake_index.html
-http://www.dianasdesserts.com/index.cfm/fuseaction/recipes.recipeListing/filter/dianas/recipeID/75/Recipe.cfm
 https://www.theansweriscake.com/cheesecake-recipes/
 https://www.cs.cmu.edu/~mjw/recipes/dessert/cheesecake/index.html
-http://www.theansweriscake.com/cheesecake-recipes/
 http://www.dianasdesserts.com/index.cfm/fuseaction/recipes.recipeListing/filter/dianas/recipeID/3979/Recipe.cfm
-https://dinnerthendessert.com/category/dessert/cheesecake/
 http://www.dianasdesserts.com/index.cfm/fuseaction/recipes.recipeListing/filter/dianas/recipeID/2116/Recipe.cfm
-https://www.chocolatemoosey.com/category/desserts/cheesecake/page/2/
-https://www.chocolatemoosey.com/category/desserts/cheesecake/
+http://www.theansweriscake.com/cheesecake-recipes/
+https://dinnerthendessert.com/category/dessert/cheesecake/
 http://www.dianasdesserts.com/index.cfm/fuseaction/recipes.categorylistings/categoryID/15/filter/dianas/CategoryListings.cfm
-https://karluci.com/2018/12/01/30-holiday-cheesecake/amp/
-https://www.theansweriscake.com/tag/cheesecake-recipes/feed/
-https://dinnerthendessert.com/category/dessert/cheesecake/page/2/
+https://www.chocolatemoosey.com/category/desserts/cheesecake/page/2/
+http://www.dianasdesserts.com/index.cfm/fuseaction/recipes.recipeListing/filter/dianas/recipeID/75/Recipe.cfm
+https://www.chocolatemoosey.com/category/desserts/cheesecake/
+https://www.chocolatemoosey.com/category/desserts/cheesecake/feed/
+https://www.chocolatemoosey.com/category/desserts/cheesecake/page/3/
+https://easydessertrecipes.com/web-stories/the-best-cheesecake-recipes-story/
 
 
 Flat Clustering Results: 
 http://jewishfood-list.com/recipes/shavuot/chscake/&shavuot_chscake_index.html
 http://www.jewishfood-list.com/recipes/dessert/chscake/&chscake_index.html
-https://www.juniorscheesecake.com/
 https://www.tashasartisanfoods.com/blog/thandai-cheesecake-eggless-cheesecake/feed/
+https://www.juniorscheesecake.com/
 https://cookingorgeous.com/blog/basque-burnt-san-sebastian-cheesecake/feed/
 https://www.juniorscheesecake.com/all-items
 https://www.juniorscheesecake.com/blog/2016/07/27/the-history-of-cheesecake/
 https://www.juniorscheesecake.com/our-cheesecake/
-http://www.dianasdesserts.com/index.cfm/fuseaction/recipes.recipeListing/filter/dianas/recipeID/75/Recipe.cfm
 https://www.cs.cmu.edu/~mjw/recipes/dessert/cheesecake/index.html
-http://www.theansweriscake.com/cheesecake-recipes/
 http://www.dianasdesserts.com/index.cfm/fuseaction/recipes.recipeListing/filter/dianas/recipeID/3979/Recipe.cfm
 http://www.dianasdesserts.com/index.cfm/fuseaction/recipes.recipeListing/filter/dianas/recipeID/2116/Recipe.cfm
+http://www.theansweriscake.com/cheesecake-recipes/
+http://www.dianasdesserts.com/index.cfm/fuseaction/recipes.categorylistings/categoryID/15/filter/dianas/CategoryListings.cfm
 https://www.chocolatemoosey.com/category/desserts/cheesecake/page/2/
-https://www.chocolatemoosey.com/category/desserts/cheesecake/
+http://www.dianasdesserts.com/index.cfm/fuseaction/recipes.recipeListing/filter/dianas/recipeID/75/Recipe.cfm
 
-Hierarchial Clustering Results: 
+Single Hierarchial Clustering Results: 
 http://jewishfood-list.com/recipes/shavuot/chscake/&shavuot_chscake_index.html
 http://www.jewishfood-list.com/recipes/dessert/chscake/&chscake_index.html
+https://www.theansweriscake.com/cheesecake-recipes/
+https://www.cs.cmu.edu/~mjw/recipes/dessert/cheesecake/index.html
+http://www.dianasdesserts.com/index.cfm/fuseaction/recipes.recipeListing/filter/dianas/recipeID/3979/Recipe.cfm
+http://www.dianasdesserts.com/index.cfm/fuseaction/recipes.recipeListing/filter/dianas/recipeID/2116/Recipe.cfm
 http://www.theansweriscake.com/cheesecake-recipes/
 https://dinnerthendessert.com/category/dessert/cheesecake/
+http://www.dianasdesserts.com/index.cfm/fuseaction/recipes.categorylistings/categoryID/15/filter/dianas/CategoryListings.cfm
 https://www.chocolatemoosey.com/category/desserts/cheesecake/page/2/
+http://www.dianasdesserts.com/index.cfm/fuseaction/recipes.recipeListing/filter/dianas/recipeID/75/Recipe.cfm
 https://www.chocolatemoosey.com/category/desserts/cheesecake/
-https://karluci.com/2018/12/01/30-holiday-cheesecake/amp/
-https://www.theansweriscake.com/tag/cheesecake-recipes/feed/
-https://dinnerthendessert.com/category/dessert/cheesecake/page/2/
-https://dinnerthendessert.com/category/dessert/cheesecake/feed/
-https://thefirstyearblog.com/recipes/cheesecake/
-https://www.chocolatemoosey.com/category/desserts/cheesecake/page/3/
 https://www.chocolatemoosey.com/category/desserts/cheesecake/feed/
+https://www.chocolatemoosey.com/category/desserts/cheesecake/page/3/
 https://easydessertrecipes.com/web-stories/the-best-cheesecake-recipes-story/
-https://iamafoodblog.com/keto-cheesecake/
+
+Average Hierarchial Clustering Results: 
+https://www.cs.cmu.edu/~mjw/recipes/dessert/cheesecake/index.html
+http://www.dianasdesserts.com/index.cfm/fuseaction/recipes.recipeListing/filter/dianas/recipeID/3979/Recipe.cfm
+http://www.dianasdesserts.com/index.cfm/fuseaction/recipes.recipeListing/filter/dianas/recipeID/2116/Recipe.cfm
+http://www.dianasdesserts.com/index.cfm/fuseaction/recipes.categorylistings/categoryID/15/filter/dianas/CategoryListings.cfm
+http://www.dianasdesserts.com/index.cfm/fuseaction/recipes.recipeListing/filter/dianas/recipeID/75/Recipe.cfm
+https://www.livewellbakeoften.com/category/cheesecake/feed/
+https://www.bakeat350.net/search/label/cheesecake
+https://www.livewellbakeoften.com/category/cheesecake/
+https://sallysbakingaddiction.com/category/desserts/cheesecake/
+https://www.bakedbyrachel.com/category/cheesecake/
+https://bakingamoment.com/category/cheesecakes/feed/
+https://pastrychefonline.com/category/cheesecake-recipes/
+https://www.juniorscheesecake.com/all-items
+https://www.juniorscheesecake.com/our-cheesecake/
+http://jewishfood-list.com/recipes/shavuot/chscake/&shavuot_chscake_index.html

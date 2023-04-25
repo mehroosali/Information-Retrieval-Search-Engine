@@ -3,51 +3,68 @@ Query: Quindim
 Solr Results
 https://traveltriangle.com/blog/brazilian-desserts/
 https://www.amigofoods.com/
-https://www.amigofoods.com/brazilianfood.html
-https://www.amigofoods.com/alfajores2.html
-https://www.amigofoods.com/arpr.html
-https://www.amigofoods.com/bebe2.html
-https://www.amigofoods.com/about-us.html
 https://www.amigofoods.com/argentine-recipes.html
 https://www.amigofoods.com/brazilian-recipes.html
 https://www.amigofoods.com/argentine-teas-infusions-te.html
-https://www.amigofoods.com/arcor.html
 https://www.amigofoods.com/cachafaz.html
-https://www.amigofoods.com/carbonada-criolla-recipe.html
+https://www.amigofoods.com/bebe2.html
+https://www.amigofoods.com/arpr.html
+https://www.amigofoods.com/alfajores2.html
+https://www.amigofoods.com/arcor.html
+https://www.amigofoods.com/brazilianfood.html
+https://www.amigofoods.com/about-us.html
+https://www.amigofoods.com/chimichurri-recipe.html
+https://www.amigofoods.com/choripan-recipe.html
 https://www.amigofoods.com/costa-rican-recipes.html
-https://www.amigofoods.com/dominican-recipes.html
 
 
 Flat Clustering Results: 
 https://traveltriangle.com/blog/brazilian-desserts/
 https://www.amigofoods.com/
-https://www.amigofoods.com/brazilianfood.html
-https://www.amigofoods.com/alfajores2.html
-https://www.amigofoods.com/arpr.html
-https://www.amigofoods.com/bebe2.html
-https://www.amigofoods.com/about-us.html
 https://www.amigofoods.com/argentine-recipes.html
 https://www.amigofoods.com/brazilian-recipes.html
 https://www.amigofoods.com/argentine-teas-infusions-te.html
-https://www.amigofoods.com/arcor.html
 https://www.amigofoods.com/cachafaz.html
-https://www.amigofoods.com/carbonada-criolla-recipe.html
+https://www.amigofoods.com/bebe2.html
+https://www.amigofoods.com/arpr.html
+https://www.amigofoods.com/alfajores2.html
+https://www.amigofoods.com/arcor.html
+https://www.amigofoods.com/brazilianfood.html
+https://www.amigofoods.com/about-us.html
+https://www.amigofoods.com/chimichurri-recipe.html
+https://www.amigofoods.com/choripan-recipe.html
 https://www.amigofoods.com/costa-rican-recipes.html
-https://www.amigofoods.com/dominican-recipes.html
 
-Hierarchial Clustering Results: 
+Single Hierarchial Clustering Results: 
 https://traveltriangle.com/blog/brazilian-desserts/
-https://www.amigofoods.com/brazilianfood.html
-https://www.amigofoods.com/alfajores2.html
-https://www.amigofoods.com/arpr.html
-https://www.amigofoods.com/bebe2.html
-https://www.amigofoods.com/about-us.html
+https://www.amigofoods.com/
 https://www.amigofoods.com/argentine-recipes.html
 https://www.amigofoods.com/brazilian-recipes.html
 https://www.amigofoods.com/argentine-teas-infusions-te.html
-https://www.amigofoods.com/arcor.html
 https://www.amigofoods.com/cachafaz.html
-https://www.amigofoods.com/carbonada-criolla-recipe.html
+https://www.amigofoods.com/bebe2.html
+https://www.amigofoods.com/arpr.html
+https://www.amigofoods.com/alfajores2.html
+https://www.amigofoods.com/arcor.html
+https://www.amigofoods.com/brazilianfood.html
+https://www.amigofoods.com/about-us.html
+https://www.amigofoods.com/chimichurri-recipe.html
+https://www.amigofoods.com/choripan-recipe.html
 https://www.amigofoods.com/costa-rican-recipes.html
-https://www.amigofoods.com/dominican-recipes.html
-https://www.amigofoods.com/chsasa.html
+
+Average Hierarchial Clustering Results: 
+https://traveltriangle.com/blog/brazilian-desserts/
+https://www.amigofoods.com/argentine-recipes.html
+https://www.amigofoods.com/brazilian-recipes.html
+https://www.amigofoods.com/argentine-teas-infusions-te.html
+https://www.amigofoods.com/cachafaz.html
+https://www.amigofoods.com/bebe2.html
+https://www.amigofoods.com/arpr.html
+https://www.amigofoods.com/alfajores2.html
+https://www.amigofoods.com/arcor.html
+https://www.amigofoods.com/brazilianfood.html
+https://www.amigofoods.com/about-us.html
+https://www.amigofoods.com/chimichurri-recipe.html
+https://www.amigofoods.com/choripan-recipe.html
+https://www.amigofoods.com/costa-rican-recipes.html
+https://www.amigofoods.com/carbonada-criolla-recipe.html

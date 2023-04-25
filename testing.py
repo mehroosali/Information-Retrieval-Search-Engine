@@ -34,7 +34,8 @@ class Testing:
             print(solr_query)
             solr_results = self.get_results_from_solr(solr_query)
             flat_cluster_results = self.cluster.flat_Clustering(query, solr_results)
-            hac_cluster_results = self.cluster.hierarchical_clustering(query, solr_results)
+            single_cluster_results = self.cluster.hierarchical_clustering_single(query, solr_results)
+            average_cluster_results = self.cluster.hierarchical_clustering_average(query, solr_results)
 
             file_name = "./output/query_result_"+ str(count) +".txt"
             with open(file_name, "w") as f:
@@ -47,10 +48,13 @@ class Testing:
                 for url in self.get_urls_from_result(flat_cluster_results):
                     f.write(str(url)+"\n")
                 
-                f.write("\nHierarchial Clustering Results: \n")
-                for url in self.get_urls_from_result(hac_cluster_results):
+                f.write("\nSingle Hierarchial Clustering Results: \n")
+                for url in self.get_urls_from_result(single_cluster_results):
                     f.write(url + "\n")
 
+                f.write("\nAverage Hierarchial Clustering Results: \n")
+                for url in self.get_urls_from_result(average_cluster_results):
+                    f.write(url + "\n")
     
     def randomize_result(self, results):
         batch_size = 10

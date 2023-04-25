@@ -3,51 +3,68 @@ Query: tart
 Solr Results
 http://www.dianasdesserts.com/index.cfm/fuseaction/recipes.recipeListing/filter/dianas/recipeID/1816/Recipe.cfm
 http://www.dianasdesserts.com/index.cfm/fuseaction/recipes.recipeListing/filter/dianas/recipeID/898/Recipe.cfm
+http://www.dianasdesserts.com/index.cfm/fuseaction/recipes.recipeListing/filter/dianas/recipeID/133/Recipe.cfm
+http://www.dianasdesserts.com/index.cfm/fuseaction/recipes.recipeListing/filter/dianas/recipeID/1802/Recipe.cfm
+http://www.jewishfood-list.com/recipes/pie/&pie_index.html
+https://bakesbybrownsugar.com/web-stories/passion-fruit-tart-story/
+https://bakesbybrownsugar.com/web-stories/meyer-lemon-tart-story/
+https://pastrychefonline.com/pastry-smackdown-pie-v-tart/
 https://www.thelittleepicurean.com/2019/09/pear-frangipane-tart.html
 https://pastrychefonline.com/pastry-smackdown-pie-v-tart
-https://www.thelittleepicurean.com/2018/10/almond-pine-nut-tart.html
-http://www.dianasdesserts.com/index.cfm/fuseaction/recipes.recipeListing/filter/dianas/recipeID/1802/Recipe.cfm
-https://pastrychefonline.com/pastry-smackdown-pie-v-tart/
-http://www.jewishfood-list.com/recipes/pie/&pie_index.html
 http://www.yummytummyrecipeindex.com/2013/11/pies-tart-crumbles-bars-rolls.html
-http://www.dianasdesserts.com/index.cfm/fuseaction/recipes.recipeListing/filter/dianas/recipeID/133/Recipe.cfm
-https://bakesbybrownsugar.com/web-stories/meyer-lemon-tart-story/
-https://bakesbybrownsugar.com/web-stories/passion-fruit-tart-story/
-https://www.thelittleepicurean.com/2019/11/easy-pumpkin-tart.html
-https://www.chocolatemoosey.com/caramel-apple-pecan-tart/feed/
-https://cooking.nytimes.com/recipes/1017817-cranberry-curd-tart
+https://www.thelittleepicurean.com/2018/10/almond-pine-nut-tart.html
+https://www.bakeat350.net/2020/10/chocolate-spiderweb-bakewell-tart.html
+https://www.madaboutmacarons.com/quick-french-apple-tart-with-calvados-cream/
+https://www.tashasartisanfoods.com/blog/vegan-matcha-tart/
 
 
 Flat Clustering Results: 
-https://bakesbybrownsugar.com/web-stories/meyer-lemon-tart-story/
 https://bakesbybrownsugar.com/web-stories/passion-fruit-tart-story/
-https://cooking.nytimes.com/recipes/1017817-cranberry-curd-tart
+https://bakesbybrownsugar.com/web-stories/meyer-lemon-tart-story/
 https://cooking.nytimes.com/recipes/1020174-carrot-tart-with-ricotta-and-feta
+https://cooking.nytimes.com/recipes/1017817-cranberry-curd-tart
 https://monrealescookinginspirations.com/index.php/2017/06/17/lemon-meringue-tart/feed/
 https://monrealescookinginspirations.com/index.php/2017/06/17/prune-almond-tart/feed/
 https://anitalianinmykitchen.com/panna-cotta-tart/
-https://www.tashasartisanfoods.com/blog/the-best-apple-puff-pastry-tart/feed/
-https://www.lacademie.com/best-tart-pans/feed/
 https://cooking.nytimes.com/recipes/1020982-rhubarb-macaroon-tart
-https://crispyfoodidea.com/2022/01/amazing-mini-tart-recipes.html/feed
 http://www.ouichefnetwork.com/2016/10/caramel-pumpkin-tart-with-hazelnut-crust.html/feed
+https://crispyfoodidea.com/2022/01/amazing-mini-tart-recipes.html/feed
+https://www.lacademie.com/best-tart-pans/feed/
+https://www.tashasartisanfoods.com/blog/the-best-apple-puff-pastry-tart/feed/
 https://cooking.nytimes.com/recipes/1019945-mushroom-parmesan-tart
 http://www.dianasdesserts.com/index.cfm/fuseaction/recipes.recipeListing/filter/dianas/recipeID/1816/Recipe.cfm
 http://www.dianasdesserts.com/index.cfm/fuseaction/recipes.recipeListing/filter/dianas/recipeID/898/Recipe.cfm
 
-Hierarchial Clustering Results: 
+Single Hierarchial Clustering Results: 
 http://www.dianasdesserts.com/index.cfm/fuseaction/recipes.recipeListing/filter/dianas/recipeID/1816/Recipe.cfm
 http://www.dianasdesserts.com/index.cfm/fuseaction/recipes.recipeListing/filter/dianas/recipeID/898/Recipe.cfm
-https://pastrychefonline.com/pastry-smackdown-pie-v-tart
-https://www.thelittleepicurean.com/2018/10/almond-pine-nut-tart.html
+http://www.dianasdesserts.com/index.cfm/fuseaction/recipes.recipeListing/filter/dianas/recipeID/133/Recipe.cfm
 http://www.dianasdesserts.com/index.cfm/fuseaction/recipes.recipeListing/filter/dianas/recipeID/1802/Recipe.cfm
-https://pastrychefonline.com/pastry-smackdown-pie-v-tart/
 http://www.jewishfood-list.com/recipes/pie/&pie_index.html
-http://www.yummytummyrecipeindex.com/2013/11/pies-tart-crumbles-bars-rolls.html
-https://bakesbybrownsugar.com/web-stories/meyer-lemon-tart-story/
 https://bakesbybrownsugar.com/web-stories/passion-fruit-tart-story/
-https://www.chocolatemoosey.com/caramel-apple-pecan-tart/feed/
-https://cooking.nytimes.com/recipes/1017817-cranberry-curd-tart
-https://www.cs.cmu.edu/~mjw/recipes/pie/sweet/raspberry-tart.html
+https://bakesbybrownsugar.com/web-stories/meyer-lemon-tart-story/
+https://pastrychefonline.com/pastry-smackdown-pie-v-tart/
+https://www.thelittleepicurean.com/2019/09/pear-frangipane-tart.html
+https://pastrychefonline.com/pastry-smackdown-pie-v-tart
+http://www.yummytummyrecipeindex.com/2013/11/pies-tart-crumbles-bars-rolls.html
+https://www.thelittleepicurean.com/2018/10/almond-pine-nut-tart.html
 https://www.bakeat350.net/2020/10/chocolate-spiderweb-bakewell-tart.html
+https://www.madaboutmacarons.com/quick-french-apple-tart-with-calvados-cream/
 https://www.tashasartisanfoods.com/blog/vegan-matcha-tart/
+
+Average Hierarchial Clustering Results: 
+http://www.dianasdesserts.com/index.cfm/fuseaction/recipes.recipeListing/filter/dianas/recipeID/1816/Recipe.cfm
+http://www.dianasdesserts.com/index.cfm/fuseaction/recipes.recipeListing/filter/dianas/recipeID/898/Recipe.cfm
+http://www.dianasdesserts.com/index.cfm/fuseaction/recipes.recipeListing/filter/dianas/recipeID/1802/Recipe.cfm
+http://www.jewishfood-list.com/recipes/pie/&pie_index.html
+https://bakesbybrownsugar.com/web-stories/passion-fruit-tart-story/
+https://bakesbybrownsugar.com/web-stories/meyer-lemon-tart-story/
+https://pastrychefonline.com/pastry-smackdown-pie-v-tart/
+https://pastrychefonline.com/pastry-smackdown-pie-v-tart
+http://www.yummytummyrecipeindex.com/2013/11/pies-tart-crumbles-bars-rolls.html
+https://www.thelittleepicurean.com/2018/10/almond-pine-nut-tart.html
+https://www.bakeat350.net/2020/10/chocolate-spiderweb-bakewell-tart.html
+https://www.madaboutmacarons.com/quick-french-apple-tart-with-calvados-cream/
+https://www.tashasartisanfoods.com/blog/vegan-matcha-tart/
+https://cooking.nytimes.com/recipes/1020174-carrot-tart-with-ricotta-and-feta
+https://cooking.nytimes.com/recipes/1017817-cranberry-curd-tart

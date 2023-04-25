@@ -3,51 +3,68 @@ Query: Sorbet
 Solr Results
 https://icecreamfromscratch.com/coconut-sorbet-recipe/
 https://icecreamfromscratch.com/strawberry-sorbet/
-https://www.chocolatemoosey.com/watermelon-sorbet-floats/feed/
-https://icecreaminspiration.com/watermelon-sorbet/feed/
-https://food52.com/tags/sorbet
-https://icecreaminspiration.com/tag/sorbet/feed/
-https://www.icecream.com/us/en/brands/haagen-dazs/products/raspberry-sorbet
 https://www.joyofbaking.com/printpages/BlackberrySorbetprint.html
+http://www.jewishfood-list.com/recipes/dessert/frozen/&frozen_index.html
 https://icecreamfromscratch.com/lemon-sorbet/
 https://icecreaminspiration.com/peach-sorbet-recipe/feed/
 https://icecreamfromscratch.com/lime-sorbet-recipe/
-http://www.jewishfood-list.com/recipes/dessert/frozen/&frozen_index.html
-https://bakingamoment.com/cranberry-sorbet-champagne-floats/
-https://www.joyofbaking.com/BlackberrySorbet.html
-http://tinaschic.com/2019/12/sorbet-and-sparkling-wine/feed/
+https://icecreaminspiration.com/tag/sorbet/feed/
+https://www.icecream.com/us/en/brands/haagen-dazs/products/raspberry-sorbet
+https://food52.com/tags/sorbet
+https://www.chocolatemoosey.com/watermelon-sorbet-floats/feed/
+https://icecreaminspiration.com/watermelon-sorbet/feed/
+https://www.chocolatemoosey.com/watermelon-sorbet-floats/
+https://www.icecream.com/us/en/brands/haagen-dazs/products/mango-sorbet
+https://www.icecream.com/us/en/recipes/raspberry-sorbet-chocolate-wine-bonbons
 
 
 Flat Clustering Results: 
-https://icecreaminspiration.com/watermelon-sorbet/feed/
 https://icecreaminspiration.com/tag/sorbet/feed/
-http://tinaschic.com/2019/12/sorbet-and-sparkling-wine/feed/
+https://icecreaminspiration.com/watermelon-sorbet/feed/
 https://www.chocolatemoosey.com/watermelon-sorbet-floats/
+http://tinaschic.com/2019/12/sorbet-and-sparkling-wine/feed/
 https://cooking.nytimes.com/recipes/1013546-pear-and-red-wine-sorbet
 https://www.sprinklebakes.com/2015/05/lemon-sorbet-punch.html
-https://food52.com/blog/16906-an-italian-strawberry-granita-or-sorbet-that-needs-no-special-equipment
 https://food52.com/blog/20376-mexican-oasis-sorbet-from-fany-gerson
+https://food52.com/blog/16906-an-italian-strawberry-granita-or-sorbet-that-needs-no-special-equipment
 https://food52.com/blog/19987-a-spiced-cherry-sorbet-from-the-19th-century-adapted-for-this-summer
+http://ivoryhut.com/2010/05/gin-and-tonic-sorbet-you-heard-me/
 http://www.jewishfood-list.com/recipes/pesach/klp_dessert/&klp_dessert_index.html
 https://natashaskitchen.com/raspberry-sherbet-party-punch/
-http://ivoryhut.com/2010/05/gin-and-tonic-sorbet-you-heard-me/
 https://icecreamfromscratch.com/coconut-sorbet-recipe/
 https://icecreamfromscratch.com/strawberry-sorbet/
-https://food52.com/tags/sorbet
+https://www.joyofbaking.com/printpages/BlackberrySorbetprint.html
 
-Hierarchial Clustering Results: 
+Single Hierarchial Clustering Results: 
 https://icecreamfromscratch.com/coconut-sorbet-recipe/
 https://icecreamfromscratch.com/strawberry-sorbet/
-https://www.chocolatemoosey.com/watermelon-sorbet-floats/feed/
-https://icecreaminspiration.com/watermelon-sorbet/feed/
-https://food52.com/tags/sorbet
-https://icecreaminspiration.com/tag/sorbet/feed/
+https://www.joyofbaking.com/printpages/BlackberrySorbetprint.html
+http://www.jewishfood-list.com/recipes/dessert/frozen/&frozen_index.html
 https://icecreamfromscratch.com/lemon-sorbet/
 https://icecreaminspiration.com/peach-sorbet-recipe/feed/
 https://icecreamfromscratch.com/lime-sorbet-recipe/
+https://icecreaminspiration.com/tag/sorbet/feed/
+https://www.icecream.com/us/en/brands/haagen-dazs/products/raspberry-sorbet
+https://food52.com/tags/sorbet
+https://www.chocolatemoosey.com/watermelon-sorbet-floats/feed/
+https://icecreaminspiration.com/watermelon-sorbet/feed/
+https://www.chocolatemoosey.com/watermelon-sorbet-floats/
+https://www.icecream.com/us/en/brands/haagen-dazs/products/mango-sorbet
+https://www.icecream.com/us/en/recipes/raspberry-sorbet-chocolate-wine-bonbons
+
+Average Hierarchial Clustering Results: 
+https://icecreamfromscratch.com/coconut-sorbet-recipe/
+https://icecreamfromscratch.com/strawberry-sorbet/
 http://www.jewishfood-list.com/recipes/dessert/frozen/&frozen_index.html
-https://bakingamoment.com/cranberry-sorbet-champagne-floats/
-http://tinaschic.com/2019/12/sorbet-and-sparkling-wine/feed/
+https://icecreamfromscratch.com/lemon-sorbet/
+https://icecreaminspiration.com/peach-sorbet-recipe/feed/
+https://icecreamfromscratch.com/lime-sorbet-recipe/
+https://icecreaminspiration.com/tag/sorbet/feed/
+https://food52.com/tags/sorbet
+https://www.chocolatemoosey.com/watermelon-sorbet-floats/feed/
+https://icecreaminspiration.com/watermelon-sorbet/feed/
+https://www.chocolatemoosey.com/watermelon-sorbet-floats/
 https://www.icecream.com/us/en/recipes/raspberry-sorbet-chocolate-wine-bonbons
 https://www.benandjerrys.ca/en/flavours/lemon-sorbet
-https://www.cleaneatingkitchen.com/vitamix-mango-sorbet/
+http://tinaschic.com/2019/12/sorbet-and-sparkling-wine/feed/
+https://www.chocolatemoosey.com/small-batch-margarita-sorbet/feed/

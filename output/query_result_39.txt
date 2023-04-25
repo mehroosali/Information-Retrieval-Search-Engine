@@ -3,51 +3,68 @@ Query: cinnamon rolls
 Solr Results
 https://iamafoodblog.com/tiktok-cinnamon-rolls/
 http://tinaschic.com/2015/07/cinnamon-rolls/feed/
-https://www.chocolatemoosey.com/small-batch-puff-pastry-cinnamon-rolls/
-https://iamafoodblog.com/cinnamon-rolls/
-https://www.chocolatemoosey.com/carrot-cake-cinnamon-rolls/feed/
-https://www.lovebakesgoodcakes.com/red-velvet-cinnamon-rolls/
 https://diythrill.com/2018/08/19/easy-cinnamon-rolls-from-canned-biscuits/feed/
 https://www.shugarysweets.com/cinnamon-rolls/
-https://www.tashasartisanfoods.com/blog/baklava-cinnamon-rolls/
-https://cooking.nytimes.com/recipes/1015705-vegan-pumpkin-cinnamon-rolls-with-cranberry
 https://www.lovebakesgoodcakes.com/candy-cane-cinnamon-rolls/
+https://www.tashasartisanfoods.com/blog/baklava-cinnamon-rolls/
 https://www.thelittleepicurean.com/2019/04/carrot-cake-cinnamon-rolls.html
-https://momsdish.com/sourdough-cinnamon-rolls
-https://biscuitstobrownies.com/cinnamon-rolls-washington-d-c/
-https://cookingorgeous.com/blog/air-fryer-cinnamon-rolls/
+https://www.lovebakesgoodcakes.com/red-velvet-cinnamon-rolls/
+https://iamafoodblog.com/cinnamon-rolls/
+https://cooking.nytimes.com/recipes/1015705-vegan-pumpkin-cinnamon-rolls-with-cranberry
+https://www.chocolatemoosey.com/small-batch-puff-pastry-cinnamon-rolls/
+https://www.chocolatemoosey.com/carrot-cake-cinnamon-rolls/feed/
+https://www.christinascucina.com/chelsea-buns-british-buns-similar-to-cinnamon-rolls/
+https://cookingorgeous.com/blog/air-fryer-cinnamon-rolls/feed/
+https://www.chocolatemoosey.com/puff-pastry-cookie-dough-cinnamon-rolls-small-batch/
 
 
 Flat Clustering Results: 
 https://iamafoodblog.com/tiktok-cinnamon-rolls/
 https://iamafoodblog.com/cinnamon-rolls/
-https://www.chocolatemoosey.com/carrot-cake-cinnamon-rolls/feed/
 https://cooking.nytimes.com/recipes/1015705-vegan-pumpkin-cinnamon-rolls-with-cranberry
-https://momsdish.com/sourdough-cinnamon-rolls
-https://biscuitstobrownies.com/cinnamon-rolls-washington-d-c/
-https://cookingorgeous.com/blog/air-fryer-cinnamon-rolls/
+https://www.chocolatemoosey.com/carrot-cake-cinnamon-rolls/feed/
 https://www.christinascucina.com/chelsea-buns-british-buns-similar-to-cinnamon-rolls/
-https://cooking.nytimes.com/recipes/1022842-easy-no-yeast-cinnamon-rolls
-https://www.averiecooks.com/birthday-cake-cinnamon-rolls/
 https://cookingorgeous.com/blog/air-fryer-cinnamon-rolls/feed/
-https://bromabakery.com/homemade-cinnamon-rolls-soft-fluffy/comment-page-4/
-https://www.christinascucina.com/chelsea-buns-british-buns-similar-to-cinnamon-rolls/comment-page-1/
-https://www.browneyedbaker.com/cinnamon-rolls-cream-cheese-glaze/
+https://momsdish.com/sourdough-cinnamon-rolls
+https://cookingorgeous.com/blog/air-fryer-cinnamon-rolls/
+https://biscuitstobrownies.com/cinnamon-rolls-washington-d-c/
+https://www.averiecooks.com/birthday-cake-cinnamon-rolls/
+https://cooking.nytimes.com/recipes/1022842-easy-no-yeast-cinnamon-rolls
+https://www.tastesoflizzyt.com/homemade-cinnamon-rolls/
+https://bromabakery.com/homemade-cinnamon-rolls-soft-fluffy/comment-page-5/
 https://bromabakery.com/homemade-cinnamon-rolls-soft-fluffy/
+https://bromabakery.com/homemade-cinnamon-rolls-soft-fluffy/comment-page-4/
 
-Hierarchial Clustering Results: 
+Single Hierarchial Clustering Results: 
 https://iamafoodblog.com/tiktok-cinnamon-rolls/
 http://tinaschic.com/2015/07/cinnamon-rolls/feed/
-https://www.chocolatemoosey.com/small-batch-puff-pastry-cinnamon-rolls/
-https://iamafoodblog.com/cinnamon-rolls/
 https://diythrill.com/2018/08/19/easy-cinnamon-rolls-from-canned-biscuits/feed/
-https://www.tashasartisanfoods.com/blog/baklava-cinnamon-rolls/
-https://cooking.nytimes.com/recipes/1015705-vegan-pumpkin-cinnamon-rolls-with-cranberry
+https://www.shugarysweets.com/cinnamon-rolls/
 https://www.lovebakesgoodcakes.com/candy-cane-cinnamon-rolls/
+https://www.tashasartisanfoods.com/blog/baklava-cinnamon-rolls/
 https://www.thelittleepicurean.com/2019/04/carrot-cake-cinnamon-rolls.html
+https://www.lovebakesgoodcakes.com/red-velvet-cinnamon-rolls/
+https://iamafoodblog.com/cinnamon-rolls/
+https://cooking.nytimes.com/recipes/1015705-vegan-pumpkin-cinnamon-rolls-with-cranberry
+https://www.chocolatemoosey.com/small-batch-puff-pastry-cinnamon-rolls/
+https://www.chocolatemoosey.com/carrot-cake-cinnamon-rolls/feed/
+https://www.christinascucina.com/chelsea-buns-british-buns-similar-to-cinnamon-rolls/
+https://cookingorgeous.com/blog/air-fryer-cinnamon-rolls/feed/
+https://www.chocolatemoosey.com/puff-pastry-cookie-dough-cinnamon-rolls-small-batch/
+
+Average Hierarchial Clustering Results: 
+https://iamafoodblog.com/tiktok-cinnamon-rolls/
+http://tinaschic.com/2015/07/cinnamon-rolls/feed/
+https://diythrill.com/2018/08/19/easy-cinnamon-rolls-from-canned-biscuits/feed/
+https://www.lovebakesgoodcakes.com/candy-cane-cinnamon-rolls/
+https://www.tashasartisanfoods.com/blog/baklava-cinnamon-rolls/
+https://www.thelittleepicurean.com/2019/04/carrot-cake-cinnamon-rolls.html
+https://iamafoodblog.com/cinnamon-rolls/
+https://cooking.nytimes.com/recipes/1015705-vegan-pumpkin-cinnamon-rolls-with-cranberry
+https://www.chocolatemoosey.com/small-batch-puff-pastry-cinnamon-rolls/
+https://www.christinascucina.com/chelsea-buns-british-buns-similar-to-cinnamon-rolls/
+https://cookingorgeous.com/blog/air-fryer-cinnamon-rolls/feed/
+https://www.chocolatemoosey.com/puff-pastry-cookie-dough-cinnamon-rolls-small-batch/
 https://momsdish.com/sourdough-cinnamon-rolls
 https://cookingorgeous.com/blog/air-fryer-cinnamon-rolls/
-https://www.christinascucina.com/chelsea-buns-british-buns-similar-to-cinnamon-rolls/
-https://cooking.nytimes.com/recipes/1022842-easy-no-yeast-cinnamon-rolls
-https://www.averiecooks.com/birthday-cake-cinnamon-rolls/
-https://cookingorgeous.com/blog/air-fryer-cinnamon-rolls/feed/
+https://www.chocolatemoosey.com/lemon-coconut-cinnamon-rolls-sunday-supper/

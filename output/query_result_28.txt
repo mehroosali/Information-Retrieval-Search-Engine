@@ -3,51 +3,68 @@ Query: fruit salad
 Solr Results
 https://karluci.com/2019/02/02/best-summer-fruit-salada-recipes/
 https://thefrugalgirls.com/2022/01/easy-fruit-salad-recipe-with-marshmallows.html/feed
-https://www.lovefilipinofood.com/filipino-fruit-salad/
-https://www.joyofbaking.com/printpages/FruitSaladprint.html
-http://jewishfood-list.com/recipes/fruit/fruitsaladtropiccurry01.html
-https://cooking.nytimes.com/recipes/1024053-jicama-fruit-salad
+https://marshmallowfluff.com/molded-fruit-salad/
 https://thefrugalgirls.com/2022/01/easy-fruit-salad-recipe-with-marshmallows.html
-http://www.dianasdesserts.com/index.cfm/fuseaction/recipes.recipeListing/filter/guests/recipeID/3906/Recipe.cfm
+https://www.lovebakesgoodcakes.com/watermelon-berry-salad/
+https://www.joyofbaking.com/printpages/FruitSaladprint.html
 https://marshmallowfluff.com/frozen-fruit-salad/
 https://cooking.nytimes.com/recipes/5248-fruit-salad
-https://marshmallowfluff.com/molded-fruit-salad/
-https://www.lovebakesgoodcakes.com/watermelon-berry-salad/
-http://www.dianasdesserts.com/index.cfm/fuseaction/recipes.recipeListing/filter/dianas/recipeID/2256/Recipe.cfm
-https://butterwithasideofbread.com/jello-recipes-jello-salad-recipes/
+https://www.lovefilipinofood.com/filipino-fruit-salad/
+http://www.dianasdesserts.com/index.cfm/fuseaction/recipes.recipeListing/filter/guests/recipeID/3906/Recipe.cfm
+https://cooking.nytimes.com/recipes/1024053-jicama-fruit-salad
+http://jewishfood-list.com/recipes/fruit/fruitsaladtropiccurry01.html
+http://www.jewishfood-list.com/recipes/fruit/fruitsaladpersian01.html
+https://www.joyofbaking.com/FruitSalad.html
 http://www.dianasdesserts.com/index.cfm/fuseaction/recipes.recipeListing/filter/dianas/recipeID/2249/Recipe.cfm
 
 
 Flat Clustering Results: 
 https://karluci.com/2019/02/02/best-summer-fruit-salada-recipes/
-https://www.lovefilipinofood.com/filipino-fruit-salad/
-https://cooking.nytimes.com/recipes/1024053-jicama-fruit-salad
+https://marshmallowfluff.com/molded-fruit-salad/
 https://marshmallowfluff.com/frozen-fruit-salad/
 https://cooking.nytimes.com/recipes/5248-fruit-salad
-https://marshmallowfluff.com/molded-fruit-salad/
+https://www.lovefilipinofood.com/filipino-fruit-salad/
+https://cooking.nytimes.com/recipes/1024053-jicama-fruit-salad
 https://butterwithasideofbread.com/jello-recipes-jello-salad-recipes/
-https://www.masterstech-home.com/the_kitchen/recipes/Salad_Recipes/TooMuchFruitSalad.html
 https://www.lovefilipinofood.com/
-https://cooking.nytimes.com/recipes/1018775-watermelon-chaat
+https://www.masterstech-home.com/the_kitchen/recipes/Salad_Recipes/TooMuchFruitSalad.html
 http://iadorefood.com/
-https://marshmallowfluff.com/online-yummy-book/
+https://cooking.nytimes.com/recipes/1018775-watermelon-chaat
 https://honey.com/
+https://marshmallowfluff.com/online-yummy-book/
 https://thefrugalgirls.com/2022/01/easy-fruit-salad-recipe-with-marshmallows.html
 https://www.lovebakesgoodcakes.com/watermelon-berry-salad/
 
-Hierarchial Clustering Results: 
+Single Hierarchial Clustering Results: 
 https://karluci.com/2019/02/02/best-summer-fruit-salada-recipes/
 https://thefrugalgirls.com/2022/01/easy-fruit-salad-recipe-with-marshmallows.html/feed
-https://www.lovefilipinofood.com/filipino-fruit-salad/
-http://jewishfood-list.com/recipes/fruit/fruitsaladtropiccurry01.html
-https://cooking.nytimes.com/recipes/1024053-jicama-fruit-salad
-https://thefrugalgirls.com/2022/01/easy-fruit-salad-recipe-with-marshmallows.html
-http://www.dianasdesserts.com/index.cfm/fuseaction/recipes.recipeListing/filter/guests/recipeID/3906/Recipe.cfm
+https://marshmallowfluff.com/molded-fruit-salad/
+https://www.lovebakesgoodcakes.com/watermelon-berry-salad/
+https://www.joyofbaking.com/printpages/FruitSaladprint.html
 https://marshmallowfluff.com/frozen-fruit-salad/
 https://cooking.nytimes.com/recipes/5248-fruit-salad
-https://marshmallowfluff.com/molded-fruit-salad/
-http://www.dianasdesserts.com/index.cfm/fuseaction/recipes.recipeListing/filter/dianas/recipeID/2256/Recipe.cfm
-https://butterwithasideofbread.com/jello-recipes-jello-salad-recipes/
+https://www.lovefilipinofood.com/filipino-fruit-salad/
+http://www.dianasdesserts.com/index.cfm/fuseaction/recipes.recipeListing/filter/guests/recipeID/3906/Recipe.cfm
+https://cooking.nytimes.com/recipes/1024053-jicama-fruit-salad
+http://jewishfood-list.com/recipes/fruit/fruitsaladtropiccurry01.html
+http://www.jewishfood-list.com/recipes/fruit/fruitsaladpersian01.html
+https://www.joyofbaking.com/FruitSalad.html
 http://www.dianasdesserts.com/index.cfm/fuseaction/recipes.recipeListing/filter/dianas/recipeID/2249/Recipe.cfm
-http://jewishfood-list.com/recipes/crowd/fruitsalad10001.html
+https://www.inspiredtaste.net/23517/red-fruit-salad-recipe/
+
+Average Hierarchial Clustering Results: 
+https://karluci.com/2019/02/02/best-summer-fruit-salada-recipes/
+https://thefrugalgirls.com/2022/01/easy-fruit-salad-recipe-with-marshmallows.html/feed
+https://marshmallowfluff.com/molded-fruit-salad/
+https://thefrugalgirls.com/2022/01/easy-fruit-salad-recipe-with-marshmallows.html
+https://marshmallowfluff.com/frozen-fruit-salad/
+https://cooking.nytimes.com/recipes/5248-fruit-salad
+https://www.lovefilipinofood.com/filipino-fruit-salad/
+http://www.dianasdesserts.com/index.cfm/fuseaction/recipes.recipeListing/filter/guests/recipeID/3906/Recipe.cfm
+https://cooking.nytimes.com/recipes/1024053-jicama-fruit-salad
+http://jewishfood-list.com/recipes/fruit/fruitsaladtropiccurry01.html
+http://www.jewishfood-list.com/recipes/fruit/fruitsaladpersian01.html
+http://www.dianasdesserts.com/index.cfm/fuseaction/recipes.recipeListing/filter/dianas/recipeID/2249/Recipe.cfm
+https://www.inspiredtaste.net/23517/red-fruit-salad-recipe/
+http://www.jewishfood-list.com/recipes/fruit/fruitsaladchoc01.html
 https://www.wholefoodsmarket.com/recipes/red-white-and-blue-fruit-salad

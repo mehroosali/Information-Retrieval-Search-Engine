@@ -3,19 +3,19 @@ Query: Praline
 Solr Results
 https://dinnerthendessert.com/praline-banana-muffins/feed/
 http://tinaschic.com/2015/03/praline-pecan-crunch-snack-mix/feed/
-https://www.icecream.com/us/en/brands/haagen-dazs/products/spirits-bourbon-praline-pecan-ice-cream
-http://www.dianasdesserts.com/index.cfm/fuseaction/recipes.recipeListing/filter/dianas/recipeID/2577/Recipe.cfm
-https://dinnerthendessert.com/praline-banana-muffins/
-https://www.bluebunny.com/products/frozen-yogurt/caramel-praline-crunch
-https://wellsfoodservice.com/products/blue-bunny/scoopables/bulk/praline-pecan
-https://bake-eat-repeat.com/molasses-pecan-praline-no-churn-ice-cream-recipe/
-https://www.bluebunny.com/products/scoopables/caramel-butter-pecan-praline
-http://www.dianasdesserts.com/index.cfm/fuseaction/recipes.recipeListing/filter/guests/recipeID/1620/Recipe.cfm
 http://www.cookie-elf.com/The_Cookie_Elf_File-cookie-elf-file-242.html
+https://www.icecream.com/us/en/brands/haagen-dazs/products/spirits-bourbon-praline-pecan-ice-cream
+https://www.bluebunny.com/products/frozen-yogurt/caramel-praline-crunch
+https://bake-eat-repeat.com/molasses-pecan-praline-no-churn-ice-cream-recipe/
+https://dinnerthendessert.com/praline-banana-muffins/
+http://www.dianasdesserts.com/index.cfm/fuseaction/recipes.recipeListing/filter/guests/recipeID/1620/Recipe.cfm
+http://www.dianasdesserts.com/index.cfm/fuseaction/recipes.recipeListing/filter/dianas/recipeID/2577/Recipe.cfm
+https://wellsfoodservice.com/products/blue-bunny/scoopables/bulk/praline-pecan
 https://www.bakeat350.net/2019/02/chocolate-praline-roulade.html
-http://www.jewishfood-list.com/recipes/pie/chocpnutbuttpralinepie01.html
-https://www.icecream.com/us/en/brands/haagen-dazs/products
+https://www.bluebunny.com/products/scoopables/caramel-butter-pecan-praline
 http://tinaschic.com/2015/03/praline-pecan-crunch-snack-mix/comment-page-1/
+http://www.cookie-elf.com/pecan-praline-blondies.html
+http://tinaschic.com/2015/03/praline-pecan-crunch-snack-mix/
 
 
 Flat Clustering Results: 
@@ -23,31 +23,48 @@ https://dinnerthendessert.com/praline-banana-muffins/feed/
 https://www.icecream.com/us/es/brands/haagen-dazs/products/spirits-bourbon-praline-pecan-ice-cream
 https://www.bakeat350.net/2019/12/trader-joes-nutty-praline-trio-review.html
 https://www.laeckerli-huus.ch/en/Biscuitspoons50pieces/artdet/1103
+http://www.jewishfood-list.com/recipes/pesach/klp_cookie/&klp_cookie_index.html
 http://jewishfood-list.com/recipes/vegn/cass/&vegn_cass_index.html
 https://www.icecream.com/us/es/brands/haagen-dazs/products
-http://www.jewishfood-list.com/recipes/pesach/klp_cookie/&klp_cookie_index.html
-https://dinnerthendessert.com/praline-banana-muffins/
 https://bake-eat-repeat.com/molasses-pecan-praline-no-churn-ice-cream-recipe/
+https://dinnerthendessert.com/praline-banana-muffins/
 http://tinaschic.com/2015/03/praline-pecan-crunch-snack-mix/comment-page-1/
 http://tinaschic.com/2015/03/praline-pecan-crunch-snack-mix/
-https://www.shugarysweets.com/pecan-pralines/
 https://www.shugarysweets.com/pecan-pralines/feed/
+https://www.shugarysweets.com/pecan-pralines/
 https://dinnerthendessert.com/category/dessert/muffins/
 https://www.icecream.com/us/en/brands/haagen-dazs/products/spirits-bourbon-praline-pecan-ice-cream
 
-Hierarchial Clustering Results: 
+Single Hierarchial Clustering Results: 
 https://dinnerthendessert.com/praline-banana-muffins/feed/
 http://tinaschic.com/2015/03/praline-pecan-crunch-snack-mix/feed/
-http://www.dianasdesserts.com/index.cfm/fuseaction/recipes.recipeListing/filter/dianas/recipeID/2577/Recipe.cfm
-https://dinnerthendessert.com/praline-banana-muffins/
+http://www.cookie-elf.com/The_Cookie_Elf_File-cookie-elf-file-242.html
+https://www.icecream.com/us/en/brands/haagen-dazs/products/spirits-bourbon-praline-pecan-ice-cream
 https://www.bluebunny.com/products/frozen-yogurt/caramel-praline-crunch
-https://wellsfoodservice.com/products/blue-bunny/scoopables/bulk/praline-pecan
 https://bake-eat-repeat.com/molasses-pecan-praline-no-churn-ice-cream-recipe/
+https://dinnerthendessert.com/praline-banana-muffins/
 http://www.dianasdesserts.com/index.cfm/fuseaction/recipes.recipeListing/filter/guests/recipeID/1620/Recipe.cfm
+http://www.dianasdesserts.com/index.cfm/fuseaction/recipes.recipeListing/filter/dianas/recipeID/2577/Recipe.cfm
+https://wellsfoodservice.com/products/blue-bunny/scoopables/bulk/praline-pecan
 https://www.bakeat350.net/2019/02/chocolate-praline-roulade.html
-http://www.jewishfood-list.com/recipes/pie/chocpnutbuttpralinepie01.html
+https://www.bluebunny.com/products/scoopables/caramel-butter-pecan-praline
 http://tinaschic.com/2015/03/praline-pecan-crunch-snack-mix/comment-page-1/
+http://www.cookie-elf.com/pecan-praline-blondies.html
+http://tinaschic.com/2015/03/praline-pecan-crunch-snack-mix/
+
+Average Hierarchial Clustering Results: 
+https://dinnerthendessert.com/praline-banana-muffins/feed/
+http://tinaschic.com/2015/03/praline-pecan-crunch-snack-mix/feed/
+https://www.bluebunny.com/products/frozen-yogurt/caramel-praline-crunch
+https://bake-eat-repeat.com/molasses-pecan-praline-no-churn-ice-cream-recipe/
+https://dinnerthendessert.com/praline-banana-muffins/
+http://www.dianasdesserts.com/index.cfm/fuseaction/recipes.recipeListing/filter/guests/recipeID/1620/Recipe.cfm
+http://www.dianasdesserts.com/index.cfm/fuseaction/recipes.recipeListing/filter/dianas/recipeID/2577/Recipe.cfm
+https://wellsfoodservice.com/products/blue-bunny/scoopables/bulk/praline-pecan
+https://www.bakeat350.net/2019/02/chocolate-praline-roulade.html
+http://tinaschic.com/2015/03/praline-pecan-crunch-snack-mix/comment-page-1/
+http://www.jewishfood-list.com/recipes/pie/chocpnutbuttpralinepie01.html
+http://www.dianasdesserts.com/index.cfm/fuseaction/recipes.recipeListing/filter/dianas/recipeID/3969/Recipe.cfm
 http://www.dianasdesserts.com/index.cfm/fuseaction/recipes.recipeListing/filter/dianas/recipeID/6044/Recipe.cfm
 https://www.bakeat350.net/2019/12/trader-joes-nutty-praline-trio-review.html
-http://www.dianasdesserts.com/index.cfm/fuseaction/recipes.recipeListing/filter/dianas/recipeID/3969/Recipe.cfm
-https://www.deliciousmagazine.co.uk/recipes/chilled-chocolate-souffles-with-salted-almond-praline/
+https://www.chocolatemoosey.com/triple-caramel-pecan-rolo-ice-cream/feed/

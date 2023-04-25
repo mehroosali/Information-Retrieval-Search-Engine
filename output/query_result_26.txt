@@ -3,51 +3,68 @@ Query: Cookies
 Solr Results
 http://www.yummytummyrecipeindex.com/2013/11/cookies.html
 https://www.sweetsugarbelle.com/category/tutorials/stenciling-tutorials/
+http://www.dianasdesserts.com/index.cfm/fuseaction/recipes.recipeListing/filter/dianas/recipeID/2315/Recipe.cfm
+https://www.sweetsugarbelle.com/more-roll-out-recipes/
+http://www.jewishfood-list.com/recipes/cookie/&cookie_index.html
+http://www.dianasdesserts.com/index.cfm/fuseaction/recipes.categorylistings/categoryID/13/filter/dianas/CategoryListings.cfm
 https://www.sweetsugarbelle.com/category/tutorials/airbrushing-tutorials/
 https://www.sweetsugarbelle.com/contact-me/
-https://www.sweetsugarbelle.com/more-roll-out-recipes/
 http://www.dianasdesserts.com/index.cfm/fuseaction/recipes.recipeListing/filter/dianas/recipeID/2856/Recipe.cfm
-https://familycookierecipes.com/category/holiday-cookies/easter-cookies/
-http://www.jewishfood-list.com/recipes/cookie/&cookie_index.html
 http://www.dianasdesserts.com/index.cfm/fuseaction/recipes.recipeListing/filter/dianas/recipeID/2212/Recipe.cfm
-http://www.dianasdesserts.com/index.cfm/fuseaction/recipes.recipeListing/filter/dianas/recipeID/2315/Recipe.cfm
-http://www.dianasdesserts.com/index.cfm/fuseaction/recipes.categorylistings/categoryID/13/filter/dianas/CategoryListings.cfm
 https://familycookierecipes.com/category/chocolate-cookies/
-https://familycookierecipes.com/category/oatmeal-cookies/
-https://funcookierecipes.com/category/cookies/drop-cookies/
+https://familycookierecipes.com/category/holiday-cookies/easter-cookies/
 https://familycookierecipes.com/category/holiday-cookies/halloween-cookies/
+https://dinnerthendessert.com/category/dessert/cookie-recipes/
+https://thefirstyearblog.com/recipes/cookies/
 
 
 Flat Clustering Results: 
 http://www.yummytummyrecipeindex.com/2013/11/cookies.html
 https://www.sweetsugarbelle.com/category/tutorials/stenciling-tutorials/
+http://www.dianasdesserts.com/index.cfm/fuseaction/recipes.recipeListing/filter/dianas/recipeID/2315/Recipe.cfm
+https://www.sweetsugarbelle.com/more-roll-out-recipes/
+http://www.jewishfood-list.com/recipes/cookie/&cookie_index.html
+http://www.dianasdesserts.com/index.cfm/fuseaction/recipes.categorylistings/categoryID/13/filter/dianas/CategoryListings.cfm
 https://www.sweetsugarbelle.com/category/tutorials/airbrushing-tutorials/
 https://www.sweetsugarbelle.com/contact-me/
-https://www.sweetsugarbelle.com/more-roll-out-recipes/
 http://www.dianasdesserts.com/index.cfm/fuseaction/recipes.recipeListing/filter/dianas/recipeID/2856/Recipe.cfm
-https://familycookierecipes.com/category/holiday-cookies/easter-cookies/
-http://www.jewishfood-list.com/recipes/cookie/&cookie_index.html
 http://www.dianasdesserts.com/index.cfm/fuseaction/recipes.recipeListing/filter/dianas/recipeID/2212/Recipe.cfm
-http://www.dianasdesserts.com/index.cfm/fuseaction/recipes.recipeListing/filter/dianas/recipeID/2315/Recipe.cfm
-http://www.dianasdesserts.com/index.cfm/fuseaction/recipes.categorylistings/categoryID/13/filter/dianas/CategoryListings.cfm
 https://familycookierecipes.com/category/chocolate-cookies/
-https://familycookierecipes.com/category/oatmeal-cookies/
-https://funcookierecipes.com/category/cookies/drop-cookies/
+https://familycookierecipes.com/category/holiday-cookies/easter-cookies/
 https://familycookierecipes.com/category/holiday-cookies/halloween-cookies/
+https://dinnerthendessert.com/category/dessert/cookie-recipes/
+https://thefirstyearblog.com/recipes/cookies/
 
-Hierarchial Clustering Results: 
+Single Hierarchial Clustering Results: 
 http://www.yummytummyrecipeindex.com/2013/11/cookies.html
 https://www.sweetsugarbelle.com/category/tutorials/stenciling-tutorials/
-https://www.sweetsugarbelle.com/contact-me/
-https://familycookierecipes.com/category/holiday-cookies/easter-cookies/
+http://www.dianasdesserts.com/index.cfm/fuseaction/recipes.recipeListing/filter/dianas/recipeID/2315/Recipe.cfm
+https://www.sweetsugarbelle.com/more-roll-out-recipes/
+http://www.jewishfood-list.com/recipes/cookie/&cookie_index.html
 http://www.dianasdesserts.com/index.cfm/fuseaction/recipes.categorylistings/categoryID/13/filter/dianas/CategoryListings.cfm
+https://www.sweetsugarbelle.com/category/tutorials/airbrushing-tutorials/
+https://www.sweetsugarbelle.com/contact-me/
+http://www.dianasdesserts.com/index.cfm/fuseaction/recipes.recipeListing/filter/dianas/recipeID/2856/Recipe.cfm
+http://www.dianasdesserts.com/index.cfm/fuseaction/recipes.recipeListing/filter/dianas/recipeID/2212/Recipe.cfm
 https://familycookierecipes.com/category/chocolate-cookies/
-https://familycookierecipes.com/category/oatmeal-cookies/
-https://funcookierecipes.com/category/cookies/drop-cookies/
+https://familycookierecipes.com/category/holiday-cookies/easter-cookies/
 https://familycookierecipes.com/category/holiday-cookies/halloween-cookies/
-https://www.bakeat350.net/p/recipe-index-cut-out-cookies.html
-https://funcookierecipes.com/category/cookies/drop-cookies/page/4/
-http://www.cookie-elf.com/peanut-butter-cookies-recipe.html
-http://www.cookie-elf.com/
-http://www.cookie-elf.com/red-velvet-cookies-recipe.html
-http://tinaschic.com/recipe-index/recipe-index-cookies/
+https://dinnerthendessert.com/category/dessert/cookie-recipes/
+https://thefirstyearblog.com/recipes/cookies/
+
+Average Hierarchial Clustering Results: 
+http://www.dianasdesserts.com/index.cfm/fuseaction/recipes.recipeListing/filter/dianas/recipeID/2315/Recipe.cfm
+https://www.sweetsugarbelle.com/more-roll-out-recipes/
+http://www.jewishfood-list.com/recipes/cookie/&cookie_index.html
+https://www.sweetsugarbelle.com/category/tutorials/airbrushing-tutorials/
+http://www.dianasdesserts.com/index.cfm/fuseaction/recipes.recipeListing/filter/dianas/recipeID/2856/Recipe.cfm
+http://www.dianasdesserts.com/index.cfm/fuseaction/recipes.recipeListing/filter/dianas/recipeID/2212/Recipe.cfm
+https://dinnerthendessert.com/category/dessert/cookie-recipes/
+https://thefirstyearblog.com/recipes/cookies/
+https://dinnerthendessert.com/category/dessert/cookie-recipes/page/2/
+https://funcookierecipes.com/category/cookies/drop-cookies/page/3/
+https://funcookierecipes.com/category/cookies/drop-cookies/page/2/
+http://www.bakingglory.com/category/recipes/cookies/
+https://thefrugalgirls.com/cookie-exchange-recipes
+https://thefrugalgirls.com/2016/11/4-ingredient-cookie-recipes.html
+https://neverendingjourneys.com/easy-cookie-recipes/

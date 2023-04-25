@@ -3,51 +3,68 @@ Query: ice cream sundae
 Solr Results
 https://icecreamfromscratch.com/ice-cream-sundae/
 https://icecreamfromscratch.com/ice-cream-sundae/feed/
-https://food52.com/blog/27602-taggarts-bittner-ice-cream-sundae
+https://icecreamfromscratch.com/hot-fudge-sundae/
 https://www.benjerry.com/flavors/recipes/ice-cream-sundae-recipes
+https://food52.com/blog/27602-taggarts-bittner-ice-cream-sundae
+https://www.chocolatemoosey.com/one-serving-cherry-pie-ice-cream-sundae/feed/
+https://www.chocolatemoosey.com/funfetti-ice-cream-sundae-cupcakes/feed/
+https://dinnerthendessert.com/category/dessert/frozen-treats/page/2/
 https://www.breyers.com/us/en/recipes/sundaes.html
 https://dinnerthendessert.com/ice-cream-sundae-pie/
-https://dinnerthendessert.com/category/dessert/frozen-treats/page/2/
-https://icecreamfromscratch.com/hot-fudge-sundae/
 https://wellsfoodservice.com/recipes/dirt-n-worms-ice-cream-sundae
 https://www.chocolatemoosey.com/funfetti-ice-cream-sundae-cupcakes/
-https://www.chocolatemoosey.com/funfetti-ice-cream-sundae-cupcakes/feed/
-https://www.chocolatemoosey.com/one-serving-cherry-pie-ice-cream-sundae/feed/
-https://www.turkeyhill.com/recipes/ice-cream-recipes
 https://www.icecream.com/us/en/recipes/butter-pecan-pancake-ice-cream-sundae
-https://dinnerthendessert.com/chocolate-ice-cream/
+https://www.chocolatemoosey.com/one-serving-cherry-pie-ice-cream-sundae/
+http://www.dianasdesserts.com/index.cfm/fuseaction/recipes.recipeListing/filter/dianas/recipeID/372/Recipe.cfm
 
 
 Flat Clustering Results: 
 https://icecreamfromscratch.com/ice-cream-sundae/
 https://icecreamfromscratch.com/ice-cream-sundae/feed/
-https://food52.com/blog/27602-taggarts-bittner-ice-cream-sundae
-https://www.benjerry.com/flavors/recipes/ice-cream-sundae-recipes
-https://www.breyers.com/us/en/recipes/sundaes.html
-https://dinnerthendessert.com/category/dessert/frozen-treats/page/2/
 https://icecreamfromscratch.com/hot-fudge-sundae/
+https://www.benjerry.com/flavors/recipes/ice-cream-sundae-recipes
+https://food52.com/blog/27602-taggarts-bittner-ice-cream-sundae
+https://www.chocolatemoosey.com/funfetti-ice-cream-sundae-cupcakes/feed/
+https://dinnerthendessert.com/category/dessert/frozen-treats/page/2/
+https://www.breyers.com/us/en/recipes/sundaes.html
 https://wellsfoodservice.com/recipes/dirt-n-worms-ice-cream-sundae
 https://www.chocolatemoosey.com/funfetti-ice-cream-sundae-cupcakes/
-https://www.chocolatemoosey.com/funfetti-ice-cream-sundae-cupcakes/feed/
-https://www.turkeyhill.com/recipes/ice-cream-recipes
 https://www.icecream.com/us/en/recipes/butter-pecan-pancake-ice-cream-sundae
-https://www.turkeyhill.com/recipes/ice-cream-recipes/judi-s-ice-cream-sundae-dessert-recipe
-https://www.turkeyhill.com/recipes/ice-cream-recipes/baklava-ice-cream-sundae-recipe
 https://www.chocolatemoosey.com/one-serving-cherry-pie-ice-cream-sundae/
+http://www.dianasdesserts.com/index.cfm/fuseaction/recipes.recipeListing/filter/dianas/recipeID/372/Recipe.cfm
+https://www.turkeyhill.com/recipes/ice-cream-recipes/judi-s-ice-cream-sundae-dessert-recipe
+https://icecreamfromscratch.com/recipes/
 
-Hierarchial Clustering Results: 
+Single Hierarchial Clustering Results: 
 https://icecreamfromscratch.com/ice-cream-sundae/
 https://icecreamfromscratch.com/ice-cream-sundae/feed/
-https://food52.com/blog/27602-taggarts-bittner-ice-cream-sundae
-https://www.benjerry.com/flavors/recipes/ice-cream-sundae-recipes
-https://dinnerthendessert.com/ice-cream-sundae-pie/
-https://dinnerthendessert.com/category/dessert/frozen-treats/page/2/
 https://icecreamfromscratch.com/hot-fudge-sundae/
+https://www.benjerry.com/flavors/recipes/ice-cream-sundae-recipes
+https://food52.com/blog/27602-taggarts-bittner-ice-cream-sundae
+https://www.chocolatemoosey.com/one-serving-cherry-pie-ice-cream-sundae/feed/
+https://www.chocolatemoosey.com/funfetti-ice-cream-sundae-cupcakes/feed/
+https://dinnerthendessert.com/category/dessert/frozen-treats/page/2/
+https://www.breyers.com/us/en/recipes/sundaes.html
+https://dinnerthendessert.com/ice-cream-sundae-pie/
 https://wellsfoodservice.com/recipes/dirt-n-worms-ice-cream-sundae
 https://www.chocolatemoosey.com/funfetti-ice-cream-sundae-cupcakes/
-https://www.chocolatemoosey.com/funfetti-ice-cream-sundae-cupcakes/feed/
-https://www.chocolatemoosey.com/one-serving-cherry-pie-ice-cream-sundae/feed/
 https://www.icecream.com/us/en/recipes/butter-pecan-pancake-ice-cream-sundae
-https://dinnerthendessert.com/chocolate-ice-cream/
 https://www.chocolatemoosey.com/one-serving-cherry-pie-ice-cream-sundae/
-https://www.breyers.com/ca/en/recipes/sundaes.html
+http://www.dianasdesserts.com/index.cfm/fuseaction/recipes.recipeListing/filter/dianas/recipeID/372/Recipe.cfm
+
+Average Hierarchial Clustering Results: 
+https://icecreamfromscratch.com/ice-cream-sundae/
+https://icecreamfromscratch.com/ice-cream-sundae/feed/
+https://icecreamfromscratch.com/hot-fudge-sundae/
+https://www.benjerry.com/flavors/recipes/ice-cream-sundae-recipes
+https://food52.com/blog/27602-taggarts-bittner-ice-cream-sundae
+https://www.chocolatemoosey.com/one-serving-cherry-pie-ice-cream-sundae/feed/
+https://www.chocolatemoosey.com/funfetti-ice-cream-sundae-cupcakes/feed/
+https://dinnerthendessert.com/category/dessert/frozen-treats/page/2/
+https://dinnerthendessert.com/ice-cream-sundae-pie/
+https://wellsfoodservice.com/recipes/dirt-n-worms-ice-cream-sundae
+https://www.chocolatemoosey.com/funfetti-ice-cream-sundae-cupcakes/
+https://www.icecream.com/us/en/recipes/butter-pecan-pancake-ice-cream-sundae
+https://www.chocolatemoosey.com/one-serving-cherry-pie-ice-cream-sundae/
+http://www.dianasdesserts.com/index.cfm/fuseaction/recipes.recipeListing/filter/dianas/recipeID/372/Recipe.cfm
+https://dinnerthendessert.com/chocolate-ice-cream/

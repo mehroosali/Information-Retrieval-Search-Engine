@@ -3,51 +3,68 @@ Query: S'mores
 Solr Results
 https://thefrugalgirls.com/tag/smores
 http://simplegirlathome.blogspot.com/2011/06/reeses-peanut-butter-cup-smores.html
-https://cookienameddesire.com/web-stories/no-bake-smores-pie/
-https://cookienameddesire.com/smores-pie/
-https://www.bakeat350.net/2014/10/spooky-smores-bars-recipe.html
-https://www.bakeat350.net/feeds/6578568379452683885/comments/default
-https://cookienameddesire.com/web-stories/smores-cookie-story/
 https://easydessertrecipes.com/cotton-candy-smores/
-https://blueribbonclassics.com/recipes
-https://butterwithasideofbread.com/smores-in-oven/
-https://www.browneyedbaker.com/no-bake-smores-pie-recipe/
+https://cookienameddesire.com/smores-pie/
 https://cookienameddesire.com/smores-stuffed-cookies/comment-page-8/
-http://jewishfood-list.com/recipes/dessert/smores01.html
+https://blueribbonclassics.com/recipes
+https://cookienameddesire.com/web-stories/smores-cookie-story/
+https://www.bakeat350.net/2014/10/spooky-smores-bars-recipe.html
+https://www.browneyedbaker.com/no-bake-smores-pie-recipe/
+https://butterwithasideofbread.com/smores-in-oven/
+https://cookienameddesire.com/web-stories/no-bake-smores-pie/
+https://www.bakeat350.net/feeds/6578568379452683885/comments/default
+https://bakingamoment.com/smores-dip/
 https://sallysbakingaddiction.com/smores-brownie-pie/
-https://bakingamoment.com/smores-bars/
+http://www.dianasdesserts.com/index.cfm/fuseaction/recipes.recipeListing/filter/guests/recipeID/6507/Recipe.cfm
 
 
 Flat Clustering Results: 
 http://simplegirlathome.blogspot.com/2011/06/reeses-peanut-butter-cup-smores.html
-https://cookienameddesire.com/smores-pie/
-https://www.bakeat350.net/feeds/6578568379452683885/comments/default
 https://easydessertrecipes.com/cotton-candy-smores/
-https://butterwithasideofbread.com/smores-in-oven/
+https://cookienameddesire.com/smores-pie/
 https://www.browneyedbaker.com/no-bake-smores-pie-recipe/
+https://butterwithasideofbread.com/smores-in-oven/
+https://www.bakeat350.net/feeds/6578568379452683885/comments/default
 https://www.bluebunny.com/products/retired
 https://backforseconds.com/smores-muddy-buddies/
 https://www.chocolatemoosey.com/smores-caramel-popcorn/
 https://thefrugalgirls.com/tag/smores
+https://bakingamoment.com/smores-dip/
 https://sallysbakingaddiction.com/smores-brownie-pie/
-https://bakingamoment.com/smores-bars/
 https://bake-eat-repeat.com/peanut-butter-smores-bars-recipe/
 https://sallysbakingaddiction.com/smore-cookie-bars/
-https://bakingamoment.com/smores-dip/
+https://bakingamoment.com/smores-bars/
 
-Hierarchial Clustering Results: 
+Single Hierarchial Clustering Results: 
 https://thefrugalgirls.com/tag/smores
 http://simplegirlathome.blogspot.com/2011/06/reeses-peanut-butter-cup-smores.html
-https://cookienameddesire.com/web-stories/no-bake-smores-pie/
-https://cookienameddesire.com/smores-pie/
-https://www.bakeat350.net/2014/10/spooky-smores-bars-recipe.html
-https://www.bakeat350.net/feeds/6578568379452683885/comments/default
-https://cookienameddesire.com/web-stories/smores-cookie-story/
 https://easydessertrecipes.com/cotton-candy-smores/
-https://blueribbonclassics.com/recipes
-https://butterwithasideofbread.com/smores-in-oven/
+https://cookienameddesire.com/smores-pie/
 https://cookienameddesire.com/smores-stuffed-cookies/comment-page-8/
-https://www.bakeat350.net/2021/07/sublime-smores-brownies.html
+https://blueribbonclassics.com/recipes
+https://cookienameddesire.com/web-stories/smores-cookie-story/
+https://www.bakeat350.net/2014/10/spooky-smores-bars-recipe.html
+https://www.browneyedbaker.com/no-bake-smores-pie-recipe/
+https://butterwithasideofbread.com/smores-in-oven/
+https://cookienameddesire.com/web-stories/no-bake-smores-pie/
+https://www.bakeat350.net/feeds/6578568379452683885/comments/default
+https://bakingamoment.com/smores-dip/
+https://sallysbakingaddiction.com/smores-brownie-pie/
+http://www.dianasdesserts.com/index.cfm/fuseaction/recipes.recipeListing/filter/guests/recipeID/6507/Recipe.cfm
+
+Average Hierarchial Clustering Results: 
+https://thefrugalgirls.com/tag/smores
+http://simplegirlathome.blogspot.com/2011/06/reeses-peanut-butter-cup-smores.html
+https://easydessertrecipes.com/cotton-candy-smores/
+https://cookienameddesire.com/smores-pie/
+https://cookienameddesire.com/smores-stuffed-cookies/comment-page-8/
+https://blueribbonclassics.com/recipes
+https://cookienameddesire.com/web-stories/smores-cookie-story/
+https://www.bakeat350.net/2014/10/spooky-smores-bars-recipe.html
+https://butterwithasideofbread.com/smores-in-oven/
+https://cookienameddesire.com/web-stories/no-bake-smores-pie/
+https://www.bakeat350.net/feeds/6578568379452683885/comments/default
+http://www.dianasdesserts.com/index.cfm/fuseaction/recipes.recipeListing/filter/guests/recipeID/6507/Recipe.cfm
 https://bake-eat-repeat.com/peanut-butter-smores-bars-recipe/
-http://www.dianasdesserts.com/index.cfm/fuseaction/recipes.recipeListing/filter/dianas/recipeID/1476/Recipe.cfm
+https://funcookierecipes.com/smores-cookie-bars/
 https://sallysbakingaddiction.com/smore-cookie-bars/

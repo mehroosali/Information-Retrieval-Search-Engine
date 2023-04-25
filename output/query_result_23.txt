@@ -3,51 +3,68 @@ Query: cupcake
 Solr Results
 https://www.shugarysweets.com/category/cupcake/page/3/
 https://thefrugalgirls.com/2013/04/organizing-cupcake-liners.html/feed
-https://www.bakeat350.net/2021/06/how-to-decorate-simple-cupcake-cookies.html
-https://www.bakerias.com/US/Spring-Valley/223805841370791/Sweet-Necessity-Cup%27Cakery
-https://www.sweetsugarbelle.com/2010/11/its-almost-here/
-https://www.shugarysweets.com/category/cupcake/
-https://backforseconds.com/cupcake-muddy-buddies/
-https://www.bakeat350.net/2014/01/cupcake-lemon-drop-cocktail-recipe.html
 https://karluci.com/2019/08/04/35-best-spooky-halloween-cupcake-recipes-in-2019-easy-recipes/feed/
-https://funcookierecipes.com/copycat-crumbl-chocolate-cupcake-cookies/feed/
+https://backforseconds.com/cupcake-muddy-buddies/
+https://www.bakeat350.net/2021/06/how-to-decorate-simple-cupcake-cookies.html
+https://www.bakeat350.net/2014/01/cupcake-lemon-drop-cocktail-recipe.html
 https://www.shugarysweets.com/category/cupcake/page/2/
 https://thefrugalgirls.com/2011/10/york-peppermint-patty-cupcake-recipe.html
-https://thefrugalgirls.com/2013/04/organizing-cupcake-liners.html
+https://www.sweetsugarbelle.com/2010/11/its-almost-here/
+https://funcookierecipes.com/copycat-crumbl-chocolate-cupcake-cookies/feed/
+https://www.bakerias.com/US/Spring-Valley/223805841370791/Sweet-Necessity-Cup%27Cakery
+https://www.shugarysweets.com/category/cupcake/
+https://www.shugarysweets.com/web-stories/strawberry-cupcake-recipe/
 https://www.chocolatemoosey.com/small-batch-yellow-cupcakes/
-https://www.livewellbakeoften.com/vanilla-cupcakes/
+https://amycakesbakes.com/blueberry-cupcake-filling/
 
 
 Flat Clustering Results: 
 https://thefrugalgirls.com/2013/04/organizing-cupcake-liners.html/feed
-https://www.bakerias.com/US/Spring-Valley/223805841370791/Sweet-Necessity-Cup%27Cakery
+https://karluci.com/2019/08/04/35-best-spooky-halloween-cupcake-recipes-in-2019-easy-recipes/feed/
 https://backforseconds.com/cupcake-muddy-buddies/
 https://www.bakeat350.net/2014/01/cupcake-lemon-drop-cocktail-recipe.html
-https://karluci.com/2019/08/04/35-best-spooky-halloween-cupcake-recipes-in-2019-easy-recipes/feed/
-https://thefrugalgirls.com/2013/04/organizing-cupcake-liners.html
-https://www.bakemeawish.com/gourmet-cupcake-delivery.php
+https://www.bakerias.com/US/Spring-Valley/223805841370791/Sweet-Necessity-Cup%27Cakery
 https://amycakesbakes.com/blueberry-cupcake-filling/
+https://www.bakemeawish.com/gourmet-cupcake-delivery.php
+https://thefrugalgirls.com/2013/04/organizing-cupcake-liners.html
 https://www.bakeat350.net/2021/05/how-to-make-parchment-paper-cupcake-liners.html
 https://www.shugarysweets.com/category/cupcake/page/3/
-https://www.shugarysweets.com/category/cupcake/
 https://www.shugarysweets.com/category/cupcake/page/2/
 https://thefrugalgirls.com/2011/10/york-peppermint-patty-cupcake-recipe.html
+https://www.shugarysweets.com/category/cupcake/
+https://www.shugarysweets.com/web-stories/strawberry-cupcake-recipe/
 https://www.livewellbakeoften.com/vanilla-cupcakes/
-https://www.livewellbakeoften.com/chocolate-cupcakes-recipe/
 
-Hierarchial Clustering Results: 
+Single Hierarchial Clustering Results: 
+https://www.shugarysweets.com/category/cupcake/page/3/
 https://thefrugalgirls.com/2013/04/organizing-cupcake-liners.html/feed
-https://www.bakeat350.net/2021/06/how-to-decorate-simple-cupcake-cookies.html
-https://www.bakerias.com/US/Spring-Valley/223805841370791/Sweet-Necessity-Cup%27Cakery
-https://backforseconds.com/cupcake-muddy-buddies/
-https://www.bakeat350.net/2014/01/cupcake-lemon-drop-cocktail-recipe.html
 https://karluci.com/2019/08/04/35-best-spooky-halloween-cupcake-recipes-in-2019-easy-recipes/feed/
-https://funcookierecipes.com/copycat-crumbl-chocolate-cupcake-cookies/feed/
+https://backforseconds.com/cupcake-muddy-buddies/
+https://www.bakeat350.net/2021/06/how-to-decorate-simple-cupcake-cookies.html
+https://www.shugarysweets.com/category/cupcake/page/2/
 https://thefrugalgirls.com/2011/10/york-peppermint-patty-cupcake-recipe.html
-https://thefrugalgirls.com/2013/04/organizing-cupcake-liners.html
-http://www.dianasdesserts.com/index.cfm/fuseaction/recipes.recipeListing/filter/guests/recipeID/2542/Recipe.cfm
+https://www.sweetsugarbelle.com/2010/11/its-almost-here/
+https://funcookierecipes.com/copycat-crumbl-chocolate-cupcake-cookies/feed/
+https://www.bakerias.com/US/Spring-Valley/223805841370791/Sweet-Necessity-Cup%27Cakery
+https://www.shugarysweets.com/category/cupcake/
+https://www.shugarysweets.com/web-stories/strawberry-cupcake-recipe/
+https://www.chocolatemoosey.com/small-batch-yellow-cupcakes/
+https://amycakesbakes.com/blueberry-cupcake-filling/
+https://www.joyofbaking.com/cupcakes/cupcakerecipes.html
+
+Average Hierarchial Clustering Results: 
+https://thefrugalgirls.com/2013/04/organizing-cupcake-liners.html/feed
+https://karluci.com/2019/08/04/35-best-spooky-halloween-cupcake-recipes-in-2019-easy-recipes/feed/
+https://backforseconds.com/cupcake-muddy-buddies/
+https://www.bakeat350.net/2021/06/how-to-decorate-simple-cupcake-cookies.html
+https://www.bakeat350.net/2014/01/cupcake-lemon-drop-cocktail-recipe.html
+https://thefrugalgirls.com/2011/10/york-peppermint-patty-cupcake-recipe.html
+https://funcookierecipes.com/copycat-crumbl-chocolate-cupcake-cookies/feed/
+https://www.bakerias.com/US/Spring-Valley/223805841370791/Sweet-Necessity-Cup%27Cakery
 https://amycakesbakes.com/blueberry-cupcake-filling/
 https://thefrugalgirls.com/2010/02/ice-cream-cone-cupcake-recipe-so-cute.html
-http://www.jewishfood-list.com/recipes/brunch/blintz/blintzescupcake01.html
+http://www.dianasdesserts.com/index.cfm/fuseaction/recipes.recipeListing/filter/guests/recipeID/2542/Recipe.cfm
+https://thefrugalgirls.com/2013/04/organizing-cupcake-liners.html
+https://funcookierecipes.com/copycat-crumbl-chocolate-cupcake-cookies/comment-page-1/
 https://funcookierecipes.com/copycat-crumbl-chocolate-cupcake-cookies/
-https://www.bakeat350.net/2016/10/ghosts-cupcake-cookies.html
+http://www.jewishfood-list.com/recipes/brunch/blintz/blintzescupcake01.html

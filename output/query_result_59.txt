@@ -3,51 +3,68 @@ Query: tiramisu
 Solr Results
 https://www.theansweriscake.com/tag/tiramisu/feed/
 https://www.cs.cmu.edu/~mjw/recipes/dessert/tiramisu/index.html
-https://www.livewellbakeoften.com/tiramisu/feed/
 https://tiramisuworldcup.com/en/original-recipes/
-https://www.chocolatemoosey.com/tiramisu-ice-cream-sandwich-cookies/
-https://anitalianinmykitchen.com/web-stories/easy-baileys-tiramisu/
-https://www.bakinglikeachef.com/speculoos-tiramisu/feed/
 https://www.theansweriscake.com/mango-tiramisu/feed/
-https://www.inspiredtaste.net/23599/tiramisu-recipe/
-https://www.theansweriscake.com/tag/traditional-tiramisu-recipe/feed/
 https://www.thelittleepicurean.com/2017/12/tiramisu-cake.html
+https://www.inspiredtaste.net/23599/tiramisu-recipe/
+https://www.bakinglikeachef.com/speculoos-tiramisu/feed/
+https://www.theansweriscake.com/tag/traditional-tiramisu-recipe/feed/
+https://www.livewellbakeoften.com/tiramisu/feed/
 https://www.theansweriscake.com/tiramisu/feed/
-https://opensea.io/ja/collection/tiramisu-love
-https://opensea.io/kr/collection/tiramisu-love
-https://www.livewellbakeoften.com/tiramisu/
+https://anitalianinmykitchen.com/web-stories/easy-baileys-tiramisu/
+https://www.chocolatemoosey.com/tiramisu-ice-cream-sandwich-cookies/
+https://tiramisuworldcup.com/en/news-en/winners-tiramisu-world-cup-2022/
+https://opensea.io/fr/collection/tiramisu-love
+https://www.littlesweetbaker.com/easy-eggless-tiramisu-video/
 
 
 Flat Clustering Results: 
 https://www.cs.cmu.edu/~mjw/recipes/dessert/tiramisu/index.html
 https://tiramisuworldcup.com/en/original-recipes/
-https://anitalianinmykitchen.com/web-stories/easy-baileys-tiramisu/
-https://www.bakinglikeachef.com/speculoos-tiramisu/feed/
 https://www.theansweriscake.com/mango-tiramisu/feed/
+https://www.bakinglikeachef.com/speculoos-tiramisu/feed/
 https://www.theansweriscake.com/tag/traditional-tiramisu-recipe/feed/
 https://www.theansweriscake.com/tiramisu/feed/
-https://opensea.io/ja/collection/tiramisu-love
-https://opensea.io/kr/collection/tiramisu-love
-https://www.littlesweetbaker.com/easy-eggless-tiramisu-video/
+https://anitalianinmykitchen.com/web-stories/easy-baileys-tiramisu/
 https://tiramisuworldcup.com/en/news-en/winners-tiramisu-world-cup-2022/
 https://opensea.io/fr/collection/tiramisu-love
+https://www.littlesweetbaker.com/easy-eggless-tiramisu-video/
 https://opensea.io/de-DE/collection/tiramisu-love
-https://www.littlesweetbaker.com/easy-eggless-tiramisu-video/comment-page-6/
+https://opensea.io/ja/collection/tiramisu-love
+https://opensea.io/kr/collection/tiramisu-love
+https://biscuitstobrownies.com/italian-tiramisu/
 https://www.littlesweetbaker.com/easy-eggless-tiramisu-video/comment-page-5/
 
-Hierarchial Clustering Results: 
+Single Hierarchial Clustering Results: 
 https://www.theansweriscake.com/tag/tiramisu/feed/
+https://www.cs.cmu.edu/~mjw/recipes/dessert/tiramisu/index.html
 https://tiramisuworldcup.com/en/original-recipes/
-https://www.chocolatemoosey.com/tiramisu-ice-cream-sandwich-cookies/
-https://anitalianinmykitchen.com/web-stories/easy-baileys-tiramisu/
-https://www.bakinglikeachef.com/speculoos-tiramisu/feed/
 https://www.theansweriscake.com/mango-tiramisu/feed/
 https://www.thelittleepicurean.com/2017/12/tiramisu-cake.html
+https://www.inspiredtaste.net/23599/tiramisu-recipe/
+https://www.bakinglikeachef.com/speculoos-tiramisu/feed/
+https://www.theansweriscake.com/tag/traditional-tiramisu-recipe/feed/
+https://www.livewellbakeoften.com/tiramisu/feed/
 https://www.theansweriscake.com/tiramisu/feed/
+https://anitalianinmykitchen.com/web-stories/easy-baileys-tiramisu/
+https://www.chocolatemoosey.com/tiramisu-ice-cream-sandwich-cookies/
 https://tiramisuworldcup.com/en/news-en/winners-tiramisu-world-cup-2022/
-https://tiramisuworldcup.com/en/inspirations-recipes/
-http://www.dianasdesserts.com/index.cfm/fuseaction/recipes.recipeListing/filter/guests/recipeID/5710/Recipe.cfm
-https://tiramisuworldcup.com/en/feed/
-https://www.cs.cmu.edu/~mjw/recipes/dessert/tiramisu/tiramisu-2.html
-https://www.bakeat350.net/2018/07/pineapple-cream-tiramisu.html
-https://anitalianinmykitchen.com/baileys-tiramisu/
+https://opensea.io/fr/collection/tiramisu-love
+https://www.littlesweetbaker.com/easy-eggless-tiramisu-video/
+
+Average Hierarchial Clustering Results: 
+https://www.cs.cmu.edu/~mjw/recipes/dessert/tiramisu/index.html
+https://www.theansweriscake.com/tag/traditional-tiramisu-recipe/feed/
+https://opensea.io/fr/collection/tiramisu-love
+https://www.christinascucina.com/limoncello-tiramisu/feed/
+https://opensea.io/de-DE/collection/tiramisu-love
+https://opensea.io/ja/collection/tiramisu-love
+https://opensea.io/kr/collection/tiramisu-love
+https://biscuitstobrownies.com/italian-tiramisu/
+https://www.littlesweetbaker.com/easy-eggless-tiramisu-video/comment-page-5/
+https://www.bakinglikeachef.com/speculoos-tiramisu/
+https://www.littlesweetbaker.com/easy-eggless-tiramisu-video/comment-page-6/
+https://www.theansweriscake.com/tag/tiramisu/feed/
+https://tiramisuworldcup.com/en/original-recipes/
+https://www.theansweriscake.com/mango-tiramisu/feed/
+https://www.thelittleepicurean.com/2017/12/tiramisu-cake.html

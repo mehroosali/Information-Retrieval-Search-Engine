@@ -3,51 +3,68 @@ Query: Sherbet
 Solr Results
 https://www.yummly.com/recipes/sherbet-dessert
 https://www.yummly.co.uk/recipes/sherbet-dessert
-https://www.braums.com/menus/sherbet-freeze/
-https://www.yummly.com/amp/recipes/sherbet-dessert
-https://www.joyofbaking.com/printpages/WatermelonBombeprint.html
-https://www.yummly.co.uk/amp/recipes/sherbet-dessert
-https://thefirstyearblog.com/lime-sherbet-floats/
 https://cookingwithcarlee.com/layered-lime-sherbet-bars/feed/
-https://www.thecookierookie.com/sherbet-mimosas/feed/
 https://natashaskitchen.com/raspberry-sherbet-party-punch/
-https://wearenotmartha.com/rainbow-sherbet-cake/feed/
 https://www.bakedbyrachel.com/rainbow-sherbet/feed/
-https://wearenotmartha.com/rainbow-sherbet-cake/
-https://www.icecream.com/us/en/brands/dreyers/products/classics-berry-rainbow-sherbet
-https://www.icecream.com/us/en/brands/dreyers/products/classics-orange-cream-sherbet
+https://www.yummly.co.uk/amp/recipes/sherbet-dessert
+https://www.thecookierookie.com/sherbet-mimosas/feed/
+https://thefirstyearblog.com/lime-sherbet-floats/
+https://www.braums.com/menus/sherbet-freeze/
+https://www.joyofbaking.com/printpages/WatermelonBombeprint.html
+https://www.yummly.com/amp/recipes/sherbet-dessert
+https://wearenotmartha.com/rainbow-sherbet-cake/feed/
+https://thefrugalgirls.com/2016/04/rainbow-sherbet-punch-recipe.html
+https://www.lovebakesgoodcakes.com/soft-sherbet-coconut-cookies/
+https://www.savingdessert.com/peach-sherbet/
 
 
 Flat Clustering Results: 
-https://www.braums.com/menus/sherbet-freeze/
-https://www.yummly.com/amp/recipes/sherbet-dessert
+https://natashaskitchen.com/raspberry-sherbet-party-punch/
 https://www.yummly.co.uk/amp/recipes/sherbet-dessert
 https://thefirstyearblog.com/lime-sherbet-floats/
-https://natashaskitchen.com/raspberry-sherbet-party-punch/
-https://wearenotmartha.com/rainbow-sherbet-cake/
+https://www.braums.com/menus/sherbet-freeze/
+https://www.yummly.com/amp/recipes/sherbet-dessert
 https://www.savingdessert.com/peach-sherbet/
-https://cookingwithcarlee.com/layered-lime-sherbet-bars/
+https://wearenotmartha.com/rainbow-sherbet-cake/
 https://www.cs.cmu.edu/~mjw/recipes/dessert/icecream/blubry-sherb.html
+https://cookingwithcarlee.com/layered-lime-sherbet-bars/
 https://food52.com/blog/13111-now-is-not-the-time-to-skip-dessert
+https://thefrugalgirls.com/2016/04/rainbow-sherbet-punch-recipe.html
 https://www.lovebakesgoodcakes.com/soft-sherbet-coconut-cookies/
 https://www.thecookierookie.com/sherbet-mimosas/
-https://thefrugalgirls.com/2016/04/rainbow-sherbet-punch-recipe.html
 https://www.bakedbyrachel.com/rainbow-sherbet/
 https://www.bakedbyrachel.com/lime-sherbet/
 
-Hierarchial Clustering Results: 
-https://thefirstyearblog.com/lime-sherbet-floats/
+Single Hierarchial Clustering Results: 
+https://www.yummly.com/recipes/sherbet-dessert
+https://www.yummly.co.uk/recipes/sherbet-dessert
+https://cookingwithcarlee.com/layered-lime-sherbet-bars/feed/
 https://natashaskitchen.com/raspberry-sherbet-party-punch/
+https://www.bakedbyrachel.com/rainbow-sherbet/feed/
+https://www.yummly.co.uk/amp/recipes/sherbet-dessert
+https://www.thecookierookie.com/sherbet-mimosas/feed/
+https://thefirstyearblog.com/lime-sherbet-floats/
+https://www.braums.com/menus/sherbet-freeze/
+https://www.joyofbaking.com/printpages/WatermelonBombeprint.html
+https://www.yummly.com/amp/recipes/sherbet-dessert
+https://wearenotmartha.com/rainbow-sherbet-cake/feed/
+https://thefrugalgirls.com/2016/04/rainbow-sherbet-punch-recipe.html
+https://www.lovebakesgoodcakes.com/soft-sherbet-coconut-cookies/
+https://www.savingdessert.com/peach-sherbet/
+
+Average Hierarchial Clustering Results: 
+https://natashaskitchen.com/raspberry-sherbet-party-punch/
+https://thefirstyearblog.com/lime-sherbet-floats/
+https://thefrugalgirls.com/2016/04/rainbow-sherbet-punch-recipe.html
+https://www.icecream.com/us/en/brands/edys/products/classics-berry-rainbow-sherbet
 https://www.icecream.com/us/en/brands/dreyers/products/classics-berry-rainbow-sherbet
 https://www.icecream.com/us/en/brands/dreyers/products/classics-orange-cream-sherbet
-https://www.icecream.com/us/en/brands/edys/products/classics-berry-rainbow-sherbet
 https://wellsfoodservice.com/products/blue-bunny/scoopables/bulk/orange-sherbet
-https://thefrugalgirls.com/2016/04/rainbow-sherbet-punch-recipe.html
-https://wellsfoodservice.com/products/blue-ribbon-classics/cups/rainbow-sherbet
-https://www.cs.cmu.edu/~mjw/recipes/dessert/icecream/blubry-sherb.html
-https://wellsfoodservice.com/products/blue-ribbon-classics/cups/orange-sherbet
 https://www.joyofbaking.com/printpages/RaspberrySherbetprint.html
+https://www.cs.cmu.edu/~mjw/recipes/dessert/icecream/blubry-sherb.html
+https://wellsfoodservice.com/products/blue-ribbon-classics/cups/rainbow-sherbet
+https://wellsfoodservice.com/products/blue-ribbon-classics/cups/orange-sherbet
 https://wellsfoodservice.com/products/blue-ribbon-classics/cups/orange-sherbet-cup
-http://jewishfood-list.com/recipes/beverage/goldglowpunch01.html
-http://www.jewishfood-list.com/recipes/dessert/frozen/sherbetrockmelonbanana01.html
-http://www.jewishfood-list.com/recipes/dessert/frozen/&frozen_index.html
+http://www.jewishfood-list.com/recipes/dessert/frozen/sherbetpineorange01.html
+https://www.bakedbyrachel.com/lime-sherbet/
+https://blueribbonclassics.com/product/rainbow-sherbet

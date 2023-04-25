@@ -4,18 +4,18 @@ Solr Results
 https://icecreamfromscratch.com/bananas-foster-ice-cream/
 https://easydessertrecipes.com/bananas-foster/feed/
 https://dinnerthendessert.com/bananas-foster-cobbler/
-https://icecreamfromscratch.com/bananas-foster-ice-cream/feed/
-http://www.dianasdesserts.com/index.cfm/fuseaction/recipes.recipeListing/filter/dianas/recipeID/683/Recipe.cfm
-https://easydessertrecipes.com/bananas-foster/
-https://bakingamoment.com/bananas-foster/
-https://dinnerthendessert.com/bananas-foster-cobbler/feed/
-https://www.benjerry.com/flavors/bananas-foster-non-dairy-core
-https://bakingamoment.com/bananas-foster/feed/
 https://www.masterstech-home.com/the_kitchen/recipes/Dessert_Recipes/BananasFoster.html
+https://bakingamoment.com/bananas-foster/feed/
+https://bakingamoment.com/bananas-foster/
+http://www.dianasdesserts.com/index.cfm/fuseaction/recipes.recipeListing/filter/dianas/recipeID/683/Recipe.cfm
+https://www.benjerry.com/flavors/bananas-foster-non-dairy-core
+https://easydessertrecipes.com/bananas-foster/
+https://dinnerthendessert.com/bananas-foster-cobbler/feed/
+https://icecreamfromscratch.com/bananas-foster-ice-cream/feed/
 https://bakingamoment.com/bananas-foster/comment-page-1/
+http://www.dianasdesserts.com/index.cfm/fuseaction/recipes.recipeListing/filter/dianas/recipeID/642/Recipe.cfm
 https://dinnerthendessert.com/category/breakfast-brunch/
-https://dinnerthendessert.com/category/dessert/fruit-desserts/
-https://wellsfoodservice.com/recipes/ice-cream-slices
+https://dinnerthendessert.com/category/dessert/
 
 
 Flat Clustering Results: 
@@ -29,25 +29,42 @@ https://dinnerthendessert.com/bananas-foster-cobbler/
 https://bakingamoment.com/bananas-foster/
 https://bakingamoment.com/bananas-foster/comment-page-1/
 https://dinnerthendessert.com/category/breakfast-brunch/
+https://dinnerthendessert.com/category/dessert/
+https://dinnerthendessert.com/category/dessert/non-chocolate/
 https://dinnerthendessert.com/category/dessert/fruit-desserts/
 https://dinnerthendessert.com/category/dessert/pies-pastries/
 https://dinnerthendessert.com/category/breakfast-brunch/baked-goods/
-https://dinnerthendessert.com/category/dessert/non-chocolate/
-https://dinnerthendessert.com/category/dessert/
 
-Hierarchial Clustering Results: 
+Single Hierarchial Clustering Results: 
 https://icecreamfromscratch.com/bananas-foster-ice-cream/
 https://easydessertrecipes.com/bananas-foster/feed/
 https://dinnerthendessert.com/bananas-foster-cobbler/
-https://icecreamfromscratch.com/bananas-foster-ice-cream/feed/
+https://www.masterstech-home.com/the_kitchen/recipes/Dessert_Recipes/BananasFoster.html
+https://bakingamoment.com/bananas-foster/feed/
+https://bakingamoment.com/bananas-foster/
 http://www.dianasdesserts.com/index.cfm/fuseaction/recipes.recipeListing/filter/dianas/recipeID/683/Recipe.cfm
+https://www.benjerry.com/flavors/bananas-foster-non-dairy-core
 https://easydessertrecipes.com/bananas-foster/
 https://dinnerthendessert.com/bananas-foster-cobbler/feed/
-https://www.benjerry.com/flavors/bananas-foster-non-dairy-core
-https://bakingamoment.com/bananas-foster/feed/
+https://icecreamfromscratch.com/bananas-foster-ice-cream/feed/
 https://bakingamoment.com/bananas-foster/comment-page-1/
-https://dinnerthendessert.com/category/dessert/fruit-desserts/
-https://wellsfoodservice.com/recipes/ice-cream-slices
-https://dinnerthendessert.com/category/dessert/pies-pastries/
 http://www.dianasdesserts.com/index.cfm/fuseaction/recipes.recipeListing/filter/dianas/recipeID/642/Recipe.cfm
+https://dinnerthendessert.com/category/breakfast-brunch/
+https://dinnerthendessert.com/category/dessert/
+
+Average Hierarchial Clustering Results: 
+https://icecreamfromscratch.com/bananas-foster-ice-cream/
+https://easydessertrecipes.com/bananas-foster/feed/
+https://dinnerthendessert.com/bananas-foster-cobbler/
+https://bakingamoment.com/bananas-foster/feed/
+http://www.dianasdesserts.com/index.cfm/fuseaction/recipes.recipeListing/filter/dianas/recipeID/683/Recipe.cfm
+https://www.benjerry.com/flavors/bananas-foster-non-dairy-core
+https://easydessertrecipes.com/bananas-foster/
+https://dinnerthendessert.com/bananas-foster-cobbler/feed/
+https://icecreamfromscratch.com/bananas-foster-ice-cream/feed/
+https://bakingamoment.com/bananas-foster/comment-page-1/
+http://www.dianasdesserts.com/index.cfm/fuseaction/recipes.recipeListing/filter/dianas/recipeID/642/Recipe.cfm
+https://dinnerthendessert.com/category/dessert/non-chocolate/
+https://dinnerthendessert.com/category/dessert/fruit-desserts/
+https://dinnerthendessert.com/category/dessert/pies-pastries/
 https://dinnerthendessert.com/category/breakfast-brunch/baked-goods/
