@@ -3,6 +3,8 @@ import React, { useState } from "react";
 import axios from "axios";
 import "./styles.css";
 import ClipLoader from "react-spinners/ClipLoader";
+import { Tab, Tabs, TabList, TabPanel } from "react-tabs";
+import "react-tabs/style/react-tabs.css";
 
 const api_url = "http://localhost:5000/api";
 
@@ -15,6 +17,9 @@ function App() {
   const [queryExpOption, setQueryExpOption] = useState("");
   const [qeResult, setQeResult] = useState("");
   const [loading, setLoading] = useState(false);
+  const [googleUrl, setGoogleUrl] = useState("");
+  const [bingUrl, setBingUrl] = useState("");
+  const [qeVisible, setQeVisible] = useState(false); 
 
   const getResponseFromApi = (event) => {
     if (event.key === "Enter") {
@@ -32,9 +37,14 @@ function App() {
 
   const handleSearch = (event) => {
     event.preventDefault();
-    setData([])
-    setQeResult("")
+    setData([]);
+    setQeResult("");
     setLoading(true);
+
+    const qexpElement = document.getElementById("qexp");
+    if (qexpElement) {
+      qexpElement.style.display = "none";
+    }
     // Call the API to get the search results
     let params = {
       query: text,
@@ -59,44 +69,75 @@ function App() {
     } else if (queryExpOption === "metric_qe") {
       params.qe = "metric";
     }
-    if ("qe" in params) {
-      document.getElementById("qexp").style.display = "block";
-    } else {
-      document.getElementById("qexp").style.display = "none";
+    try {
+      if ("qe" in params) {
+        setQeVisible(true);
+        // document.getElementById("qexp").style.display = "block";
+      } else {
+        // document.getElementById("qexp").style.display = "none";
+        setQeVisible(false);
+      }
+    } catch (error) {
+      console.log(error);
     }
+
     axios.get(api_url, { params }).then((response) => {
-      
       setData(response.data.query_results.slice(0, 25));
       setLoading(false);
       if ("qe" in params) {
-      handleQEResults(response.data.query)
+        handleQEResults(response.data.query);
       } else {
-        displayBingAndGoogle(response.data.query)
-    }
-    })
+        setGoogleUrl(
+          "https://www.google.com/search?igu=1&source=hp&ei=lheWXriYJ4PktQXN-LPgDA&q=" +
+            response.data.query
+        );
+        setBingUrl("https://www.bing.com/search?q=" + response.data.query);
+        displayBingAndGoogle(response.data.query);
+      }
+    });
   };
 
+  // const displayBingAndGoogle = (query) => {
+  //           // Build the URLs for Google and Bing search
+  //   const googleUrl =
+  //     "https://www.google.com/search?igu=1&source=hp&ei=lheWXriYJ4PktQXN-LPgDA&q=" +
+  //     query;
+  //   const bingUrl = "https://www.bing.com/search?q=" + query;
+
+  //   // Set the URLs as the sources for the iframes
+  //   document.getElementById("google").src = googleUrl;
+  //   document.getElementById("bing").src = bingUrl;
+  // }
   const displayBingAndGoogle = (query) => {
-            // Build the URLs for Google and Bing search
-    const googleUrl =
-      "https://www.google.com/search?igu=1&source=hp&ei=lheWXriYJ4PktQXN-LPgDA&q=" +
-      query;
-    const bingUrl = "https://www.bing.com/search?q=" + query;
+    // Build the URLs for Google and Bing search
+    // const googleUrl =
+    //   "https://www.google.com/search?igu=1&source=hp&ei=lheWXriYJ4PktQXN-LPgDA&q=" +
+    //   query;
+    // const bingUrl = "https://www.bing.com/search?q=" + query;
 
     // Set the URLs as the sources for the iframes
-    document.getElementById("google").src = googleUrl;
-    document.getElementById("bing").src = bingUrl;
-  }
+    const activeTab = document.querySelector(".react-tabs__tab--selected");
+    if (activeTab.innerHTML === "Google") {
+      document.getElementById("google").src = googleUrl;
+      console.log("function in google tab is called");
+    } else if (activeTab.innerHTML === "Bing") {
+      document.getElementById("bing").src = bingUrl;
+    }
+  };
 
   const handleQEResults = (expanded_query) => {
-    expanded_query = expanded_query.replace(/"/g, '');
+    expanded_query = expanded_query.replace(/"/g, "");
     setQeResult(expanded_query);
-    displayBingAndGoogle(expanded_query)
-  }
+    setGoogleUrl(
+      "https://www.google.com/search?igu=1&source=hp&ei=lheWXriYJ4PktQXN-LPgDA&q=" +
+        expanded_query
+    );
+    setBingUrl("https://www.bing.com/search?q=" + expanded_query);
+    displayBingAndGoogle(expanded_query);
+  };
 
   return (
     <div className="App">
-    
       <h1>Sweets Search Engine</h1>
       <form id="form" onSubmit={handleSearch}>
         <input
@@ -276,50 +317,60 @@ function App() {
         <hr />
       </form>
       <br />
-      {/* data && data.map((item) => <p>{item.title}</p>) } */}
-      <div className="qeParagraph" id="qexp" style={{ display: "none" }}>
-        <p className="qeSub">Expanded query: {qeResult ? qeResult : ""}</p>
-      </div>
+      <Tabs>
+        <TabList>
+          <Tab>Results</Tab>
+          <Tab>Google</Tab>
+          <Tab>Bing</Tab>
+        </TabList>
 
-      <div className="container">
-        <div className="spinner">
+        <TabPanel>
+          {/* Default Results */}
+          {/* Add your existing code to display the search results here */}
+          {qeVisible && (<div className="qeParagraph" id="qexp" >
+            <p className="qeSub">Expanded query: {qeResult ? qeResult : ""}</p>
+          </div>)}
+          
+
+          <div className="container">
+            <div className="spinner">
               <ClipLoader
-        color="#ffffff"
-        loading={loading}
-        size={50}
-        aria-label="Loading Spinner"
-        data-testid="loader"
-      />
-        </div>
-        { data.map((item) => (
-          <div className="card" key={item.id}>
-            <h2 className="card-title">{item.title}</h2>
-            <p className="card-content">{item.content.slice(0, 100)}</p>
-            <a
-              className="card-link"
-              href={item.url}
-              target="_blank"
-              rel="noreferrer"
-            >
-              Read more
-            </a>
-          </div>
-        ))
-      }
-      </div>
-      <h1>Bing Search Results</h1>
+                color="#ffffff"
+                loading={loading}
+                size={50}
+                aria-label="Loading Spinner"
+                data-testid="loader"
+              />
+            </div>
+            {data.map((item) => (
+              <div className="card" key={item.id}>
+                <h2 className="card-title">{item.title}</h2>
 
-      <iframe
-        id="bing"
-        title="Bing search results"
-        src="https://www.bing.com/search?q="
-      ></iframe>
-      <h1>Google Search Results</h1>
-      <iframe
-        id="google"
-        title="Google search results"
-        src="https://www.google.com"
-      ></iframe>
+                <a
+                  className="card-link"
+                  href={item.url}
+                  target="_blank"
+                  rel="noreferrer"
+                >
+                  {item.url}
+                </a>
+                <p className="card-content">{item.content.slice(0, 200)}</p>
+              </div>
+            ))}
+          </div>
+        </TabPanel>
+        <TabPanel>
+          {/* Google Results */}
+          <iframe id="google" title="Google" src={googleUrl}></iframe>{" "}
+        </TabPanel>
+        <TabPanel>
+          {/* Bing Results */}
+
+          <iframe id="bing" title="Bing" src={bingUrl}></iframe>
+        </TabPanel>
+      </Tabs>
+
+      {/* data && data.map((item) => <p>{item.title}</p>) } */}
     </div>
   );
 }
