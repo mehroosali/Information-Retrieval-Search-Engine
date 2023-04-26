@@ -119,7 +119,7 @@ class Clustering:
 
     def hierarchical_clustering_average(self, query, results):
         if query in self.queries:
-            return self.queries_result[query]
+            results = self.queries_result[query]
         
         if (len(self.queries) > 5):
             del self.queries_result[self.queries[-1]]
@@ -154,7 +154,7 @@ class Clustering:
 
     def hierarchical_clustering_single(self, query, results):
         if query in self.queries:
-            return self.queries_result[query]
+            results = self.queries_result[query]
         
         if (len(self.queries) > 5):
             del self.queries_result[self.queries[-1]]
