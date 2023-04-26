@@ -151,8 +151,19 @@ def get_query_expansion_result(query, query_expansion_type, solr_results):
     unique_words = list(dict.fromkeys(words))
     expanded_query = " ".join(unique_words)
     expanded_query = '"'+expanded_query+'"'
-    print(f"qet: {expanded_query}")
-    results_from_solr = get_results_from_solr('text:'+expanded_query)
+    #print(f"qet: {expanded_query}")
+    exp_quer = expanded_query.split()
+    #print(exp_quer)
+    exp_quer_result=''
+    for i in range(0,len(exp_quer)):
+        exp_quer_result = exp_quer_result+exp_quer[i]
+        if(i<1):
+            exp_quer_result = exp_quer_result+' '
+        if(i==1):
+            break
+    exp_quer_result = exp_quer_result.replace('"', '')
+    exp_quer_result = '"'+exp_quer_result+'"'
+    results_from_solr = get_results_from_solr('text:'+exp_quer_result)
     
     return expanded_query, results_from_solr
     

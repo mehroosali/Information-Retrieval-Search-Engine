@@ -2,7 +2,11 @@
 import re
 import collections
 import heapq
+import string
 import sklearn
+import nltk
+from nltk.stem import WordNetLemmatizer, SnowballStemmer
+
 
 import numpy as np
 from nltk.corpus import stopwords
@@ -85,6 +89,7 @@ def build_association(id_token_map, vocab, query):
         for word in query.split(' '):
             c1, c2, c3 = 0, 0, 0
             for doc_id, tokens_this_doc in id_token_map.items():
+                #print(doc_id)
                 count0 = tokens_this_doc.count(voc)
                 count1 = tokens_this_doc.count(word)
                 c1 += count0 * count1
@@ -112,17 +117,26 @@ def association_main(query, solr_results):
     for result in results:
         tokens_this_document = tokenize_doc(result['content'], stop_words)
         tokens_map[result['digest']] = tokens_this_document
+        #print(result['digest'])
         tokens.append(tokens_this_document)
 
     vocab = set([token for tokens_this_doc in tokens for token in tokens_this_doc])
+    #print(vocab)
+
     #print('Vocab len ', len(vocab))
     #print('Tokens Map len ', len(tokens_map))
+    #print(tokens_map)
     association_list = build_association(tokens_map, vocab, query)
-    association_list.sort(key = lambda x: x[2],reverse=True)
-    #print(association_list)
-
-    i=0
-    while(i<2):
+    if(len(query.split(' '))==2):
+        association_list = sorted(association_list, key = lambda x: (x[1], x[2]),reverse=True)
+        k=2
+    if(len(query.split(' '))==1):
+        association_list.sort(key = lambda x: x[2],reverse=True)
+        k=2
+    
+    #print(association_list[:100])
+    i=2
+    while(i<6):
         query += ' '+str(association_list[i][0])
         i +=1
     #print(query)
@@ -191,6 +205,7 @@ def get_metric_clusters(tokens_map, stem_map, query):
     # matrix is a 2-d array (square matrix) of size (len(stem_map.keys())) or len(stem_map)
     matrix = np.zeros((len(stem_map), len(stem_map))).tolist()
     stems = stem_map.keys()
+    #print(stems)
     for i, stem_i in enumerate(stems):
         for j, stem_j in enumerate(stems):
             if i==j:
@@ -225,8 +240,8 @@ def get_metric_clusters(tokens_map, stem_map, query):
             normalized_matrix[i][j] = Element(stem_i, stem_j, cuv)
 
     # print(normalized_matrix.shape())
-    # pprint.pprint(normalized_matrix)
-    return print_top_n(normalized_matrix, stems, query, tokens_map, stem_map, top_n=3)
+    #print(tokens_map)
+    return print_top_n(normalized_matrix, stems, query, tokens_map, stem_map, top_n=10)
     # pass
 
 
@@ -264,11 +279,13 @@ def metric_cluster_main(query, solr_results=[]):
     metric_clusters = get_metric_clusters(tokens_map, stem_map, query)
     metric_clusters2 = [elem for cluster in metric_clusters for elem in cluster]
     metric_clusters2.sort(key=lambda x:x.value,reverse=True)
-    i=0;
-    while(i<1):
+    #print(metric_clusters2[:20])
+    i=2;
+    #1
+    while(i<5):
         query += ' '+ str(metric_clusters2[i].v)
         i+=1
-    print(query)  
+    #print(query)  
     return query
 
 def Create_Scalar_Clustering(results, Query_String ):
@@ -280,6 +297,7 @@ def Create_Scalar_Clustering(results, Query_String ):
     URL_Lists = []
     Documents_terms = []
     doc_dict = {}
+    stop_words = set(stopwords.words('english'))
 
     # for doc in docs:
     #     URL_Lists.append(doc['url'])
@@ -288,6 +306,12 @@ def Create_Scalar_Clustering(results, Query_String ):
     #     Documents_List.append(doc['content'].replace("\n", " "))
         Documents_terms.extend(doc['content'].replace("\n", " ").split(" "))
         doc_dict[doc_no] = doc['content'].replace("\n", " ").split(" ")
+        doc_dict[doc_no] = [word for word in doc_dict[doc_no] if word.lower() not in stop_words]
+        doc_dict[doc_no] = [word for word in doc_dict[doc_no] if word not in string.punctuation]
+        #doc_dict[doc_no] = [lemmatizer.lemmatize(word) for word in doc_dict[doc_no]]
+        #doc_dict[doc_no] = [stemmer.stem(word) for word in doc_dict[doc_no]]
+        #doc_dict[doc_no] = tokenize_doc(doc['content'], stop_words)
+        #print(doc_dict[doc_no])
     # Doc_Terms = list(set(Documents_terms))
     Doc_Terms = []
     for term in Documents_terms:
@@ -338,7 +362,7 @@ def Create_Scalar_Clustering(results, Query_String ):
     for q in Query:
         indices_query.append(Doc_Terms.index(q))
     # indices_query
-
+    my_dict = {}
     for i in indices_query:
         max_cos = 0
         max_index = 0
@@ -349,14 +373,37 @@ def Create_Scalar_Clustering(results, Query_String ):
             if np.isnan(cos):
                 continue
 
-            # print(cos)
+            #print(cos,Doc_Terms[j],j)
+            my_dict[Doc_Terms[j]]=cos
             if cos > max_cos:
                 max_cos = cos
                 max_index = j
-        # print(max_cos)
+           
         #Query.append(Doc_Terms[max_index]+" "+Doc_Terms[max_index-1]+" "+Doc_Terms[max_index-2])
-        Query.append(Doc_Terms[max_index])
+    #print(docs)    
         # print("similar term for",Doc_Terms[i], "is:",  Doc_Terms[max_index])
+    sorted_keys = sorted(my_dict, key=my_dict.get, reverse=True)
+    # Print the sorted keys
+    print("Keys sorted in descending order of values:")
+    i=1
+    sorted_keys_remove=[]
+    Query_String = Query_String.lower()
+    words = Query_String.split(' ')
+    for key in sorted_keys:
+        #print(str(key) + '  ' + str(my_dict[key]))
+        if(key.lower() not in words):
+            sorted_keys_remove.append(key.lower())
+        if(i==30):
+            break
+        i=i+1
+    j=1    
+    #for key in sorted_keys_remove:
+        #print(key)
+    #print(len(words))
+    # for i in range(0,len(words)):
+    #     Query.append(sorted_keys_remove[i])
+    for i in range(2,6):
+        Query.append(sorted_keys_remove[i])  
     return " ".join(Query)
                 
 
