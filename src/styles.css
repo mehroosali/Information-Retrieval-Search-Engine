@@ -265,7 +265,7 @@ iframe#bing {
 }
 
 .react-tabs__tab-list {
-  border-bottom: 1px solid #aaa;
+  border-bottom: 1px solid black;
   margin: 0 0 10px;
   padding: 0;
 }

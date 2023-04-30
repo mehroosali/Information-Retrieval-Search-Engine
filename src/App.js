@@ -4,7 +4,6 @@ import axios from "axios";
 import "./styles.css";
 import ClipLoader from "react-spinners/ClipLoader";
 import { Tab, Tabs, TabList, TabPanel } from "react-tabs";
-import "react-tabs/style/react-tabs.css";
 
 const api_url = "http://localhost:5000/api";
 
