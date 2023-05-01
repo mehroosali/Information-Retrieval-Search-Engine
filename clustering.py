@@ -99,15 +99,20 @@ class Clustering:
         not_imp_urls = []
         for res in results:
             url = res['url']
+            new_res = res
+            
             if url in self.url_clusterNum_flat:
                 cluster_num = int(self.url_clusterNum_flat[url])
             else:
-                not_imp_urls.append(res)
-        
+                new_res['cluster_num'] = -1
+                not_imp_urls.append(new_res)
+                continue
+
+            new_res['cluster_num'] = cluster_num 
             if cluster_num in values:
-                values[cluster_num].append(res)
+                values[cluster_num].append(new_res)
             else:
-                values[cluster_num] = [res]
+                values[cluster_num] = [new_res]
         
         new_results = []
         for cluster_num in sorted_clusters:
@@ -129,16 +134,19 @@ class Clustering:
         values = {}
         not_imp_urls = []
         for res in results:
+            new_res = res
             if res['url'] in self.url_clusterNum_average:
                 cluster_num = int(self.url_clusterNum_average[res['url']])
             else:
-                not_imp_urls.append(res)
+                new_res['cluster_num'] = -1
+                not_imp_urls.append(new_res)
                 continue
-
+            
+            new_res['cluster_num'] = cluster_num
             if cluster_num in values:
-                values[cluster_num].append(res)
+                values[cluster_num].append(new_res)
             else:
-                values[cluster_num] = [res]
+                values[cluster_num] = [new_res]
         
         new_results = []
 
@@ -164,16 +172,19 @@ class Clustering:
         values = {}
         not_imp_urls = []
         for res in results:
+            new_res = res
             if res['url'] in self.url_clusterNum_single:
                 cluster_num = int(self.url_clusterNum_single[res['url']])
             else:
-                not_imp_urls.append(res)
+                new_res['cluster_num'] = -1
+                not_imp_urls.append(new_res)
                 continue
-
+            
+            new_res['cluster_num'] = cluster_num
             if cluster_num in values:
-                values[cluster_num].append(res)
+                values[cluster_num].append(new_res)
             else:
-                values[cluster_num] = [res]
+                values[cluster_num] = [new_res]
         
         new_results = []
         for cluster_num in sorted_clusters:
