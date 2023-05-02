@@ -1,12 +1,9 @@
 import json
 
-page_rank_dict = {}
-rm_scores = {}
-authority_scores = {}
-hubs_scores = {}
-new_scores = {}
-
 def generate_modified_pr_scores():
+    rm_scores = {}
+    page_rank_dict = {}
+    new_scores = {}
     with open('results/page_rank_scores.txt', 'r') as file:
         for line in file:
             line_arr = line.split('\t')
@@ -27,12 +24,20 @@ def generate_modified_pr_scores():
         else: 
             new_scores[url] = score*pr_score
 
+    # max_score = max(new_scores.values())
+
+    # for key in new_scores:
+    #     new_scores[key] /= max_score 
+
     print('Writing new PR scores..')    
     with open('results/pr_modified_scores.txt', 'w') as convert_file:
         convert_file.write(json.dumps(new_scores))    
 
 def generate_hits_score():
-
+    rm_scores = {}
+    new_scores = {}
+    authority_scores = {}
+    hubs_scores = {}
     with open('results/rm_scores.txt', 'r') as file:
         rm_scores = json.load(file)
 
@@ -50,33 +55,42 @@ def generate_hits_score():
             new_scores[url] = auth_score + hubs_score
         else: 
             new_scores[url] = score * (auth_score + hubs_score)
-        
-    print(len(new_scores))
+
+
+    # max_score = max(new_scores.values())
+    # print(max_score)
+    # for key, value in new_scores.items():
+    #     scientific_x = '{:.2e}'.format(value)
+    #     e_position = scientific_x.index('e')
+
+    #     exponent = int(scientific_x[e_position+1:])
+    #     value1 = 10 ** exponent
+    #     new_scores[key] = new_scores[key] * 10**(value1-2)
 
     print('Writing new HITS scores..')    
     with open('results/hits_scores.txt', 'w') as convert_file:
         convert_file.write(json.dumps(new_scores))
 
 
-def generate_vs_rm_scores_from_solr():
-    with open('results/solr_data.json', encoding="utf8") as f:
-        print("Loading Json file ....")
-        data = json.load(f)
-        print("Loaded successfully!")
-        documents = data['response']['docs']
-        print(f"Length of the documents: {len(documents)}")
+# def generate_vs_rm_scores_from_solr():
+#     with open('results/solr_data.json', encoding="utf8") as f:
+#         print("Loading Json file ....")
+#         data = json.load(f)
+#         print("Loaded successfully!")
+#         documents = data['response']['docs']
+#         print(f"Length of the documents: {len(documents)}")
         
-        for record in documents:
-            if 'url' in record:
-                url = record['url']
-                score = record.get('boost', 0)
-                rm_scores[url] = score
+#         for record in documents:
+#             if 'url' in record:
+#                 url = record['url']
+#                 score = record.get('boost', 0)
+#                 rm_scores[url] = score
                 
-    with open('results/rm_scores.txt', 'w') as convert_file:
-        convert_file.write(json.dumps(rm_scores))
-    print(len(rm_scores))
+#     with open('results/rm_scores.txt', 'w') as convert_file:
+#         convert_file.write(json.dumps(rm_scores))
+#     print(len(rm_scores))
 
 if __name__ == "__main__":
-    generate_vs_rm_scores_from_solr()
+    #generate_vs_rm_scores_from_solr()
     generate_modified_pr_scores()
     generate_hits_score()

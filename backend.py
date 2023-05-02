@@ -7,6 +7,16 @@ from urllib.parse import urlparse
 import QE
 import random
 
+import nltk
+from nltk.corpus import stopwords
+import string
+stop_words = set(stopwords.words("english"))
+
+def query_preprocess(query):
+    words = nltk.word_tokenize(query)
+    preprocess_words = [word.lower() for word in words if word.lower() not in stop_words and word not in string.punctuation]
+    return ' '.join(preprocess_words)
+
 app = Flask(__name__)
 app.config["DEBUG"] = True
 CORS(app)
@@ -24,13 +34,14 @@ def main():
 
     if 'query' in request.args:
         query = (request.args['query']).lower()
+        preprocess_query = query_preprocess(query)
         if(query[0] == "\""):
-            solr_query = 'text:' + query
+            solr_query = 'text:' + preprocess_query
         else:
-            solr_query = "text:" + "\"" + query + "\""
+            solr_query = "text:" + "\"" + preprocess_query + "\""
 
     solr_results = get_results_from_solr(solr_query)
-    
+
 
     rm =  request.args['rm'] if 'rm' in request.args else ''
     co =  request.args['co'] if 'co' in request.args else ''
@@ -42,7 +53,7 @@ def main():
         solr_results = get_clustering_result(query, co, solr_results)
     if(len(qe) != 0):
         new_query, solr_results = get_query_expansion_result(query, qe, solr_results)
-    
+
     results = {}
     results['query'] = query if len(qe) == 0 else new_query
     results['query_results'] = solr_results
@@ -62,9 +73,27 @@ def randomize_result(results):
 
     return new_results
 
+def get_filter_query(results):
+    new_results = []
+    elements = {}
+    looked_urls = set()
+    for res in results:
+        if res['url'] != '' and res['url'] not in looked_urls:
+            domain = get_domain(res['url'])
+            if domain in elements and elements[domain] < 4:
+                new_results.append(res)
+                elements[domain] += 1
+            elif domain not in elements:
+                elements[domain] = 1
+                new_results.append(res)
+            looked_urls.add(res['url'])
+
+    return new_results
+
 def get_results_from_solr(query):
-    num_rows = 50
+    num_rows = 200
     curr_count = 0
+    # print("Query: ",query)
     while curr_count < 50:
         solr_response = solr.search(query, search_handler="/select", **{
             "wt": "json",
@@ -75,36 +104,58 @@ def get_results_from_solr(query):
         if num_rows > 10000:
             return randomize_result(solr_results)
         if len(solr_results) < 50:
-            return randomize_result(solr_results)
+            queries = (query.split(":")[1]).split()
+            and_search_query = ""
+            or_search_query = ""
+            for new_query in queries[:-1]:
+                if new_query[0] == '\"':
+                    new_query = "".join(list(new_query)[1:])
 
-        elements = {}
-        new_results = []
-        for res in solr_results:
-            if res['url'] != '':
-                domain = get_domain(res['url'])
-                if domain in elements and elements[domain] < 4:
-                    new_results.append(res)
-                    elements[domain] += 1
-                elif domain not in elements:
-                    elements[domain] = 1
-                    new_results.append(res)
-        curr_count = len(new_results)
-        #print(f"Curr Count: {curr_count}")
+                if new_query[-1] == '\"':
+                    new_query = "".join(list(new_query)[:-1])
 
-        if curr_count >= 50:
-            return randomize_result(new_results[:50])
-        
+                and_search_query += "text:" + new_query + " AND "
+                or_search_query += "text:" + new_query + " OR "
+
+            new_query = queries[-1]
+            if new_query[-1] == '\"':
+                new_query = "".join(list(new_query[:-1]))
+
+            and_search_query += "text:" + new_query
+            or_search_query += "text:" + new_query
+            # print(f"AND Search Query: {and_search_query}")
+            # print(f"OR Search Query: {or_search_query}")
+
+            solr_response = solr.search(and_search_query, search_handler="/select", **{
+                "wt": "json",
+                "rows": num_rows
+            })
+            solr_results = [result for result in solr_response]
+            # print(f"Result length of AND: {len(solr_results)}")
+            solr_response = solr.search(or_search_query, search_handler="/select", **{
+                "wt": "json",
+                "rows": num_rows
+            })
+            temp = [result for result in solr_response]
+            # print(f"Result length of OR: {len(temp)}")
+            solr_results.extend(temp)
+            filter_result = get_filter_query(solr_results)
+            # print(f"Final results size: {len(filter_result)}")
+            return filter_result
+
+        solr_results = get_filter_query(solr_results)
+
+        curr_count = len(solr_results)
+        # print(f"Curr Count: {curr_count}")
         num_rows *= 2
-
-    
     return randomize_result(solr_results)
 
 def get_relevance_model_results(rm, solr_results):
     rm = rm.replace('"', '')
     if rm == "page_rank":
-        return get_page_rank_results(solr_results)
+        return solr_results
     else:
-        return get_hits_rank_results(solr_results)
+        return get_page_rank_results(solr_results)
 
 def get_page_rank_results(solr_results):
     page_rank_dict = {}
@@ -131,16 +182,16 @@ def get_clustering_result(query, clustering_type, solr_results):
         return cluster.hierarchical_clustering_single(query, solr_results)
     else:
         return cluster.hierarchical_clustering_average(query, solr_results)
-    
+
 def get_query_expansion_result(query, query_expansion_type, solr_results):
     query = query.replace('"', '')
     query_expansion_type = query_expansion_type.replace('"', '')
     expanded_query=""
     if query_expansion_type == "association":
         expanded_query = QE.association_main(query, solr_results)
-    elif query_expansion_type == "metric": 
+    elif query_expansion_type == "metric":
         expanded_query = QE.metric_cluster_main(query, solr_results)
-    elif query_expansion_type == "scalar": 
+    elif query_expansion_type == "scalar":
         expanded_query = QE.scalar_main(query, solr_results)
     expanded_query = " ".join(expanded_query.split())
     # Remove duplicates
@@ -161,7 +212,7 @@ def get_query_expansion_result(query, query_expansion_type, solr_results):
     exp_quer_result = exp_quer_result.replace('"', '')
     exp_quer_result = '"'+exp_quer_result+'"'
     results_from_solr = get_results_from_solr('text:'+exp_quer_result)
-    
+
     return expanded_query, results_from_solr
-    
+
 app.run()
