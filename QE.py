@@ -1,4 +1,3 @@
-
 import re
 import collections
 import heapq
@@ -88,7 +87,7 @@ def build_association(id_token_map, vocab, query):
     for i, voc in enumerate(vocab):
         for word in query.split(' '):
             c1, c2, c3 = 0, 0, 0
-            for doc_id, tokens_this_doc in id_token_map.items():
+            for doc_id,tokens_this_doc in id_token_map.items():
                 #print(doc_id)
                 count0 = tokens_this_doc.count(voc)
                 count1 = tokens_this_doc.count(word)
@@ -104,7 +103,7 @@ def build_association(id_token_map, vocab, query):
     return association_list
 
     
-def association_main(query, solr_results):
+def association_main(query, solr_results,start,end):
     stop_words = set(stopwords.words('english'))
     #query = 'blueberry milkshake'
     #solr = pysolr.Solr('http://ec2-54-152-69-118.compute-1.amazonaws.com:8983/solr/nutch', always_commit=True, timeout=10)
@@ -120,12 +119,14 @@ def association_main(query, solr_results):
         #print(result['digest'])
         tokens.append(tokens_this_document)
 
-    vocab = set([token for tokens_this_doc in tokens for token in tokens_this_doc])
+    #vocab = set([token for tokens_this_doc in tokens for token in tokens_this_doc])
+    vocab = set(make_stem_map_1(tokens))
     #print(vocab)
-
+    #print(vocab)
+    #print(make_stem_map(tokens))
     #print('Vocab len ', len(vocab))
     #print('Tokens Map len ', len(tokens_map))
-    #print(tokens_map)
+    #print()
     association_list = build_association(tokens_map, vocab, query)
     if(len(query.split(' '))==2):
         association_list = sorted(association_list, key = lambda x: (x[1], x[2]),reverse=True)
@@ -134,13 +135,28 @@ def association_main(query, solr_results):
         association_list.sort(key = lambda x: x[2],reverse=True)
         k=2
     
-    #print(association_list[:100])
-    i=2
-    while(i<6):
+    print(association_list[:100])
+    i=start
+    while(i<end):
         query += ' '+str(association_list[i][0])
         i +=1
     #print(query)
     return query
+
+def make_stem_map_1(tokens):
+    porter_stemmer = PorterStemmer()
+    stem_map = {}
+    stem_array = []
+    for tokens_this_document in tokens:
+        for token in tokens_this_document:
+            stem = porter_stemmer.stem(token)
+            if stem not in stem_map:
+                stem_map[stem] = set()
+            stem_map[stem].add(token)
+    
+    for key in list(stem_map.keys()):
+         stem_array.append(key)
+    return stem_array
 
 def make_stem_map(tokens):
     porter_stemmer = PorterStemmer()
@@ -241,7 +257,7 @@ def get_metric_clusters(tokens_map, stem_map, query):
 
     # print(normalized_matrix.shape())
     #print(tokens_map)
-    return print_top_n(normalized_matrix, stems, query, tokens_map, stem_map, top_n=10)
+    return print_top_n(normalized_matrix, stems, query, tokens_map, stem_map, top_n=3)
     # pass
 
 
@@ -280,9 +296,9 @@ def metric_cluster_main(query, solr_results=[]):
     metric_clusters2 = [elem for cluster in metric_clusters for elem in cluster]
     metric_clusters2.sort(key=lambda x:x.value,reverse=True)
     #print(metric_clusters2[:20])
-    i=2;
+    i=0;
     #1
-    while(i<5):
+    while(i<3):
         query += ' '+ str(metric_clusters2[i].v)
         i+=1
     #print(query)  

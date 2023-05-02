@@ -50,9 +50,9 @@ def main():
     if(len(rm) != 0):
         solr_results = get_relevance_model_results(rm, solr_results)
     if(len(co) != 0):
-        solr_results = get_clustering_result(query, co, solr_results)
+        solr_results = get_clustering_result(preprocess_query, co, solr_results)
     if(len(qe) != 0):
-        new_query, solr_results = get_query_expansion_result(query, qe, solr_results)
+        new_query, solr_results = get_query_expansion_result(preprocess_query, qe, solr_results)
 
     results = {}
     results['query'] = query if len(qe) == 0 else new_query
@@ -141,7 +141,7 @@ def get_results_from_solr(query):
             solr_results.extend(temp)
             filter_result = get_filter_query(solr_results)
             # print(f"Final results size: {len(filter_result)}")
-            return filter_result
+            #return filter_result
 
         solr_results = get_filter_query(solr_results)
 
@@ -188,10 +188,10 @@ def get_query_expansion_result(query, query_expansion_type, solr_results):
     query_expansion_type = query_expansion_type.replace('"', '')
     expanded_query=""
     if query_expansion_type == "association":
-        expanded_query = QE.association_main(query, solr_results)
-    elif query_expansion_type == "metric":
-        expanded_query = QE.metric_cluster_main(query, solr_results)
-    elif query_expansion_type == "scalar":
+        expanded_query = QE.association_main(query, solr_results,6,10)
+    elif query_expansion_type == "metric": 
+        expanded_query = QE.association_main(query, solr_results,10,14)
+    elif query_expansion_type == "scalar": 
         expanded_query = QE.scalar_main(query, solr_results)
     expanded_query = " ".join(expanded_query.split())
     # Remove duplicates
@@ -212,7 +212,7 @@ def get_query_expansion_result(query, query_expansion_type, solr_results):
     exp_quer_result = exp_quer_result.replace('"', '')
     exp_quer_result = '"'+exp_quer_result+'"'
     results_from_solr = get_results_from_solr('text:'+exp_quer_result)
-
+    
     return expanded_query, results_from_solr
 
 app.run()
