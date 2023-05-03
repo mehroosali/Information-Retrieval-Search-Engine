@@ -174,15 +174,18 @@ def get_relevance_model_results(rm, solr_results):
 def get_page_rank_results(solr_results):
     page_rank_dict = {}
 
-    with open('results/pr_modified_scores.txt', 'r') as file:
-            page_rank_dict = json.load(file)
+    with open('results/page_rank_scores.txt', 'r') as file:
+        for line in file:
+            line_arr = line.split('\t')
+            url, score = line_arr[0], float(line_arr[1].strip())
+            page_rank_dict[url] = score
 
     return sorted(solr_results, key=lambda x: page_rank_dict.get(x['url'], 0), reverse=True)
 
 def get_hits_rank_results(solr_results):
     hits_rank_dict = {}
 
-    with open('results/hits_scores.txt', 'r') as file:
+    with open('results/authorities_scores.txt', 'r') as file:
         hits_rank_dict = json.load(file)
 
     return sorted(solr_results, key=lambda x: hits_rank_dict.get(x['url'], 0), reverse=True)
