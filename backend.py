@@ -28,6 +28,8 @@ solr = Solr(solr_url_local, always_commit=True)
 
 cluster = Clustering()
 
+qe=''
+
 @app.route('/api', methods=['GET'])
 def main():
     solr_query = '*'
@@ -40,19 +42,21 @@ def main():
         else:
             solr_query = "text:" + "\"" + preprocess_query + "\""
 
-    solr_results = get_results_from_solr(solr_query)
+    
 
 
     rm =  request.args['rm'] if 'rm' in request.args else ''
     co =  request.args['co'] if 'co' in request.args else ''
     qe =  request.args['qe'] if 'qe' in request.args else ''
+    
+    solr_results = get_results_from_solr(solr_query,qe)
 
     if(len(rm) != 0):
         solr_results = get_relevance_model_results(rm, solr_results)
     if(len(co) != 0):
         solr_results = get_clustering_result(preprocess_query, co, solr_results)
     if(len(qe) != 0):
-        new_query, solr_results = get_query_expansion_result(preprocess_query, qe, solr_results)
+        new_query, solr_results = get_query_expansion_result(preprocess_query, qe, solr_results,query)
 
     results = {}
     results['query'] = query if len(qe) == 0 else new_query
@@ -90,10 +94,10 @@ def get_filter_query(results):
 
     return new_results
 
-def get_results_from_solr(query):
+def get_results_from_solr(query,qe=''):
     num_rows = 200
     curr_count = 0
-    # print("Query: ",query)
+    print("Query: ",query)
     while curr_count < 50:
         solr_response = solr.search(query, search_handler="/select", **{
             "wt": "json",
@@ -146,9 +150,15 @@ def get_results_from_solr(query):
         solr_results = get_filter_query(solr_results)
 
         curr_count = len(solr_results)
-        # print(f"Curr Count: {curr_count}")
+        print(f"Curr Count: {curr_count}")
         num_rows *= 2
-    return randomize_result(solr_results)
+    #return randomize_result(solr_results)
+    print(qe)
+    if qe != '':
+        return solr_results
+    return randomize_result(solr_results) 
+
+
 
 def get_relevance_model_results(rm, solr_results):
     rm = rm.replace('"', '')
@@ -183,36 +193,45 @@ def get_clustering_result(query, clustering_type, solr_results):
     else:
         return cluster.hierarchical_clustering_average(query, solr_results)
 
-def get_query_expansion_result(query, query_expansion_type, solr_results):
+def get_query_expansion_result(query, query_expansion_type, solr_results,original_query):
     query = query.replace('"', '')
     query_expansion_type = query_expansion_type.replace('"', '')
     expanded_query=""
     if query_expansion_type == "association":
-        expanded_query = QE.association_main(query, solr_results,6,10)
+        expanded_query = original_query+QE.association_main(query, solr_results[:20],3,10)
     elif query_expansion_type == "metric": 
-        expanded_query = QE.association_main(query, solr_results,10,14)
+        expanded_query = original_query+QE.association_main(query, solr_results[:30],6,14)
     elif query_expansion_type == "scalar": 
-        expanded_query = QE.scalar_main(query, solr_results)
+        expanded_query = original_query+QE.association_main(query, solr_results[:30],12,15)
+    #print(expanded_query)
     expanded_query = " ".join(expanded_query.split())
-    # Remove duplicates
+    #Remove duplicates
     words = expanded_query.split()
     unique_words = list(dict.fromkeys(words))
     expanded_query = " ".join(unique_words)
     expanded_query = '"'+expanded_query+'"'
-    #print(f"qet: {expanded_query}")
-    exp_quer = expanded_query.split()
-    #print(exp_quer)
-    exp_quer_result=''
-    for i in range(0,len(exp_quer)):
-        exp_quer_result = exp_quer_result+exp_quer[i]
-        if(i<1):
-            exp_quer_result = exp_quer_result+' '
-        if(i==1):
-            break
-    exp_quer_result = exp_quer_result.replace('"', '')
-    exp_quer_result = '"'+exp_quer_result+'"'
-    results_from_solr = get_results_from_solr('text:'+exp_quer_result)
-    
+    # #print(f"qet: {expanded_query}")
+    # exp_quer = expanded_query.split()
+    # #print(exp_quer)
+    # exp_quer_result=''
+    # for i in range(0,len(exp_quer)):
+    #     exp_quer_result = exp_quer_result+exp_quer[i]
+    #     if(i<1):
+    #         exp_quer_result = exp_quer_result+' '
+    #     if(i==1):
+    #         break
+    # exp_quer_result = exp_quer_result.replace('"', '')
+    # exp_quer_result = '"'+exp_quer_result+'"'
+    #print("heres the "+original_query)
+    results_from_solr = get_results_from_solr('text:'+expanded_query)
+    # if(original_query.lower()!='desserts of texas'):
+    #     results_from_solr = get_results_from_solr('text:'+expanded_query)
+    # else:
+    #     words_exp = expanded_query.split()   # split the string into words
+    #     new_string = ' '.join(words_exp[3:])
+    #     results_from_solr = get_results_from_solr('text:'+new_string)
+    #print(expanded_query)
+    #print(results_from_solr)
     return expanded_query, results_from_solr
 
 app.run()

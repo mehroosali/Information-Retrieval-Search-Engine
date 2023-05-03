@@ -5,6 +5,8 @@ import string
 import sklearn
 import nltk
 from nltk.stem import WordNetLemmatizer, SnowballStemmer
+import nltk
+from nltk.corpus import stopwords
 
 
 import numpy as np
@@ -114,7 +116,10 @@ def association_main(query, solr_results,start,end):
     # tokens_map = collections.OrderedDict()
     document_ids = []
     for result in results:
-        tokens_this_document = tokenize_doc(result['content'], stop_words)
+        if 'content' in result:
+            tokens_this_document = tokenize_doc(result['content'], stop_words)
+        else:
+            tokens_this_document = tokenize_doc('', stop_words)
         tokens_map[result['digest']] = tokens_this_document
         #print(result['digest'])
         tokens.append(tokens_this_document)
@@ -128,14 +133,41 @@ def association_main(query, solr_results,start,end):
     #print('Tokens Map len ', len(tokens_map))
     #print()
     association_list = build_association(tokens_map, vocab, query)
-    if(len(query.split(' '))==2):
-        association_list = sorted(association_list, key = lambda x: (x[1], x[2]),reverse=True)
-        k=2
-    if(len(query.split(' '))==1):
-        association_list.sort(key = lambda x: x[2],reverse=True)
-        k=2
+    # if(len(query.split(' '))==2):
+    #     association_list = sorted(association_list, key = lambda x: (x[1], x[2]),reverse=True)
+    #     k=2
+    # if(len(query.split(' '))==1):
+    association_list.sort(key = lambda x: x[2],reverse=True)
+       
     
-    print(association_list[:100])
+    #print(association_list[:100])
+    #query=''
+    porter_stemmer = PorterStemmer()
+    association_words = []
+    for items in association_list:
+        association_words.append(items[0])
+    association_word_stems = [porter_stemmer.stem(word) for word in association_words]
+    association_word_stems = list(set(association_word_stems))
+    i = 0
+    
+    query_stems = [porter_stemmer.stem(word) for word in query.split(' ')]
+    query_stems = list(set(query_stems))
+    k=0
+    #print(query)
+    p_query = query
+    query_return=''
+    for i in range(start,len(association_words)):
+        if(('\xa0' in association_words[i]) or ('quot' in association_words[i]) or ('gt' in association_words[i]) or ('alt' in association_words[i])):
+            continue
+        if association_words[i] not in query and porter_stemmer.stem(association_words[i]) not in query_stems and association_words[i].lower() not in stop_words and association_words[i] not in string.punctuation:
+            #print(association_words[i])
+            query += ' '+ association_words[i]
+            query_return += ' '+ association_words[i]
+            k=k+1
+            if(k==3):
+                break
+    #print(p_query+' '+query_return)
+    return query_return
     i=start
     while(i<end):
         query += ' '+str(association_list[i][0])
@@ -296,7 +328,7 @@ def metric_cluster_main(query, solr_results=[]):
     metric_clusters2 = [elem for cluster in metric_clusters for elem in cluster]
     metric_clusters2.sort(key=lambda x:x.value,reverse=True)
     #print(metric_clusters2[:20])
-    i=0;
+    i=0
     #1
     while(i<3):
         query += ' '+ str(metric_clusters2[i].v)
