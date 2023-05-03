@@ -6,6 +6,8 @@ from clustering import Clustering
 from urllib.parse import urlparse
 import QE
 import random
+import time
+
 
 import nltk
 from nltk.corpus import stopwords
@@ -48,6 +50,8 @@ def main():
     rm =  request.args['rm'] if 'rm' in request.args else ''
     co =  request.args['co'] if 'co' in request.args else ''
     qe =  request.args['qe'] if 'qe' in request.args else ''
+
+    
     
     solr_results = get_results_from_solr(solr_query,qe)
 
@@ -198,8 +202,9 @@ def get_query_expansion_result(query, query_expansion_type, solr_results,origina
     query_expansion_type = query_expansion_type.replace('"', '')
     expanded_query=""
     if query_expansion_type == "association":
-        expanded_query = original_query+QE.association_main(query, solr_results[:20],3,10)
+        expanded_query = original_query+QE.association_main(query, solr_results[:30],3,10)
     elif query_expansion_type == "metric": 
+        time.sleep(5)
         expanded_query = original_query+QE.association_main(query, solr_results[:30],6,14)
     elif query_expansion_type == "scalar": 
         expanded_query = original_query+QE.association_main(query, solr_results[:30],12,15)

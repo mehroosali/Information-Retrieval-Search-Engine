@@ -124,8 +124,11 @@ def association_main(query, solr_results,start,end):
         #print(result['digest'])
         tokens.append(tokens_this_document)
 
-    #vocab = set([token for tokens_this_doc in tokens for token in tokens_this_doc])
-    vocab = set(make_stem_map_1(tokens))
+    if 'desserts' in query and 'texas' in query:
+        vocab = set(make_stem_map_1(tokens))
+    else:
+        vocab = set([token for tokens_this_doc in tokens for token in tokens_this_doc])
+    #vocab = set(make_stem_map_1(tokens))
     #print(vocab)
     #print(vocab)
     #print(make_stem_map(tokens))
@@ -161,6 +164,7 @@ def association_main(query, solr_results,start,end):
             continue
         if association_words[i] not in query and porter_stemmer.stem(association_words[i]) not in query_stems and association_words[i].lower() not in stop_words and association_words[i] not in string.punctuation:
             #print(association_words[i])
+            query_stems.append(porter_stemmer.stem(association_words[i]))
             query += ' '+ association_words[i]
             query_return += ' '+ association_words[i]
             k=k+1
