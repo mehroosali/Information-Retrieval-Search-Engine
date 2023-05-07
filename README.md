@@ -1,16 +1,8 @@
 # Information Retrieval: Sweets Search Engine
 
-## Pending Tasks
-- [ ] Task 5 (Query Expansion) code implementation and testing.
-- [ ] Complete front end to backend integration and testing. 
-- [ ] Complete final UI design.
-- [ ] Fix method get_page_rank_results or get_hits_rank_results to get different results in page rank vs hits.  
-- [ ] Complete Project Report (All tasks).
-- [ ] Final integration testing with pre selected queries for demo.
+## Presentation
+Project_Presentation.pptx
 
-## Project Drive
- https://drive.google.com/drive/folders/16sr1Bx4XxMW5sMc1wH3C-0Pim_O97-P4?usp=sharing
- 
 ## Prerequisites
 
 - [NodeJS](https://nodejs.org/)
@@ -49,7 +41,7 @@ API Params:
 |---|---|---|
 | query | e.g. "Chocolate Cake"  | This is the query string coming from front end UI which is used to query Solr to retrieve documents | 
 | rm  | "page_rank" or "hits"  |  This is the selected relevance model option selected in the front end UI|  
-| co  | "flat" or "agglomerative"  | This is the selected clustering option selected in the front end UI  |  
+| co  | "flat" or "single"  or "average" | This is the selected clustering option selected in the front end UI  |  
 | qe  | "association" or "metric" or "scalar" | This is the selected query expansion option selected in the front end UI   |  
 
 

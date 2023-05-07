@@ -1,0 +1,115 @@
+Apache Nutch and Solr Setup on Ubuntu
+https://cwiki.apache.org/confluence/display/nutch/NutchTutorial#NutchTutorial-Option1:SetupNutchfromabinarydistribution
+
+sudo apt-get update
+
+sudo apt-get install openjdk-8-jdk
+
+java -version
+
+vim ~/.bashrc
+export JAVA_HOME=$(readlink -f /usr/bin/java | sed "s:bin/java::") 
+export APACHE_SOLR_HOME=/home/ubuntu/solr-7.3.1
+export NUTCH_RUNTIME_HOME=/home/ubuntu/apache-nutch-1.15
+source ~/.bashrc
+
+echo $JAVA_HOME
+
+vim /etc/hosts
+
+wget https://archive.apache.org/dist/nutch/1.15/apache-nutch-1.15-bin.tar.gz
+
+tar -xvf apache-nutch-1.15-bin.tar.gz
+
+${NUTCH_RUNTIME_HOME}/bin/nutch
+
+vi ${NUTCH_RUNTIME_HOME}/conf/nutch-site.xml
+
+<!-- HTTP properties -->
+
+<property>
+  <name>http.agent.name</name>
+  <value>Nutch</value>
+</property>
+
+<!-- plugin properties -->
+
+<property>
+  <name>plugin.includes</name>
+  <value>protocol-http|urlfilter-(regex|validator)|parse-(html|tika)|index-(basic|anchor)|indexer-solr|scoring-opic|urlnormalizer-(pass|regex|basic)</value>
+</property>
+
+mkdir -p ${NUTCH_RUNTIME_HOME}/urls
+
+touch ${NUTCH_RUNTIME_HOME}/urls/seed.txt 
+
+vi ${NUTCH_RUNTIME_HOME}/urls/seed.txt
+
+wget https://archive.apache.org/dist/lucene/solr/7.3.1/solr-7.3.1.tgz
+
+tar -xvf solr-7.3.1.tgz
+
+mkdir -p ${APACHE_SOLR_HOME}/server/solr/configsets/nutch/
+
+cp -r ${APACHE_SOLR_HOME}/server/solr/configsets/_default/* ${APACHE_SOLR_HOME}/server/solr/configsets/nutch/
+
+rm ${APACHE_SOLR_HOME}/server/solr/configsets/nutch/conf/managed-schema
+
+wget https://raw.githubusercontent.com/apache/nutch/master/src/plugin/indexer-solr/schema.xml
+
+cp schema.xml ${APACHE_SOLR_HOME}/server/solr/configsets/nutch/conf/
+
+${APACHE_SOLR_HOME}/bin/solr start
+
+${APACHE_SOLR_HOME}/bin/solr create -c nutch -d ${APACHE_SOLR_HOME}/server/solr/configsets/nutch/conf/
+
+Commands
+
+${NUTCH_RUNTIME_HOME}/bin/crawl -i -D solr.server.url=http://localhost:8983/solr/nutch -s ${NUTCH_RUNTIME_HOME}/urls ${NUTCH_RUNTIME_HOME}/crawl 10
+
+
+bin/nutch inject crawl/crawldb urls
+bin/nutch generate crawl/crawldb crawl/segments
+s1=`ls -d crawl/segments/2* | tail -1`
+bin/nutch fetch $s1
+bin/nutch parse $s1
+bin/nutch updatedb crawl/crawldb $s1
+bin/nutch invertlinks crawl/linkdb -dir crawl/segments
+bin/nutch index crawl/crawldb/ -linkdb crawl/linkdb -dir crawl/segments/ -filter -normalize -deleteGone
+
+https://cwiki.apache.org/confluence/display/NUTCH/NewScoring#NewScoring-LinkRank#
+https://cwiki.apache.org/confluence/display/NUTCH/NewScoringIndexingExample
+
+bin/nutch webgraph -filter -normalize -segmentDir crawl/segments/ -webgraphdb crawl/
+
+bin/nutch loops -webgraphdb crawl/
+
+bin/nutch linkrank -webgraphdb crawl/
+
+bin/nutch scoreupdater -crawldb crawl/crawldb -webgraphdb crawl/
+
+bin/nutch nodedumper -scores -topn 1000 -webgraphdb crawl/ -output crawl/dump/scores
+
+cat crawl/webgraphdb/dump/scores/part-00000
+
+bin/nutch readdb crawl/crawldb/ -stats
+
+bin/nutch readlinkdb crawl/linkdb -dump inlinkDb
+
+http://ec2-54-88-115-191.compute-1.amazonaws.com:8983/solr/#/
+
+nohup ${NUTCH_RUNTIME_HOME}/bin/crawl -i -D solr.server.url=http://localhost:8983/solr/nutch -s ${NUTCH_RUNTIME_HOME}/urls ${NUTCH_RUNTIME_HOME}/crawl 3 &
+
+
+<property>
+  <name>http.robot.rules.whitelist</name>
+  <value>en.wikipedia.org</value>
+  <description>Comma separated list of hostnames or IP addresses to ignore robot rules parsing for.
+  </description>
+</property>
+
+
+https://stackoverflow.com/questions/43566076/nutch-1-x-what-is-the-difference-between-webgraph-and-readlinkdb-commands
+
+
+curl "http://localhost:8983/solr/nutch/select?q=*:*&wt=json&indent=true&rows=2000000000"  > solr_data.json
